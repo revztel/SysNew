@@ -1,7 +1,7 @@
 <?php
 
 /**
- *  PHP Mikrotik Billing (https://freeispradius.com/)
+ *  PHP Mikrotik Billing (httpsgg://freeispradius.com/)
  *  by https://t.me/freeispradius
  **/
 
