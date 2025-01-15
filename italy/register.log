@@ -1,0 +1,44 @@
+[2025-01-06 13:05:22] Received user_input: pegggter@gmail.com
+[2025-01-06 13:05:22] Created new user: pegggter@gmail.com
+[2025-01-06 13:05:22] Constructed webhook URL: http://localhost/radius/italy/italy_webhook.php
+[2025-01-06 13:06:59] Webhook call success. Response: 
+[2025-01-06 13:16:30] Received user_input: orange@gmail.com
+[2025-01-06 13:16:30] Created new user: orange@gmail.com
+[2025-01-06 13:16:30] Constructed webhook URL: http://localhost/radius/italy/italy_webhook.php
+[2025-01-06 13:16:34] Triggered webhook in background (not waiting).
+[2025-01-07 11:43:09] Received user_input: 254796381603
+[2025-01-07 11:43:09] User already exists: 254796381603
+[2025-01-07 11:43:09] Constructed webhook URL: http://localhost/radius/italy/italy_webhook.php
+[2025-01-07 11:43:13] Triggered webhook in background (not waiting).
+[2025-01-07 11:58:17] Received user_input: peter@gmail.com
+[2025-01-07 11:58:17] User already exists: peter@gmail.com
+[2025-01-07 11:58:17] Constructed webhook URL: http://localhost/radius/italy/italy_webhook.php
+[2025-01-07 11:58:21] Triggered webhook in background (not waiting).
+[2025-01-07 12:04:40] Received user_input: 254796381603, full_name: Francis magomere
+[2025-01-07 12:04:40] User already exists: 254796381603
+[2025-01-07 12:04:40] Constructed webhook URL: http://localhost/radius/italy/italy_webhook.php
+[2025-01-07 12:04:44] Triggered webhook in background (not waiting).
+[2025-01-07 12:09:57] Received user_input: 254796381603, full_name: Francis magomere
+[2025-01-07 12:09:57] Created new user: 254796381603
+[2025-01-07 12:09:57] Constructed webhook URL: http://localhost/radius/italy/italy_webhook.php
+[2025-01-07 12:10:01] Triggered webhook in background (not waiting).
+[2025-01-07 14:27:53] Received user_input: peter11@gmail.com, full_name: Francis magomere
+[2025-01-07 14:27:53] Created new user: peter11@gmail.com
+[2025-01-07 14:27:53] Constructed webhook URL: http://localhost/radius/italy/italy_webhook.php
+[2025-01-07 14:27:57] Triggered webhook in background (not waiting).
+[2025-01-07 14:28:24] Received user_input: magomere2019@gmail.com, full_name: Francis magomere
+[2025-01-07 14:28:24] Created new user: magomere2019@gmail.com
+[2025-01-07 14:28:24] Constructed webhook URL: http://localhost/radius/italy/italy_webhook.php
+[2025-01-07 14:28:28] Triggered webhook in background (not waiting).
+[2025-01-07 14:32:57] Received user_input: magomere2019@gmail.com, full_name: Francis magomere
+[2025-01-07 14:32:57] User already exists: magomere2019@gmail.com
+[2025-01-07 14:32:57] Constructed webhook URL: http://localhost/radius/italy/italy_webhook.php
+[2025-01-07 14:33:01] Triggered webhook in background (not waiting).
+[2025-01-07 14:50:14] Received user_input: magomere2019@gmail.com, full_name: Francis magomere
+[2025-01-07 14:50:14] User already exists: magomere2019@gmail.com
+[2025-01-07 14:50:14] Constructed webhook URL: http://localhost/radius/italy/italy_webhook.php
+[2025-01-07 14:50:18] Triggered webhook in background (not waiting).
+[2025-01-10 20:44:00] Received user_input: magomerefrancis61@gmail.com, full_name: Francis magomere
+[2025-01-10 20:44:00] Created new user: magomerefrancis61@gmail.com
+[2025-01-10 20:44:00] Constructed webhook URL: http://localhost/radius/italy/italy_webhook.php
+[2025-01-10 20:44:04] Triggered webhook in background (not waiting).

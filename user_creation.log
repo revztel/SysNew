@@ -1,0 +1,19 @@
+[2024-07-24 21:03:50] Received data: Array
+(
+    [amount] => 50
+    [buyer_name] => FRANCIS MAGOMERE
+    [buyer_email] => magomerefrancis61@gmail.com
+    [buyer_phone] => 0796381603
+)
+
+[2024-08-10 17:49:06] Received data: Array
+(
+    [amount] => 1000
+    [plan_id] => 1
+    [router_id] => 1
+    [buyer_name] => FRANCIS MAGOMERE
+    [buyer_email] => magomerefrancis61@gmail.com
+    [buyer_phone] => 0796381603
+)
+
+[2024-08-10 17:49:07] User created successfully: 0796381603

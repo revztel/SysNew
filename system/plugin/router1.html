@@ -1,0 +1,391 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1.0">
+ <title>Allinonecomradessolutions Hotspot Template - Index</title>
+ <script src="https://cdn.tailwindcss.com"></script>
+ <script src="https://cdnjs.cloudflare.com/ajax/libs/limonte-sweetalert2/11.0.18/sweetalert2.all.min.js"></script>
+ <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+ <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/glider-js@1.7.7/glider.min.css" />
+ <script src="https://cdn.jsdelivr.net/npm/glider-js@1.7.7/glider.min.js"></script>
+ <link rel="preconnect" href="https://cdn.jsdelivr.net">
+ <link rel="preconnect" href="https://cdnjs.cloudflare.com" crossorigin>
+ <link rel="stylesheet" type="text/css" href="styles.css">
+<style>
+    .call-icon {
+        font-size: 3rem;
+        color: #25D366;
+        border-radius: 40%;
+        padding: 15px;
+        transition: transform 0.3s ease;
+    }
+    .call-icon:hover {
+        transform: scale(1.1);
+    }
+</style>
+</head>
+<body class="font-sans antialiased text-gray-900">
+    <header class="bg-teal-900 text-white fixed w-full z-10">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-5">
+            <div class="flex items-center justify-between h-16">
+                <div class="flex items-center">
+                    <img src="logo.png" alt="Your Company Logo" class="h-8 w-8 mr-2">
+                    <h1 class="text-xl font-bold">Allinonecomradessolutions</h1>
+                </div>
+                <div class="block">
+                    <div class="ml-10 flex items-baseline space-x-4">
+                        <a href="#alreadyHavePackage" class="text-teal-200 hover:text-white px-3 py-2 rounded-md text-sm font-medium">Already Paid? Click Here.</a>
+                        <span class="text-teal-200">0113475429</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+    <main class="pt-24">
+        <section class="bg-white">
+            <div class="max-w-7xl mx-auto py-12 px-4 sm:px-6 lg:px-8">
+                <h2 class="text-3xl font-extrabold text-gray-900 mb-6">We Provide Fast,Cheap and Reliable Wifi Connection Near You. Get connected today</h2>
+                <div class="mt-10">
+                    <div class="text-center">
+                        <h3 class="text-2xl leading-8 font-extrabold tracking-tight text-gray-900 sm:text-3xl sm:leading-9">CHECK OUR PRICING</h3>
+                        <p class="mt-4 max-w-2xl text-xl leading-7 text-gray-500 lg:mx-auto">Choose the plan that fits your needs.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+<div class="mt-10 max-w-7xl mx-auto grid grid-cols-2 sm:grid-cols-2 md:grid-cols-2 lg:grid-cols-4 gap-5">
+<div class="flex flex-col rounded-lg shadow-xl overflow-hidden transform transition duration-500 hover:scale-105 package" data-amount="10" data-plan-id="29" data-router-id="1" data-mac-address="$(mac)">
+    <div class="px-4 py-5 bg-gradient-to-tr from-green-50 to-green-200 text-center">
+        <span class="inline-flex px-3 py-1 rounded-full text-xs font-semibold tracking-wide uppercase bg-green-800 text-green-50">6 HRS</span>
+        <div class="mt-4 text-4xl leading-none font-extrabold text-green-800">
+            <span class="text-lg font-medium text-green-600">ksh</span>10
+        </div>
+        <p class="mt-2 text-md leading-5 text-green-700 text-center">6 Hrs Unlimited</p>
+    </div>
+    <div class="px-4 pt-4 pb-6 bg-green-500 text-center">
+        <a href="#" class="inline-block text-green-800 bg-green-50 hover:bg-green-100 focus:outline-none focus:ring-4 focus:ring-green-500 focus:ring-opacity-50 transform transition duration-150 ease-in-out rounded-lg font-semibold px-3 py-2 text-xs shadow-lg cursor-pointer">Click Here To Connect</a>
+    </div>
+</div>
+</div>
+<div id="alreadyHavePackage" class="container mx-auto px-4">
+    <div class="max-w-md mx-auto bg-white rounded-lg overflow-hidden md:max-w-lg">
+        <div class="md:flex">
+            <div class="w-full p-5">
+                <div class="text-center">
+                    <h3 class="text-2xl text-gray-900">Already Have an Active Package?</h3>
+                </div>
+                <form id="loginForm" class="form" name="login" action="$(link-login-only)" method="post" $(if chap-id)onSubmit="return doLogin()"$(endif)>
+                    <input type="hidden" name="dst" value="$(link-orig)" />
+                    <input type="hidden" name="popup" value="true" />
+                    <div class="mb-4">
+                        <label class="block text-gray-700 text-sm font-bold mb-2" for="username">Username</label>
+                        <input id="usernameInput" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" name="username" type="text" value="" placeholder="Username">
+                    </div>
+                    <div class="mb-6">
+                        <label class="block text-gray-700 text-sm font-bold mb-2" for="password">Password</label>
+                        <input id="passwordInput" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 mb-3 leading-tight focus:outline-none focus:shadow-outline" name="password" type="password" placeholder="******************">
+                    </div>
+                    <div class="flex items-center justify-between">
+                        <button id="submitBtn" class="bg-teal-500 hover:bg-teal-700 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline" type="button">Click Here To Connect</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="mt-10 text-center">
+    <a href="http://localhost/radius/index.php?_route=login" class="bg-teal-500 hover:bg-teal-700 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline">Have a voucher code? Click here</a>
+</div>
+<!-- Mpesa Code Section -->
+<div id="mpesaCodeSection" class="container mx-auto px-4 mt-8">
+    <div class="max-w-md mx-auto bg-white rounded-lg overflow-hidden md:max-w-lg">
+        <div class="md:flex">
+            <div class="w-full p-5">
+                <div class="text-center">
+                    <h3 class="text-2xl text-gray-900">Enter Your Mpesa Message</h3>
+                </div>
+                <form id="mpesaCodeForm">
+                    <div class="mb-4">
+                        <label class="block text-gray-700 text-sm font-bold mb-2" for="mpesa_code">Mpesa Message</label>
+                        <textarea id="mpesaCodeInput" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" name="mpesa_code" rows="4" placeholder="Enter your full Mpesa message"></textarea>
+                    </div>
+                    <div class="flex items-center justify-between">
+                        <button id="mpesaCodeSubmitBtn" class="bg-teal-500 hover:bg-teal-700 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline" type="button">Submit Mpesa Message</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Payment Modal -->
+<div id="payment-modal" class="hidden fixed inset-0 bg-gray-900 bg-opacity-75 flex items-center justify-center">
+    <div class="bg-white rounded-lg p-6 w-full max-w-md">
+        <h2 class="text-2xl font-semibold mb-4">Pay with Xendit</h2>
+        <form id="payment-form" class="space-y-4">
+            <input type="hidden" id="amount" name="amount">
+            <input type="hidden" id="plan-id" name="plan_id">
+            <input type="hidden" id="router-id" name="router_id">
+            <input type="hidden" id="mac-address" name="mac_address">
+            <div>
+                <label for="buyer_phone" class="block text-gray-700 font-medium mb-2">Enter your Phone Number</label>
+                <input type="text" id="buyer_phone" name="buyer_phone" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" required>
+            </div>
+            <div>
+                <label for="buyer_email" class="block text-gray-700 font-medium mb-2">Enter your Email</label>
+                <input type="email" id="buyer_email" name="buyer_email" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" required value="gonet@gmail.com">
+            </div>
+            <div class="flex items-center justify-between">
+                <button type="submit" class="bg-[#4F01B9] hover:bg-blue-700 text-white font-semibold py-2 px-4 rounded focus:outline-none focus:shadow-outline rounded-full">Proceed to Payment</button>
+                <button type="button" id="cancel-button" class="bg-gray-600 hover:bg-gray-500 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline rounded-full">Cancel</button>
+            </div>
+        </form>
+    </div>
+</div>
+<div class="mt-10 mx-auto px-4 sm:px-6 lg:px-8">
+    <h3 class="text-center text-2xl leading-8 font-extrabold tracking-tight text-gray-900 sm:text-3xl sm:leading-9">What Our Users Say</h3>
+    <div class="glider-contain mt-6">
+        <div class="glider">
+            <div class="bg-white rounded-lg shadow-md overflow-hidden">
+                <img class="w-full h-48 object-cover object-center" src="assets/img/testimonials/testimonials-3.jpg" alt="Testimonial from Otieno Peter">
+                <div class="p-4">
+                    <div class="uppercase tracking-wide text-sm text-indigo-500 font-semibold">Otieno Peter</div>
+                    <p class="mt-2 text-gray-500">"Switching to this service has been a game changer for me. The connection is reliable and fast, making my online work seamless and efficient."</p>
+                </div>
+            </div>
+            <div class="bg-white rounded-lg shadow-md overflow-hidden">
+                <img class="w-full h-48 object-cover object-center" src="assets/img/testimonials/testimonials-2.jpg" alt="Testimonial from Kiveu">
+                <div class="p-4">
+                    <div class="uppercase tracking-wide text-sm text-indigo-500 font-semibold">Kiveu</div>
+                    <p class="mt-2 text-gray-500">"I've experienced unparalleled support and service. The team goes above and beyond to ensure customer satisfaction. Highly recommend!"</p>
+                </div>
+            </div>
+            <div class="bg-white rounded-lg shadow-md overflow-hidden">
+                <img class="w-full h-48 object-cover object-center" src="assets/img/testimonials/testimonials-1.jpg" alt="Testimonial from Anonymous User">
+                <div class="p-4">
+                    <div class="uppercase tracking-wide text-sm text-indigo-500 font-semibold">Anonymous User</div>
+                    <p class="mt-2 text-gray-500">"Their commitment to quality and speed is evident. My internet experience has been fantastic ever since I made the switch."</p>
+                </div>
+            </div>
+        </div>
+        <button aria-label="Previous" class="glider-prev">«</button>
+        <button aria-label="Next" class="glider-next">»</button>
+        <div role="tablist" class="dots"></div>
+    </div>
+</div>
+<script>
+new Glider(document.querySelector('.glider'), {slidesToShow:1,slidesToScroll:1,draggable:true,dots:'.dots',arrows:{prev:'.glider-prev',next:'.glider-next'},responsive:[{breakpoint:775,settings:{slidesToShow:2,slidesToScroll:2,}},{breakpoint:1024,settings:{slidesToShow:3,slidesToScroll:3,}}]});
+</script>
+<div class="mt-10 mx-auto px-4 sm:px-6 lg:px-8">
+    <div class="text-center">
+        <h3 class="text-2xl leading-8 font-extrabold tracking-tight text-gray-900 sm:text-3xl sm:leading-9">FREQUENTLY ASKED QUESTIONS Will Be Here</h3>
+        <p class="mt-4 max-w-2xl text-xl leading-7 text-gray-500 lg:mx-auto">Everything you need to know before getting started.</p>
+    </div>
+    <div class="mt-6">
+        <dl class="space-y-6">
+            <div class="bg-white rounded-lg shadow-md">
+                <dt class="p-4 cursor-pointer text-lg leading-6 font-medium text-gray-900" onclick="toggleFAQ('faq1')">dfhg</dt>
+                <dd id="faq1" class="p-4 hidden text-base text-gray-500">fghgfghf</dd>
+            </div>
+            <div class="bg-white rounded-lg shadow-md">
+                <dt class="p-4 cursor-pointer text-lg leading-6 font-medium text-gray-900" onclick="toggleFAQ('faq2')">fghg</dt>
+                <dd id="faq2" class="p-4 hidden text-base text-gray-500">gjgh</dd>
+            </div>
+            <div class="bg-white rounded-lg shadow-md">
+                <dt class="p-4 cursor-pointer text-lg leading-6 font-medium text-gray-900" onclick="toggleFAQ('faq3')">fghgfhfghdfg</dt>
+                <dd id="faq3" class="p-4 hidden text-base text-gray-500">dhgfdhfg</dd>
+            </div>
+        </dl>
+    </div>
+</div>
+<script>
+function toggleFAQ(faqId) {
+    var element = document.getElementById(faqId);
+    if (element.style.display === "block") {
+        element.style.display = "none";
+    } else {
+        element.style.display = "block";
+    }
+}
+</script>
+<form id="loginForm" class="form" name="login" action="$(link-login-only)" method="post" $(if chap-id)onSubmit="return doLogin()"$(endif)>
+    <input type="hidden" name="dst" value="$(link-orig)" />
+    <input type="hidden" name="popup" value="true" />
+    <input type="hidden" name="mac" value="$(mac)" />
+</form>
+<div id="macAddressContainer" class="mt-4">
+    <p>Your MAC Address: <span id="macAddressDisplay"></span></p>
+</div>
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    var macAddressInput = document.querySelector('input[name="mac"]');
+    var macAddressDisplay = document.getElementById('macAddressDisplay');
+    if (macAddressInput && macAddressDisplay) {
+        var macAddress = macAddressInput.value;
+        macAddressDisplay.textContent = macAddress;
+    }
+});
+</script>
+</section>
+</main>
+<footer class="bg-teal-900 text-white">
+    <div class="max-w-7xl mx-auto px-4 py-12 sm:px-6 lg:px-8">
+        <div class="lg:grid lg:grid-cols-3 lg:gap-8">
+            <div class="lg:col-span-1">
+                <h2 class="text-sm font-semibold uppercase tracking-wider">Contact Us</h2>
+                <ul class="mt-4 space-y-4">
+                    <li><span class="block">Address</span></li>
+                    <li><span class="block">Email: contact@All In One Comrade Solutions</span></li>
+                    <li><span class="block">Phone: 0113475429</span></li>
+                </ul>
+            </div>
+            <div class="lg:col-span-1">
+                <h2 class="text-sm font-semibold uppercase tracking-wider">Quick Links</h2>
+                <ul class="mt-4 space-y-4">
+                    <li><a href="#" class="hover:underline">About Us</a></li>
+                    <li><a href="#" class="hover:underline">Our Services</a></li>
+                    <li><a href="#" class="hover:underline">FAQ</a></li>
+                    <li><a href="#" class="hover:underline">Support</a></li>
+                </ul>
+            </div>
+            <div class="lg:col-span-1">
+                <h2 class="text-sm font-semibold uppercase tracking-wider">Follow Us</h2>
+                <div class="mt-4 space-x-4">
+                    <a href="#" class="hover:text-gray-400"><i class="fab fa-facebook-f"></i></a>
+                    <a href="#" class="hover:text-gray-400"><i class="fab fa-twitter"></i></a>
+                    <a href="#" class="hover:text-gray-400"><i class="fab fa-instagram"></i></a>
+                    <a href="#" class="hover:text-gray-400"><i class="fab fa-linkedin-in"></i></a>
+                </div>
+            </div>
+        </div>
+        <div class="mt-8 border-t border-gray-700 pt-8 md:flex md:items-center md:justify-between">
+            <div class="flex space-x-6 md:order-2">
+                <a href="#" class="text-gray-400 hover:text-gray-300"><span class="sr-only">Facebook</span><i class="fab fa-facebook-f"></i></a>
+                <a href="#" class="text-gray-400 hover:text-gray-300"><span class="sr-only">Instagram</span><i class="fab fa-instagram"></i></a>
+                <a href="#" class="text-gray-400 hover:text-gray-300"><span class="sr-only">Twitter</span><i class="fab fa-twitter"></i></a>
+                <a href="#" class="text-gray-400 hover:text-gray-300"><span class="sr-only">LinkedIn</span><i class="fab fa-linkedin-in"></i></a>
+            </div>
+            <p class="mt-8 text-base leading-6 text-gray-400 md:mt-0 md:order-1">&copy; 2024 FreeIspRadius. All rights reserved.</p>
+        </div>
+    </div>
+<div class="fixed bottom-4 right-4">
+    <a href="tel:0113475429" class="call-icon">
+        <i class="fas fa-phone"></i>
+    </a>
+</div>
+</footer>
+<!-- Include SweetAlert2 and jQuery -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    // Handle clicking a package
+    document.querySelectorAll('.package').forEach(pkg => {
+        pkg.addEventListener('click', function() {
+            const amount = this.dataset.amount;
+            const planId = this.dataset.planId;
+            const routerId = this.dataset.routerId;
+            const macAddress = this.dataset.macAddress;
+            console.log("Selected Plan:", { amount, planId, routerId, macAddress });
+            document.getElementById('amount').value = amount;
+            document.getElementById('plan-id').value = planId;
+            document.getElementById('router-id').value = routerId;
+            document.getElementById('mac-address').value = macAddress;
+            document.getElementById('payment-modal').classList.remove('hidden');
+        });
+    });
+    document.getElementById('cancel-button').addEventListener('click', function() {
+        document.getElementById('payment-modal').classList.add('hidden');
+    });
+    document.getElementById('payment-form').addEventListener('submit', function(e) {
+        e.preventDefault();
+        console.log("Payment form submitted");
+        const formData = new FormData(this);
+        const data = Object.fromEntries(formData);
+        console.log("Form Data: ", data);
+        if (!data.buyer_email) {
+            data.buyer_email = 'gonet@gmail.com';
+        }
+        Swal.fire({
+            title: 'Creating User',
+            text: 'Please wait...',
+            icon: 'info',
+            showConfirmButton: false,
+            allowOutsideClick: false,
+            allowEscapeKey: false,
+            didOpen: () => { Swal.showLoading(); }
+        });
+        fetch('xendit_user.php', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify(data)
+        })
+        .then(res => res.json())
+        .then(userData => {
+            console.log("User Creation Response: ", userData);
+            Swal.close();
+            if (userData.error) {
+                Swal.fire('Error', userData.error, 'error');
+                return;
+            }
+            Swal.fire({
+                title: 'Creating Payment Invoice',
+                text: 'Contacting Xendit, please wait...',
+                icon: 'info',
+                showConfirmButton: false,
+                allowOutsideClick: false,
+                allowEscapeKey: false,
+                didOpen: () => { Swal.showLoading(); }
+            });
+            const paymentData = {
+                phone_number: data.buyer_phone,
+                plan_id: data.plan_id,
+                router_id: data.router_id,
+                mac_address: data.mac_address
+            };
+            fetch('xendit_payment.php', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify(paymentData)
+            })
+            .then(res => res.json())
+            .then(paymentResp => {
+                console.log("Payment Response:", paymentResp);
+                Swal.close();
+                if (paymentResp.status === 'success') {
+                    Swal.fire({
+                        title: 'Invoice Created',
+                        text: 'Your invoice is ready. Click "Open Invoice" to proceed.',
+                        icon: 'success',
+                        showCancelButton: true,
+                        confirmButtonText: 'Open Invoice',
+                        cancelButtonText: 'Close'
+                    }).then((result) => {
+                        if (result.isConfirmed && paymentResp.invoice_url) {
+                            window.open(paymentResp.invoice_url, '_blank');
+                        }
+                    });
+                    document.getElementById('payment-modal').classList.add('hidden');
+                } else {
+                    Swal.fire('Error', paymentResp.message || 'Failed to create invoice', 'error');
+                }
+            })
+            .catch(err => {
+                Swal.close();
+                console.error("Payment creation error:", err);
+                Swal.fire('Error', 'An error occurred while creating payment invoice. Check console for details.', 'error');
+            });
+        })
+        .catch(err => {
+            Swal.close();
+            console.error("User creation error:", err);
+            Swal.fire('Error', 'An error occurred while creating user. Check console for details.', 'error');
+        });
+    });
+    document.getElementById('submitBtn').addEventListener('click', function() {
+        console.log('Login form submit button clicked');
+    });
+});
+</script>
+</body>
+</html>

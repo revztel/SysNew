@@ -1,0 +1,92 @@
+[2024-10-02 02:30:53] Phone number entered: 254796381603
+[2024-10-02 02:30:54] Stored new phone number: 254796381603
+[2024-10-02 02:30:54] Generated OTP: 72920
+[2024-10-02 02:30:57] SMS response: {"status":"success","message":"Your message was successfully delivered","data":{"uid":"66fc86364dc53","to":"254796381603","from":"TOPSPEED","message":"Your OTP is: 72920","status":"Delivered","cost":"1"}}
+[2024-10-02 02:30:59] WhatsApp response: {"success":true,"message":"message saved","metadata":{"to":"254796381603","msg":"Your OTP is: 72920","secret":"9ce41efa34caca533c86cedb62f1f4b5"},"result":{"type":"paid","queue_id":"d72c4aa65008bc6892c607fd893d2797"}}
+[2024-10-02 02:31:27] Entered OTP: 72920
+[2024-10-02 02:31:27] OTP verification successful.
+[2024-10-02 02:33:42] Phone number entered: 0796381603
+[2024-10-02 02:33:42] Entered phone number does not match stored number.
+[2024-10-02 02:33:57] Phone number entered: 254796381603
+[2024-10-02 02:33:57] Generated OTP: 18787
+[2024-10-02 02:34:00] SMS response: {"status":"success","message":"Your message was successfully delivered","data":{"uid":"66fc86ecdf363","to":"254796381603","from":"TOPSPEED","message":"Your OTP is: 18787","status":"Delivered","cost":"1"}}
+[2024-10-02 02:34:01] WhatsApp response: {"success":true,"message":"message saved","metadata":{"to":"254796381603","msg":"Your OTP is: 18787","secret":"9ce41efa34caca533c86cedb62f1f4b5"},"result":{"type":"paid","queue_id":"ab203ffa1a998efbacb59c0a0f59e103"}}
+[2024-10-02 02:34:20] Entered OTP: 225552
+[2024-10-02 02:34:20] OTP verification failed.
+[2024-10-02 02:34:26] Entered OTP: 45578521
+[2024-10-02 02:34:26] OTP verification failed.
+[2024-10-02 02:34:31] Entered OTP: 41541514212
+[2024-10-02 02:34:31] OTP verification failed.
+[2024-10-02 02:34:48] Entered OTP: 18787
+[2024-10-02 02:34:48] OTP verification successful.
+[2024-10-02 02:35:07] Phone number entered: 254796381603
+[2024-10-02 02:35:07] Generated OTP: 71601
+[2024-10-02 02:35:09] SMS response: {"status":"success","message":"Your message was successfully delivered","data":{"uid":"66fc87328e194","to":"254796381603","from":"TOPSPEED","message":"Your OTP is: 71601","status":"Delivered","cost":"1"}}
+[2024-10-02 02:35:11] WhatsApp response: {"success":true,"message":"message saved","metadata":{"to":"254796381603","msg":"Your OTP is: 71601","secret":"9ce41efa34caca533c86cedb62f1f4b5"},"result":{"type":"paid","queue_id":"5d769bfee981a997910f427f9a9b0dd2"}}
+[2024-10-02 03:02:46] Phone number entered: +254796381603
+[2024-10-02 03:02:46] Invalid phone number format.
+[2024-10-02 03:02:55] Phone number entered: 0702242476
+[2024-10-02 03:02:55] Entered phone number does not match stored number.
+[2024-10-02 03:03:07] Phone number entered: 254796381603
+[2024-10-02 03:03:07] Generated OTP: 87179
+[2024-10-02 03:03:12] SMS response: {"status":"success","message":"Your message was successfully delivered","data":{"uid":"66fc8dc10a9bf","to":"254796381603","from":"TOPSPEED","message":"Your OTP is: 87179","status":"Delivered","cost":"1"}}
+[2024-10-02 03:03:14] WhatsApp response: {"success":true,"message":"message saved","metadata":{"to":"254796381603","msg":"Your OTP is: 87179","secret":"9ce41efa34caca533c86cedb62f1f4b5"},"result":{"type":"paid","queue_id":"c9d59955097b3415eb87a5d9e8d55edf"}}
+[2024-10-02 03:03:33] Entered OTP: 87179
+[2024-10-02 03:03:33] OTP verification successful.
+[2024-10-02 03:09:03] Phone number entered: 254796381603
+[2024-10-02 03:09:03] Generated OTP: 80826
+[2024-10-02 03:09:05] SMS response: {"status":"success","message":"Your message was successfully delivered","data":{"uid":"66fc8f23dadd1","to":"254796381603","from":"TOPSPEED","message":"FREEISPRADIUS :80826 is your security code. Valid for 5 minutes.","status":"Delivered","cost":"1"}}
+[2024-10-02 03:09:07] WhatsApp response: {"success":true,"message":"message saved","metadata":{"to":"254796381603","msg":"FREEISPRADIUS :80826 is your security code. Valid for 5 minutes.","secret":"9ce41efa34caca533c86cedb62f1f4b5"},"result":{"type":"paid","queue_id":"872dad8e002ea93bcf8e80501ab9d63d"}}
+[2024-10-02 03:09:07] Phone number entered: 254796381603
+[2024-10-02 03:09:07] Generated OTP: 43877
+[2024-10-02 03:09:09] SMS response: {"status":"success","message":"Your message was successfully delivered","data":{"uid":"66fc8f27ccc2b","to":"254796381603","from":"TOPSPEED","message":"FREEISPRADIUS :43877 is your security code. Valid for 5 minutes.","status":"Delivered","cost":"1"}}
+[2024-10-02 03:09:11] WhatsApp response: {"success":true,"message":"message saved","metadata":{"to":"254796381603","msg":"FREEISPRADIUS :43877 is your security code. Valid for 5 minutes.","secret":"9ce41efa34caca533c86cedb62f1f4b5"},"result":{"type":"paid","queue_id":"5ad42ae311468762d79041d58629ef2f"}}
+[2024-10-02 03:09:55] Entered OTP: 808226
+[2024-10-02 03:09:55] OTP verification failed.
+[2024-10-02 03:10:07] Entered OTP: 80826
+[2024-10-02 03:10:07] OTP verification failed.
+[2024-10-02 03:10:20] Entered OTP: 80826
+[2024-10-02 03:10:20] OTP verification failed.
+[2024-10-02 03:10:31] Entered OTP: 43877
+[2024-10-02 03:10:31] OTP verification successful.
+[2024-10-02 03:46:21] Phone number entered: 254796381603
+[2024-10-02 03:46:21] Generated OTP: 62659
+[2024-10-02 03:46:24] SMS response: {"status":"success","message":"Your message was successfully delivered","data":{"uid":"66fc97e2edf7d","to":"254796381603","from":"TOPSPEED","message":"FREEISPRADIUS :62659 is your security code. Valid for 5 minutes.","status":"Delivered","cost":"1"}}
+[2024-10-02 03:46:26] WhatsApp response: {"success":true,"message":"message saved","metadata":{"to":"254796381603","msg":"FREEISPRADIUS :62659 is your security code. Valid for 5 minutes.","secret":"9ce41efa34caca533c86cedb62f1f4b5"},"result":{"type":"paid","queue_id":"6619c9c33a06e271fffbe209ca2e993a"}}
+[2024-10-02 03:46:43] Entered OTP: 62659
+[2024-10-02 03:46:43] OTP verification successful.
+[2024-10-02 04:09:28] Phone number entered: 254768424304
+[2024-10-02 04:09:28] Entered phone number does not match stored number.
+[2024-10-02 04:10:03] Phone number entered: 254768424304
+[2024-10-02 04:10:03] Entered phone number does not match stored number.
+[2024-10-02 04:12:51] Phone number entered: 254768424304
+[2024-10-02 04:12:57] Entered OTP: 54321
+[2024-10-02 04:12:57] Master user OTP verification successful.
+[2024-10-02 04:14:39] Phone number entered: 254796381603
+[2024-10-02 04:14:39] Generated OTP: 44941
+[2024-10-02 04:14:43] SMS response: {"status":"success","message":"Your message was successfully delivered","data":{"uid":"66fc9e8621dd5","to":"254796381603","from":"TOPSPEED","message":"FREEISPRADIUS :44941 is your security code. Valid for 5 minutes.","status":"Delivered","cost":"1"}}
+[2024-10-02 04:14:45] WhatsApp response: {"success":true,"message":"message saved","metadata":{"to":"254796381603","msg":"FREEISPRADIUS :44941 is your security code. Valid for 5 minutes.","secret":"9ce41efa34caca533c86cedb62f1f4b5"},"result":{"type":"paid","queue_id":"84748de3de05f032161fe23227a56856"}}
+[2024-10-02 04:15:08] Entered OTP: 44941
+[2024-10-02 04:15:08] OTP verification successful.
+[2024-10-02 12:44:27] Phone number entered: 0796381603
+[2024-10-02 12:44:27] Invalid phone number format detected before sending OTP.
+[2024-10-02 12:44:36] Phone number entered: 254796381603
+[2024-10-02 12:44:36] Stored new phone number: 254796381603
+[2024-10-02 12:44:36] Generated OTP: 34144
+[2024-10-02 12:44:39] SMS response: {"status":"success","message":"Your message was successfully delivered","data":{"uid":"66fd160ade551","to":"254796381603","from":"TOPSPEED","message":"FREEISPRADIUS :34144 is your security code. Valid for 5 minutes.","status":"Delivered","cost":"1"}}
+[2024-10-02 12:44:40] WhatsApp response: {"success":true,"message":"message saved","metadata":{"to":"254796381603","msg":"FREEISPRADIUS :34144 is your security code. Valid for 5 minutes.","secret":"9ce41efa34caca533c86cedb62f1f4b5"},"result":{"type":"paid","queue_id":"4b337152fc962e5787209d60879ddf77"}}
+[2024-10-02 12:46:22] Phone number entered: 0796381603
+[2024-10-02 12:46:22] Invalid phone number format detected before sending OTP.
+[2024-10-02 12:47:00] Phone number entered: 254796381603
+[2024-10-02 12:47:00] Stored new phone number: 254796381603
+[2024-10-02 12:47:00] Generated OTP: 76236
+[2024-10-02 12:47:03] SMS response: {"status":"success","message":"Your message was successfully delivered","data":{"uid":"66fd169acc3ca","to":"254796381603","from":"TOPSPEED","message":"FREEISPRADIUS :76236 is your security code. Valid for 5 minutes.","status":"Delivered","cost":"1"}}
+[2024-10-02 12:47:04] WhatsApp response: {"success":true,"message":"message saved","metadata":{"to":"254796381603","msg":"FREEISPRADIUS :76236 is your security code. Valid for 5 minutes.","secret":"9ce41efa34caca533c86cedb62f1f4b5"},"result":{"type":"paid","queue_id":"80cc61ade40026ec9fb628849d967505"}}
+[2024-10-02 18:20:57] Entered OTP: 54321
+[2024-10-02 18:20:57] OTP verification failed.
+[2024-10-02 18:21:11] Phone number entered: 254768424304
+[2024-10-02 18:21:15] Entered OTP: 54321
+[2024-10-02 18:21:15] Master user OTP verification successful.
+[2024-10-14 12:21:34] Phone number entered: 254768424304
+[2024-10-14 12:21:35] Entered OTP: 54321
+[2024-10-14 12:21:35] Master user OTP verification successful.

@@ -1,0 +1,440 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Hotel Guest Wi-Fi Registration</title>
+
+  <!-- Tailwind CSS -->
+  <script src="https://cdn.tailwindcss.com"></script>
+
+  <!-- SweetAlert2 -->
+  <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+
+  <!-- Optional custom background style -->
+  <style>
+    .hero-background {
+      background-image: url('https://images.unsplash.com/photo-1600585154340-be6161a56a0c?ixlib=rb-4.0.3&auto=format&fit=crop&w=1740&q=80');
+      background-size: cover;
+      background-position: center;
+    }
+  </style>
+</head>
+<body class="min-h-screen hero-background flex flex-col justify-center items-center">
+
+  <!-- LOGO (Optional) -->
+  <div class="mb-4 flex items-center space-x-2 bg-white p-3 rounded-full shadow-md">
+    <!-- Replace with your actual logo image URL -->
+    <img 
+      src="https://via.placeholder.com/50x50/09f/fff.png?text=Logo" 
+      alt="Logo" 
+      class="w-12 h-12 rounded-full" 
+    />
+    <span class="text-xl font-bold text-gray-700">YourHotel</span>
+  </div>
+
+  <!-- STEP 1: Registration Card (Name + Phone/Email) -->
+  <div 
+    id="registrationCard" 
+    class="bg-white w-full max-w-md mx-auto rounded-lg shadow-lg p-6 mb-8"
+  >
+    <img 
+      src="https://images.unsplash.com/photo-1590490360183-a533f2ab6add?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80" 
+      alt="Airbnb room" 
+      class="w-full h-48 object-cover rounded mb-4"
+    />
+    
+    <h1 class="text-2xl font-bold text-center text-gray-800 mb-3">
+      Welcome Hotel Guest
+    </h1>
+    <p class="text-center text-gray-600 mb-5">
+      Enter your full name and <strong>either</strong> your Phone Number or your 
+      Email to register and connect to our Wi-Fi.
+    </p>
+    
+    <!-- Registration Form -->
+    <form id="registrationForm" class="space-y-4">
+      <!-- Full Name -->
+      <div>
+        <label for="full_name" class="block text-sm font-medium text-gray-700 mb-1">
+          Full Name
+        </label>
+        <input
+          type="text"
+          id="full_name"
+          name="full_name"
+          placeholder="e.g. John Doe"
+          class="w-full border border-gray-300 rounded px-3 py-2 
+                 focus:outline-none focus:ring-2 focus:ring-teal-500"
+          required
+        />
+      </div>
+
+      <!-- Phone OR Email -->
+      <div>
+        <label for="user_input" class="block text-sm font-medium text-gray-700 mb-1">
+          Phone or Email
+        </label>
+        <input
+          type="text"
+          id="user_input"
+          name="user_input"
+          placeholder="e.g. 39123467856 or user@gmail.com"
+          class="w-full border border-gray-300 rounded px-3 py-2
+                 focus:outline-none focus:ring-2 focus:ring-teal-500"
+          required
+        />
+        <small class="block mt-1 text-gray-500">
+          Example phone: 39XXXxxxxx
+        </small>
+      </div>
+
+      <button
+        type="submit"
+        class="w-full bg-orange-600 hover:bg-orange-700 text-white font-bold 
+               py-2 px-4 rounded focus:outline-none"
+      >
+        Register
+      </button>
+    </form>
+
+    <div class="text-center mt-6 text-sm text-gray-500">
+      By clicking "Register", you agree to our
+      <a href="#" class="underline text-blue-600">Terms &amp; Conditions</a>.
+    </div>
+
+    <!-- Social Login Button -->
+    <div class="my-4">
+      <button
+        id="auth0SocialLoginBtn"
+        class="w-full bg-blue-500 hover:bg-blue-600 text-white 
+               font-bold py-2 px-4 rounded focus:outline-none"
+      >
+        Or Sign In with Google, X, Instagram, or Facebook
+      </button>
+    </div>
+  </div>
+
+  <!-- STEP 2: Password Card (Hidden by default) -->
+  <div 
+    id="passwordCard" 
+    class="bg-white w-full max-w-md mx-auto rounded-lg shadow-lg p-6 mb-8"
+    style="display: none;"  <!-- Hide initially -->
+  >
+    <h1 class="text-2xl font-bold text-center text-gray-800 mb-3">
+      Enter Your Password
+    </h1>
+    <p class="text-center text-gray-600 mb-5">
+      A password has been sent to your Phone or Email.<br />
+      Enter it below to connect.
+    </p>
+
+    <!-- Password Form -->
+    <form id="passwordForm" class="space-y-4">
+      <div>
+        <label for="password_input" class="block text-sm font-medium text-gray-700 mb-1">
+          Password
+        </label>
+        <input
+          type="password"
+          id="password_input"
+          name="password_input"
+          placeholder="Enter the password you received"
+          class="w-full border border-gray-300 rounded px-3 py-2 
+                 focus:outline-none focus:ring-2 focus:ring-teal-500"
+          required
+        />
+      </div>
+
+      <button
+        type="submit"
+        class="w-full bg-green-600 hover:bg-green-700 text-white 
+               font-bold py-2 px-4 rounded focus:outline-none"
+      >
+        Connect
+      </button>
+    </form>
+  </div>
+
+  <footer class="text-white mb-4">
+    <p class="text-center text-sm">
+      © 2025 YourHotel. All rights reserved.
+    </p>
+  </footer>
+
+  <!-- Auth0 Lock (for Social Login) -->
+  <script src="https://cdn.auth0.com/js/lock/11.34/lock.min.js"></script>
+
+  <!-- Main Script: Auth0 + Social Login -->
+  <script>
+    // ============================================================
+    // =============== AUTH0 CONFIGURATION & LOGIC ================
+    // ============================================================
+    const AUTH0_CLIENT_ID = "8Hk7PYs6w4xhnrINmLLyQ9ZF8M51wunK";  // Replace with your Client ID
+    const AUTH0_DOMAIN    = "dev-mzw2087wnybcn2d7.us.auth0.com"; // Replace with your Auth0 Domain
+
+    // Create an instance of Auth0Lock for social login
+    const lock = new Auth0Lock(AUTH0_CLIENT_ID, AUTH0_DOMAIN, {
+      allowedConnections: ["google-oauth2", "facebook", "instagram", "twitter"],
+      auth: {
+        redirectUrl: "https://anton.ispledger.com/italy/index.html", // Ensure this is in your Auth0 'Allowed Callback URLs'
+        responseType: "token id_token",
+        params: {
+          scope: "openid profile email"
+        }
+      },
+      theme: {
+        logo: "https://via.placeholder.com/50x50/09f/fff.png?text=Logo",
+        primaryColor: "#FF7D1A"
+      }
+    });
+
+    document.addEventListener('DOMContentLoaded', () => {
+      // Show Auth0 Lock when the social login button is clicked
+      const auth0SocialLoginBtn = document.getElementById('auth0SocialLoginBtn');
+      if (auth0SocialLoginBtn) {
+        auth0SocialLoginBtn.addEventListener('click', () => {
+          lock.show();
+        });
+      }
+
+      // Handle successful authentication
+      lock.on("authenticated", function(authResult) {
+        console.log("Auth0 authResult:", authResult);
+
+        lock.getUserInfo(authResult.accessToken, function(error, profile) {
+          if (error) {
+            console.error("Error getting Auth0 user info:", error);
+            Swal.fire({
+              icon: 'error',
+              title: 'Login Error',
+              text: 'Unable to retrieve Auth0 profile. Please try again.'
+            });
+            return;
+          }
+          console.log("Auth0 user profile:", profile);
+
+          // After social login, redirect to the Mikrotik trial link
+          // which logs the user in automatically
+          window.location.href = "http://192.168.180.1/login?dst=$(link-orig-esc)&username=T-$(mac-esc)";
+        });
+      });
+
+      // Handle Auth0 authorization error
+      lock.on("authorization_error", function(err) {
+        console.error("Authorization Error:", err);
+        Swal.fire({
+          icon: 'error',
+          title: 'Auth0 Login Failed',
+          text: 'Please try again or use another method.'
+        });
+      });
+    });
+  </script>
+
+  <!-- Existing Registration & Password Flow -->
+  <script>
+    // ============================================================
+    // ========== YOUR EXISTING REGISTRATION & PASSWORD FLOW ======
+    // ============================================================
+    document.addEventListener('DOMContentLoaded', () => {
+      const registrationForm = document.getElementById('registrationForm');
+      const passwordForm = document.getElementById('passwordForm');
+  
+      const registrationCard = document.getElementById('registrationCard');
+      const passwordCard = document.getElementById('passwordCard');
+  
+      // We'll store the phone/email in a variable so we know what the user chose
+      let userName = '';
+  
+      // STEP 1: Submit Full Name + Phone/Email
+      registrationForm.addEventListener('submit', async (e) => {
+        e.preventDefault(); // Prevent normal form submission
+  
+        // Show a loading SweetAlert
+        Swal.fire({
+          title: 'Registering...',
+          text: 'Please wait while we set up your account.',
+          allowOutsideClick: false,
+          allowEscapeKey: false,
+          didOpen: () => {
+            Swal.showLoading();
+          }
+        });
+  
+        // Gather the form data
+        const formData = new FormData(registrationForm);
+  
+        // Save the phone/email in our local variable
+        userName = formData.get('user_input');
+  
+        try {
+          // Make the request to your backend (replace 'register_user.php' with your endpoint)
+          const response = await fetch('register_user.php', {
+            method: 'POST',
+            body: formData
+          });
+  
+          // Get the raw text
+          let rawText = await response.text();
+          console.log('Server raw response:', rawText);
+  
+          // Strip out anything before the first '{' to handle potential warnings/notices
+          const firstBraceIndex = rawText.indexOf('{');
+          if (firstBraceIndex !== -1) {
+            rawText = rawText.substring(firstBraceIndex);
+          }
+  
+          let result;
+          try {
+            result = JSON.parse(rawText);
+          } catch (parseError) {
+            console.error('JSON parse error:', parseError);
+            Swal.close();
+            Swal.fire({
+              icon: 'error',
+              title: 'Unable to parse server response',
+              text: 'Check console or try again later.'
+            });
+            return;
+          }
+  
+          Swal.close();
+  
+          if (response.ok) {
+            if (result.success === true) {
+              // Registration success
+              Swal.fire({
+                icon: 'success',
+                title: 'Registration Successful!',
+                text: 'We have sent you a password. Please check your phone or email.',
+                showConfirmButton: true
+              }).then(() => {
+                // Hide the registration card, show the password card
+                registrationCard.style.display = 'none';
+                passwordCard.style.display = 'block';
+              });
+            } else {
+              // Server responded with success: false
+              const errMsg = result.error || 'Something went wrong.';
+              Swal.fire({
+                icon: 'error',
+                title: 'Registration Failed',
+                text: errMsg
+              });
+            }
+          } else {
+            // Non-200 response from server
+            Swal.fire({
+              icon: 'error',
+              title: 'Server Error',
+              text: `HTTP Status: ${response.status} ${response.statusText}`
+            });
+          }
+        } catch (error) {
+          // Network or parse error
+          console.error('Network or parsing error:', error);
+          Swal.fire({
+            icon: 'error',
+            title: 'Unable to contact the server',
+            text: 'Check console for details or try again later.'
+          });
+        }
+      });
+  
+      // STEP 2: Submit the Password
+      passwordForm.addEventListener('submit', async (e) => {
+        e.preventDefault();
+  
+        Swal.fire({
+          title: 'Verifying Password...',
+          text: 'Please wait.',
+          allowOutsideClick: false,
+          allowEscapeKey: false,
+          didOpen: () => {
+            Swal.showLoading();
+          }
+        });
+  
+        // We only have the password from this second form + userName from earlier
+        const password = document.getElementById('password_input').value;
+  
+        // Construct form data
+        const dataToSend = new FormData();
+        dataToSend.append('user_input', userName);
+        dataToSend.append('password_input', password);
+  
+        try {
+          // POST to verify_password.php (or whichever endpoint logs in)
+          const response = await fetch('verify_password.php', {
+            method: 'POST',
+            body: dataToSend
+          });
+  
+          let rawText = await response.text();
+          console.log('Server raw response:', rawText);
+  
+          // Strip out anything before the first '{'
+          const firstBraceIndex = rawText.indexOf('{');
+          if (firstBraceIndex !== -1) {
+            rawText = rawText.substring(firstBraceIndex);
+          }
+  
+          let result;
+          try {
+            result = JSON.parse(rawText);
+          } catch (parseError) {
+            console.error('JSON parse error:', parseError);
+            Swal.close();
+            Swal.fire({
+              icon: 'error',
+              title: 'Unable to parse server response',
+              text: 'Check console or try again later.'
+            });
+            return;
+          }
+  
+          Swal.close();
+  
+          if (response.ok) {
+            if (result.success === true) {
+              // Password correct - let the user log in to Mikrotik (trial approach)
+              Swal.fire({
+                icon: 'success',
+                title: 'Login Successful!',
+                text: 'We are now attempting to log you in...',
+                showConfirmButton: false,
+                timer: 3000,
+                didClose: () => {
+                  // After success, redirect to the trial login link:
+                  window.location.href = 'http://192.168.180.1/login?dst=$(link-orig-esc)&username=T-$(mac-esc)';
+                }
+              });
+            } else {
+              // Wrong password or other error
+              const errMsg = result.error || 'Invalid password.';
+              Swal.fire({
+                icon: 'error',
+                title: 'Verification Failed',
+                text: errMsg
+              });
+            }
+          } else {
+            Swal.fire({
+              icon: 'error',
+              title: 'Server Error',
+              text: `HTTP Status: ${response.status} ${response.statusText}`
+            });
+          }
+        } catch (error) {
+          console.error('Network or parsing error:', error);
+          Swal.fire({
+            icon: 'error',
+            title: 'Unable to contact the server',
+            text: 'Check console for details or try again later.'
+          });
+        }
+      });
+    });
+  </script>
+</body>
+</html>

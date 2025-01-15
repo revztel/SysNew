@@ -1,0 +1,319 @@
+[2024-12-20 17:35:23] Received data: Array
+(
+    [amount] => 1000
+    [plan_id] => 29
+    [router_id] => 1
+    [mac_address] => AA:BB:CC:DD:EE:FF
+    [buyer_phone] => 0751351363
+    [buyer_email] => gonet@gmail.com
+)
+
+[2024-12-20 17:35:23] User created successfully: 0751351363
+[2024-12-20 18:07:35] Received data: Array
+(
+    [amount] => 10
+    [plan_id] => 29
+    [router_id] => 1
+    [mac_address] => $(mac)
+    [buyer_phone] => 0751351363
+    [buyer_email] => gonet@gmail.com
+)
+
+[2024-12-20 18:07:35] User already exists: 0751351363
+[2024-12-20 23:58:10] Received data: Array
+(
+    [amount] => 10
+    [plan_id] => 29
+    [router_id] => 1
+    [mac_address] => $(mac)
+    [buyer_phone] => 0796381603
+    [buyer_email] => ueix@gmail.com
+)
+
+[2024-12-20 23:58:10] User created successfully: 0796381603
+[2024-12-20 23:59:00] Received data: Array
+(
+    [amount] => 10
+    [plan_id] => 29
+    [router_id] => 1
+    [mac_address] => $(mac)
+    [buyer_phone] => 0796381603
+    [buyer_email] => ueix@gmail.com
+)
+
+[2024-12-20 23:59:00] User already exists: 0796381603
+[2024-12-21 00:01:43] Received data: Array
+(
+    [amount] => 10
+    [plan_id] => 29
+    [router_id] => 1
+    [mac_address] => $(mac)
+    [buyer_phone] => 0796381603
+    [buyer_email] => ueix@gmail.com
+)
+
+[2024-12-21 00:01:43] User already exists: 0796381603
+[2024-12-21 00:03:17] Received data: Array
+(
+    [amount] => 10
+    [plan_id] => 29
+    [router_id] => 1
+    [mac_address] => $(mac)
+    [buyer_phone] => 0796381603
+    [buyer_email] => ueix@gmail.com
+)
+
+[2024-12-21 00:03:17] User already exists: 0796381603
+[2024-12-21 00:06:13] Received data: Array
+(
+    [amount] => 10
+    [plan_id] => 29
+    [router_id] => 1
+    [mac_address] => $(mac)
+    [buyer_phone] => 0796381603
+    [buyer_email] => ueix@gmail.com
+)
+
+[2024-12-21 00:06:13] User already exists: 0796381603
+[2024-12-21 00:07:42] Received data: Array
+(
+    [amount] => 10
+    [plan_id] => 29
+    [router_id] => 1
+    [mac_address] => $(mac)
+    [buyer_phone] => 0111777770
+    [buyer_email] => ueix@gmail.com
+)
+
+[2024-12-21 00:07:42] User already exists: 0111777770
+[2024-12-21 00:11:59] Received data: Array
+(
+    [amount] => 150
+    [plan_id] => 29
+    [router_id] => 1
+    [mac_address] => $(mac)
+    [buyer_phone] => 0796381603
+    [buyer_email] => ueix@gmail.com
+)
+
+[2024-12-21 00:11:59] User already exists: 0796381603
+[2024-12-21 00:12:38] Received data: Array
+(
+    [amount] => 150
+    [plan_id] => 29
+    [router_id] => 1
+    [mac_address] => $(mac)
+    [buyer_phone] => 0796381603
+    [buyer_email] => ueix@gmail.com
+)
+
+[2024-12-21 00:12:38] User already exists: 0796381603
+[2024-12-21 00:53:36] Received data: Array
+(
+    [amount] => 150
+    [plan_id] => 29
+    [router_id] => 1
+    [mac_address] => $(mac)
+    [buyer_phone] => 0796381603
+    [buyer_email] => ueix@gmail.com
+)
+
+[2024-12-21 00:53:36] User already exists: 0796381603
+[2024-12-21 00:54:04] Received data: Array
+(
+    [amount] => 150
+    [plan_id] => 29
+    [router_id] => 1
+    [mac_address] => $(mac)
+    [buyer_phone] => 0796381603
+    [buyer_email] => ueix@gmail.com
+)
+
+[2024-12-21 00:54:04] User already exists: 0796381603
+[2024-12-21 00:54:07] Received data: Array
+(
+    [amount] => 150
+    [plan_id] => 29
+    [router_id] => 1
+    [mac_address] => $(mac)
+    [buyer_phone] => 0796381603
+    [buyer_email] => ueix@gmail.com
+)
+
+[2024-12-21 00:54:07] User already exists: 0796381603
+[2024-12-21 00:57:07] Received data: Array
+(
+    [amount] => 150
+    [plan_id] => 29
+    [router_id] => 1
+    [mac_address] => $(mac)
+    [buyer_phone] => 0796381603
+    [buyer_email] => ueix@gmail.com
+)
+
+[2024-12-21 00:57:07] User already exists: 0796381603
+[2024-12-21 00:58:42] Received data: Array
+(
+    [amount] => 150
+    [plan_id] => 29
+    [router_id] => 1
+    [mac_address] => $(mac)
+    [buyer_phone] => 0796381603
+    [buyer_email] => ueix@gmail.com
+)
+
+[2024-12-21 00:58:42] User already exists: 0796381603
+[2024-12-21 00:59:59] Received data: Array
+(
+    [amount] => 150
+    [plan_id] => 29
+    [router_id] => 1
+    [mac_address] => $(mac)
+    [buyer_phone] => 0796381603
+    [buyer_email] => ueix@gmail.com
+)
+
+[2024-12-21 00:59:59] User already exists: 0796381603
+[2024-12-21 01:00:59] Received data: Array
+(
+    [amount] => 150
+    [plan_id] => 29
+    [router_id] => 1
+    [mac_address] => $(mac)
+    [buyer_phone] => 0796381603
+    [buyer_email] => ueix@gmail.com
+)
+
+[2024-12-21 01:00:59] User already exists: 0796381603
+[2024-12-21 09:31:50] Received data: Array
+(
+    [amount] => 150
+    [plan_id] => 29
+    [router_id] => 1
+    [mac_address] => $(mac)
+    [buyer_phone] => 0111777770
+    [buyer_email] => ueix@gmail.com
+)
+
+[2024-12-21 09:31:50] User already exists: 0111777770
+[2024-12-23 15:10:11] Received data: Array
+(
+    [amount] => 150
+    [plan_id] => 29
+    [router_id] => 1
+    [mac_address] => $(mac)
+    [buyer_phone] => 0111777770
+    [buyer_email] => ueix@gmail.com
+)
+
+[2024-12-23 15:10:12] New user created successfully: 0111777770-mac
+[2024-12-23 15:19:49] Received data: Array
+(
+    [amount] => 150
+    [plan_id] => 29
+    [router_id] => 1
+    [mac_address] => $(mac)
+    [buyer_phone] => 0111777770
+    [buyer_email] => ueix@gmail.com
+)
+
+[2024-12-23 15:19:49] User already exists: 0111777770-mac
+[2024-12-23 15:37:10] Received data: Array
+(
+    [amount] => 150
+    [plan_id] => 29
+    [router_id] => 1
+    [mac_address] => $(mac)
+    [buyer_phone] => 0111777770
+    [buyer_email] => ueix@gmail.com
+)
+
+[2024-12-23 15:37:10] User already exists: 0111777770-mac
+[2024-12-29 22:09:46] Received data: Array
+(
+    [amount] => 150
+    [plan_id] => 29
+    [router_id] => 1
+    [mac_address] => $(mac)
+    [buyer_phone] => 0796381603
+    [buyer_email] => ueix@gmail.com
+)
+
+[2024-12-29 22:09:46] New user created successfully: 0796381603-mac
+[2024-12-29 22:15:24] Received data: Array
+(
+    [amount] => 150
+    [plan_id] => 29
+    [router_id] => 1
+    [mac_address] => $(mac)
+    [buyer_phone] => 0963816036
+    [buyer_email] => ueix@gmail.com
+)
+
+[2024-12-29 22:15:24] New user created successfully: 0963816036-mac
+[2024-12-29 22:15:55] Received data: Array
+(
+    [amount] => 150
+    [plan_id] => 29
+    [router_id] => 1
+    [mac_address] => $(mac)
+    [buyer_phone] => 0963816036
+    [buyer_email] => ueix@gmail.com
+)
+
+[2024-12-29 22:15:55] User already exists: 0963816036-mac
+[2024-12-29 22:26:10] Received data: Array
+(
+    [amount] => 150
+    [plan_id] => 29
+    [router_id] => 1
+    [mac_address] => $(mac)
+    [buyer_phone] => 0796381603
+    [buyer_email] => ueix@gmail.com
+)
+
+[2024-12-29 22:26:10] User already exists: 0796381603-mac
+[2024-12-29 22:31:13] Received data: Array
+(
+    [amount] => 150
+    [plan_id] => 29
+    [router_id] => 1
+    [mac_address] => $(mac)
+    [buyer_phone] => 0796381604
+    [buyer_email] => ueix@gmail.com
+)
+
+[2024-12-29 22:31:13] New user created successfully: 63796381604-mac)
+[2024-12-29 22:45:49] Received data: Array
+(
+    [amount] => 150
+    [plan_id] => 29
+    [router_id] => 1
+    [mac_address] => $(mac)
+    [buyer_phone] => 0796381604
+    [buyer_email] => ueix@gmail.com
+)
+
+[2024-12-29 22:45:49] User already exists: 63796381604-mac)
+[2024-12-30 00:14:36] Received data: Array
+(
+    [amount] => 150
+    [plan_id] => 29
+    [router_id] => 1
+    [mac_address] => $(mac)
+    [buyer_phone] => 0796381604
+    [buyer_email] => ueix@gmail.com
+)
+
+[2024-12-30 00:14:36] User already exists: 63796381604-mac)
+[2024-12-31 04:11:56] Received data: Array
+(
+    [amount] => 150
+    [plan_id] => 29
+    [router_id] => 1
+    [mac_address] => $(mac)
+    [buyer_phone] => 0796381603
+    [buyer_email] => ueix@gmail.com
+)
+
+[2024-12-31 04:11:56] New user created successfully: 63796381603-mac)

@@ -1,0 +1,43 @@
+[2024-10-12 15:41:16] Received raw data:  {
+  "id": "58c92d74-6bd5-4005-850e-3529a7007f1b",
+  "createdAt": "2019-08-24T14:15:22Z",
+  "category": "MobileMoney",
+  "status": "Success",
+  "paymentChannel": "Api",
+  "statusCode": "string",
+  "statusMessage": "string",
+  "externalId": "string",
+  "amount": 1000,
+  "payerNote": "string",
+  "payeeNote": "string",
+  "currency": "ITX",
+  "chargeModel": "string",
+  "createdBy": "string",
+  "transactionCharge": 0.1,
+  "vendorCharge": 0.1,
+  "totalTransactionCharge": 0.1,
+  "vendor": "Mock",
+  "vendorTransactionId": "string",
+  "reconciledOn": "2019-08-24T14:15:22Z",
+  "payer": "string",
+  "payerName": "string"
+}
+[2024-10-12 15:41:16] Processing webhook for transaction ID: 58c92d74-6bd5-4005-850e-3529a7007f1b, status: Success
+[2024-10-12 15:41:16] Retrieved plan_id: 1 and router_id: 1 for username: 0111777770
+[2024-10-12 15:41:16] Plan name: hotspot, Plan type: Hotspot, Validity: 5 Mins
+[2024-10-12 15:41:16] Router name: ghfhjfh
+[2024-10-12 15:41:16] Calculated expiry date: 2024-10-12 16:46:16
+[2024-10-12 15:41:16] Deleted existing recharge records for username: 0111777770
+[2024-10-12 15:41:16] Recharge record inserted successfully for username: 0111777770
+[2024-10-12 15:41:16] Attempting to insert transaction record
+[2024-10-12 15:41:16] Transaction record inserted successfully for username: 0111777770
+[2024-10-12 15:41:16] Attempting to connect to database for router details
+[2024-10-12 15:41:16] Database connection successful
+[2024-10-12 15:41:16] Router details - IP: 192.168.180.10, Username: admin
+[2024-10-12 15:41:16] Attempting to connect to MikroTik router
+[2024-10-12 15:41:16] Connected to MikroTik router successfully
+[2024-10-12 15:41:16] Hotspot user '0111777770' already exists on the router, updating user
+[2024-10-12 15:41:16] Hotspot user '0111777770' updated successfully
+[2024-10-12 15:41:16] User creation process completed for username: 0111777770
+[2024-10-12 15:41:16] Attempting to update payment gateway record
+[2024-10-12 15:41:16] Payment gateway record updated successfully for username: 0111777770

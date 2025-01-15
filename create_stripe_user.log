@@ -1,0 +1,21 @@
+[2024-07-14 18:29:45] Raw JSON input: {"phone_number":"0796381603fdh","full_name":"FRANCIS MAGOMERE","email":"magomerefrancis61@gmail.com","address":"MWINGI ROAD UPSTATE APARTMENT","plan_id":"7","router_id":"1"}
+[2024-07-14 18:29:45] Received data: phone: 0796381603fdh, planId: 7, routerId: 1, username: 0796381603fdh, full_name: FRANCIS MAGOMERE, email: magomerefrancis61@gmail.com, address: MWINGI ROAD UPSTATE APARTMENT
+[2024-07-14 18:29:46] Success: User created successfully
+[2024-07-14 18:30:47] Raw JSON input: {"phone_number":"0796381603gfjggh","full_name":"FRANCIS MAGOMERE","email":"magomerefrancis61@gmail.com","address":"MWINGI ROAD UPSTATE APARTMENT","plan_id":"7","router_id":"1"}
+[2024-07-14 18:30:47] Received data: phone: 0796381603gfjggh, planId: 7, routerId: 1, username: 0796381603gfjggh, full_name: FRANCIS MAGOMERE, email: magomerefrancis61@gmail.com, address: MWINGI ROAD UPSTATE APARTMENT
+[2024-07-14 18:30:47] Success: User created successfully
+[2024-07-14 18:32:01] Raw JSON input: {"phone_number":"0796381603gfhgf","full_name":"FRANCIS MAGOMERE","email":"magomerefrancis61@gmail.com","address":"MWINGI ROAD UPSTATE APARTMENT","plan_id":"7","router_id":"3"}
+[2024-07-14 18:32:01] Received data: phone: 0796381603gfhgf, planId: 7, routerId: 3, username: 0796381603gfhgf, full_name: FRANCIS MAGOMERE, email: magomerefrancis61@gmail.com, address: MWINGI ROAD UPSTATE APARTMENT
+[2024-07-14 18:32:01] Success: User created successfully
+[2024-07-14 18:32:02] Sent to add_stripe_user.php: {"status":"success","message":"Data received and processed"}
+[2024-07-14 18:33:14] Raw JSON input: {"phone_number":"0796381603dssgdfghf","full_name":"FRANCIS MAGOMERE","email":"magomerefrancis61@gmail.com","address":"MWINGI ROAD UPSTATE APARTMENT","plan_id":"7","router_id":"3"}
+[2024-07-14 18:33:14] Received data: phone: 0796381603dssgdfghf, planId: 7, routerId: 3, username: 0796381603dssgdfghf, full_name: FRANCIS MAGOMERE, email: magomerefrancis61@gmail.com, address: MWINGI ROAD UPSTATE APARTMENT
+[2024-07-14 18:33:14] Success: User created successfully
+[2024-07-14 18:33:15] Sent to add_stripe_user.php: {"status":"success","message":"Data received and processed"}
+[2024-07-14 18:35:47] Raw JSON input: {"phone_number":"0796381603fgfdzf","full_name":"FRANCIS MAGOMERE","email":"magomerefrancis61@gmail.com","address":"MWINGI ROAD UPSTATE APARTMENT","plan_id":"7","router_id":"3"}
+[2024-07-14 18:35:47] Received data: phone: 0796381603fgfdzf, planId: 7, routerId: 3, username: 0796381603fgfdzf, full_name: FRANCIS MAGOMERE, email: magomerefrancis61@gmail.com, address: MWINGI ROAD UPSTATE APARTMENT
+[2024-07-14 18:35:47] Success: User created successfully
+[2024-07-14 18:35:48] Sent to add_stripe_user.php: {"status":"success","message":"Data received and processed"}
+[2024-07-14 18:37:10] Raw JSON input: {"phone_number":"0796381603sdfgds","full_name":"FRANCIS MAGOMERE","email":"magomerefrancis61@gmail.com","address":"MWINGI ROAD UPSTATE APARTMENT","plan_id":"7","router_id":"1"}
+[2024-07-14 18:37:10] Received data: phone: 0796381603sdfgds, planId: 7, routerId: 1, username: 0796381603sdfgds, full_name: FRANCIS MAGOMERE, email: magomerefrancis61@gmail.com, address: MWINGI ROAD UPSTATE APARTMENT
+[2024-07-14 18:37:10] Success: User created successfully

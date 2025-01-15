@@ -1,0 +1,1888 @@
+PHP Time	2024-11-17 16:33:02
+MYSQL Time	2024-11-17 16:33:02
+Column prev_state already exists in tbl_router_cache.
+Column last_seen already exists in tbl_router_cache.
+Processing Router ID 1
+Calling handleNotificationsAndUpdateState for Router ID 1
+Reached handleNotificationsAndUpdateState function for Router ID 1
+Router ID 1: Current state is Online, Previous state is Online
+Router ID 1: Notification phone is 
+No state change for Router ID 1: Current state is Online, Previous state is Online
+Updating prev_state for Router ID 1 from Online to Online
+Successfully updated prev_state for Router ID 1 to Online
+Table tbl_router_status_history already exists.
+Processing Router ID: 1
+Attempting to establish connection to Router ID: 1 at IP: 192.168.180.10
+Connection to Router ID: 1 successful.
+Fetching active users for Router ID: 1
+Active users fetched for Router ID: 1
+Fetched 4 customers connected to Router ID: 1
+Processing customer: 254796381603-B:79
+User recharge record found for customer: 254796381603-B:79
+Setting state for customer: 254796381603-B:79 to Offline
+Customer: 254796381603-B:79 went offline. Updating last_seen.
+State for customer: 254796381603-B:79 updated to Offline
+Processing customer: peter
+User recharge record found for customer: peter
+Customer: peter is inactive. Set to Offline.
+Processing customer: 256781468000
+No user recharge record found for customer: 256781468000
+Setting state for customer: 256781468000 to Offline
+Processing customer: 0781468000
+No user recharge record found for customer: 0781468000
+Setting state for customer: 0781468000 to Offline
+Table tbl_router_backups already exists.
+Backup already performed today, exiting script.
+Including disconnection.php...
+disconnection.php included.
+Including time_data_reminder.php...
+PHP Time	2024-11-17 16:39:29
+MYSQL Time	2024-11-17 16:39:29
+Column prev_state already exists in tbl_router_cache.
+Column last_seen already exists in tbl_router_cache.
+Processing Router ID 1
+Calling handleNotificationsAndUpdateState for Router ID 1
+Reached handleNotificationsAndUpdateState function for Router ID 1
+Router ID 1: Current state is Online, Previous state is Online
+Router ID 1: Notification phone is 
+No state change for Router ID 1: Current state is Online, Previous state is Online
+Updating prev_state for Router ID 1 from Online to Online
+Successfully updated prev_state for Router ID 1 to Online
+Table tbl_router_status_history already exists.
+Processing Router ID: 1
+Attempting to establish connection to Router ID: 1 at IP: 192.168.180.10
+Connection to Router ID: 1 successful.
+Fetching active users for Router ID: 1
+Active users fetched for Router ID: 1
+Fetched 4 customers connected to Router ID: 1
+Processing customer: 254796381603-B:79
+User recharge record found for customer: 254796381603-B:79
+Setting state for customer: 254796381603-B:79 to Offline
+State for customer: 254796381603-B:79 updated to Offline
+Processing customer: peter
+User recharge record found for customer: peter
+Customer: peter is inactive. Set to Offline.
+Processing customer: 256781468000
+No user recharge record found for customer: 256781468000
+Setting state for customer: 256781468000 to Offline
+Processing customer: 0781468000
+No user recharge record found for customer: 0781468000
+Setting state for customer: 0781468000 to Offline
+Table tbl_router_backups already exists.
+Backup already performed today, exiting script.
+Triggering http://localhost/radius/system/disconnection.php...
+http://localhost/radius/system/disconnection.php triggered. Response: 
+Triggering http://localhost/radius/system/time_data_reminder.php...
+http://localhost/radius/system/time_data_reminder.php triggered. Response: 
+Script execution continues...
+Script executed at hour 16. This script runs only at 5 AM. Exiting...
+PHP Time	2024-11-17 16:53:58
+MYSQL Time	2024-11-17 16:53:58
+Column prev_state already exists in tbl_router_cache.
+Column last_seen already exists in tbl_router_cache.
+Processing Router ID 1
+Calling handleNotificationsAndUpdateState for Router ID 1
+Reached handleNotificationsAndUpdateState function for Router ID 1
+Router ID 1: Current state is Online, Previous state is Online
+Router ID 1: Notification phone is 
+No state change for Router ID 1: Current state is Online, Previous state is Online
+Updating prev_state for Router ID 1 from Online to Online
+Successfully updated prev_state for Router ID 1 to Online
+Table tbl_router_status_history already exists.
+Processing Router ID: 1
+Attempting to establish connection to Router ID: 1 at IP: 192.168.180.10
+Connection to Router ID: 1 successful.
+Fetching active users for Router ID: 1
+Active users fetched for Router ID: 1
+Fetched 4 customers connected to Router ID: 1
+Processing customer: 254796381603-B:79
+User recharge record found for customer: 254796381603-B:79
+Setting state for customer: 254796381603-B:79 to Offline
+State for customer: 254796381603-B:79 updated to Offline
+Processing customer: peter
+User recharge record found for customer: peter
+Customer: peter is inactive. Set to Offline.
+Processing customer: 256781468000
+No user recharge record found for customer: 256781468000
+Setting state for customer: 256781468000 to Offline
+Processing customer: 0781468000
+No user recharge record found for customer: 0781468000
+Setting state for customer: 0781468000 to Offline
+Table tbl_router_backups already exists.
+Backup already performed today, exiting script.
+Triggering http://localhost/radius/system/disconnection.php...
+http://localhost/radius/system/disconnection.php triggered. Response: 
+Triggering http://localhost/radius/system/time_data_reminder.php...
+http://localhost/radius/system/time_data_reminder.php triggered. Response: 
+Script execution continues...
+Script executed at hour 16. This script runs only at 5 AM. Exiting...
+PHP Time	2024-11-17 17:05:20
+MYSQL Time	2024-11-17 17:05:20
+Column prev_state already exists in tbl_router_cache.
+Column last_seen already exists in tbl_router_cache.
+Processing Router ID 1
+Calling handleNotificationsAndUpdateState for Router ID 1
+Reached handleNotificationsAndUpdateState function for Router ID 1
+Router ID 1: Current state is Online, Previous state is Online
+Router ID 1: Notification phone is 
+No state change for Router ID 1: Current state is Online, Previous state is Online
+Updating prev_state for Router ID 1 from Online to Online
+Successfully updated prev_state for Router ID 1 to Online
+Table tbl_router_status_history already exists.
+Processing Router ID: 1
+Attempting to establish connection to Router ID: 1 at IP: 192.168.180.10
+Connection to Router ID: 1 successful.
+Fetching active users for Router ID: 1
+Active users fetched for Router ID: 1
+Fetched 4 customers connected to Router ID: 1
+Processing customer: 254796381603-B:79
+User recharge record found for customer: 254796381603-B:79
+Setting state for customer: 254796381603-B:79 to Offline
+State for customer: 254796381603-B:79 updated to Offline
+Processing customer: peter
+User recharge record found for customer: peter
+Customer: peter is inactive. Set to Offline.
+Processing customer: 256781468000
+No user recharge record found for customer: 256781468000
+Setting state for customer: 256781468000 to Offline
+Processing customer: 0781468000
+No user recharge record found for customer: 0781468000
+Setting state for customer: 0781468000 to Offline
+Table tbl_router_backups already exists.
+Backup already performed today, exiting script.
+Triggering http://localhost/radius/system/disconnection.php...
+http://localhost/radius/system/disconnection.php triggered. Response: 
+Triggering http://localhost/radius/system/time_data_reminder.php...
+http://localhost/radius/system/time_data_reminder.php triggered. Response: 
+Script execution continues...
+Script executed at hour 17. This script runs only at 5 AM. Exiting...
+PHP Time	2024-11-17 17:06:56
+MYSQL Time	2024-11-17 17:06:56
+Column prev_state already exists in tbl_router_cache.
+Column last_seen already exists in tbl_router_cache.
+Processing Router ID 1
+Calling handleNotificationsAndUpdateState for Router ID 1
+Reached handleNotificationsAndUpdateState function for Router ID 1
+Router ID 1: Current state is Online, Previous state is Online
+Router ID 1: Notification phone is 
+No state change for Router ID 1: Current state is Online, Previous state is Online
+Updating prev_state for Router ID 1 from Online to Online
+Successfully updated prev_state for Router ID 1 to Online
+Table tbl_router_status_history already exists.
+Processing Router ID: 1
+Attempting to establish connection to Router ID: 1 at IP: 192.168.180.10
+Connection to Router ID: 1 successful.
+Fetching active users for Router ID: 1
+Active users fetched for Router ID: 1
+Fetched 4 customers connected to Router ID: 1
+Processing customer: 254796381603-B:79
+User recharge record found for customer: 254796381603-B:79
+Setting state for customer: 254796381603-B:79 to Offline
+State for customer: 254796381603-B:79 updated to Offline
+Processing customer: peter
+User recharge record found for customer: peter
+Customer: peter is inactive. Set to Offline.
+Processing customer: 256781468000
+No user recharge record found for customer: 256781468000
+Setting state for customer: 256781468000 to Offline
+Processing customer: 0781468000
+No user recharge record found for customer: 0781468000
+Setting state for customer: 0781468000 to Offline
+Table tbl_router_backups already exists.
+Backup already performed today, exiting script.
+Triggering http://localhost/radius/system/disconnection.php...
+http://localhost/radius/system/disconnection.php triggered. Response: 
+Triggering http://localhost/radius/system/time_data_reminder.php...
+http://localhost/radius/system/time_data_reminder.php triggered. Response: 
+Script execution continues...
+Script executed at hour 17. This script runs only at 5 AM. Exiting...
+PHP Time	2024-11-17 17:07:30
+MYSQL Time	2024-11-17 17:07:30
+Column prev_state already exists in tbl_router_cache.
+Column last_seen already exists in tbl_router_cache.
+Processing Router ID 1
+Calling handleNotificationsAndUpdateState for Router ID 1
+Reached handleNotificationsAndUpdateState function for Router ID 1
+Router ID 1: Current state is Online, Previous state is Online
+Router ID 1: Notification phone is 
+No state change for Router ID 1: Current state is Online, Previous state is Online
+Updating prev_state for Router ID 1 from Online to Online
+Successfully updated prev_state for Router ID 1 to Online
+Table tbl_router_status_history already exists.
+Processing Router ID: 1
+Attempting to establish connection to Router ID: 1 at IP: 192.168.180.10
+Connection to Router ID: 1 successful.
+Fetching active users for Router ID: 1
+Active users fetched for Router ID: 1
+Fetched 4 customers connected to Router ID: 1
+Processing customer: 254796381603-B:79
+User recharge record found for customer: 254796381603-B:79
+Customer: 254796381603-B:79 is online in Hotspot.
+Setting state for customer: 254796381603-B:79 to Online
+State for customer: 254796381603-B:79 updated to Online
+Processing customer: peter
+User recharge record found for customer: peter
+Customer: peter is inactive. Set to Offline.
+Processing customer: 256781468000
+No user recharge record found for customer: 256781468000
+Setting state for customer: 256781468000 to Offline
+Processing customer: 0781468000
+No user recharge record found for customer: 0781468000
+Setting state for customer: 0781468000 to Offline
+Table tbl_router_backups already exists.
+Backup already performed today, exiting script.
+Triggering http://localhost/radius/system/disconnection.php...
+http://localhost/radius/system/disconnection.php triggered. Response: 
+Triggering http://localhost/radius/system/time_data_reminder.php...
+http://localhost/radius/system/time_data_reminder.php triggered. Response: 
+Script execution continues...
+Script executed at hour 17. This script runs only at 5 AM. Exiting...
+PHP Time	2024-11-17 17:07:57
+MYSQL Time	2024-11-17 17:07:57
+Column prev_state already exists in tbl_router_cache.
+Column last_seen already exists in tbl_router_cache.
+Processing Router ID 1
+Calling handleNotificationsAndUpdateState for Router ID 1
+Reached handleNotificationsAndUpdateState function for Router ID 1
+Router ID 1: Current state is Online, Previous state is Online
+Router ID 1: Notification phone is 
+No state change for Router ID 1: Current state is Online, Previous state is Online
+Updating prev_state for Router ID 1 from Online to Online
+Successfully updated prev_state for Router ID 1 to Online
+Table tbl_router_status_history already exists.
+Processing Router ID: 1
+Attempting to establish connection to Router ID: 1 at IP: 192.168.180.10
+Connection to Router ID: 1 successful.
+Fetching active users for Router ID: 1
+Active users fetched for Router ID: 1
+Fetched 4 customers connected to Router ID: 1
+Processing customer: 254796381603-B:79
+User recharge record found for customer: 254796381603-B:79
+Customer: 254796381603-B:79 is online in Hotspot.
+Setting state for customer: 254796381603-B:79 to Online
+State for customer: 254796381603-B:79 updated to Online
+Processing customer: peter
+User recharge record found for customer: peter
+Customer: peter is inactive. Set to Offline.
+Processing customer: 256781468000
+No user recharge record found for customer: 256781468000
+Setting state for customer: 256781468000 to Offline
+Processing customer: 0781468000
+No user recharge record found for customer: 0781468000
+Setting state for customer: 0781468000 to Offline
+Table tbl_router_backups already exists.
+Backup already performed today, exiting script.
+Triggering http://localhost/radius/system/disconnection.php...
+http://localhost/radius/system/disconnection.php triggered. Response: 
+Triggering http://localhost/radius/system/time_data_reminder.php...
+http://localhost/radius/system/time_data_reminder.php triggered. Response: 
+Script execution continues...
+Script executed at hour 17. This script runs only at 5 AM. Exiting...
+PHP Time	2024-11-17 17:10:28
+MYSQL Time	2024-11-17 17:10:28
+Column prev_state already exists in tbl_router_cache.
+Column last_seen already exists in tbl_router_cache.
+Processing Router ID 1
+Calling handleNotificationsAndUpdateState for Router ID 1
+Reached handleNotificationsAndUpdateState function for Router ID 1
+Router ID 1: Current state is Online, Previous state is Online
+Router ID 1: Notification phone is 
+No state change for Router ID 1: Current state is Online, Previous state is Online
+Updating prev_state for Router ID 1 from Online to Online
+Successfully updated prev_state for Router ID 1 to Online
+Table tbl_router_status_history already exists.
+Processing Router ID: 1
+Attempting to establish connection to Router ID: 1 at IP: 192.168.180.10
+Connection to Router ID: 1 successful.
+Fetching active users for Router ID: 1
+Active users fetched for Router ID: 1
+Fetched 4 customers connected to Router ID: 1
+Processing customer: 254796381603-B:79
+User recharge record found for customer: 254796381603-B:79
+Customer: 254796381603-B:79 is online in Hotspot.
+Setting state for customer: 254796381603-B:79 to Online
+State for customer: 254796381603-B:79 updated to Online
+Processing customer: peter
+User recharge record found for customer: peter
+Customer: peter is inactive. Set to Offline.
+Processing customer: 256781468000
+No user recharge record found for customer: 256781468000
+Setting state for customer: 256781468000 to Offline
+Processing customer: 0781468000
+No user recharge record found for customer: 0781468000
+Setting state for customer: 0781468000 to Offline
+Table tbl_router_backups already exists.
+Backup already performed today, exiting script.
+Triggering http://localhost/radius/system/disconnection.php...
+http://localhost/radius/system/disconnection.php triggered. Response: 
+Triggering http://localhost/radius/system/time_data_reminder.php...
+http://localhost/radius/system/time_data_reminder.php triggered. Response: 
+Script execution continues...
+Script executed at hour 17. This script runs only at 5 AM. Exiting...
+PHP Time	2024-11-17 17:12:42
+MYSQL Time	2024-11-17 17:12:42
+Column prev_state already exists in tbl_router_cache.
+Column last_seen already exists in tbl_router_cache.
+Processing Router ID 1
+Calling handleNotificationsAndUpdateState for Router ID 1
+Reached handleNotificationsAndUpdateState function for Router ID 1
+Router ID 1: Current state is Online, Previous state is Online
+Router ID 1: Notification phone is 
+No state change for Router ID 1: Current state is Online, Previous state is Online
+Updating prev_state for Router ID 1 from Online to Online
+Successfully updated prev_state for Router ID 1 to Online
+Table tbl_router_status_history already exists.
+Processing Router ID: 1
+Attempting to establish connection to Router ID: 1 at IP: 192.168.180.10
+Connection to Router ID: 1 successful.
+Fetching active users for Router ID: 1
+Active users fetched for Router ID: 1
+Fetched 4 customers connected to Router ID: 1
+Processing customer: 254796381603-B:79
+User recharge record found for customer: 254796381603-B:79
+Customer: 254796381603-B:79 is online in Hotspot.
+Setting state for customer: 254796381603-B:79 to Online
+State for customer: 254796381603-B:79 updated to Online
+Processing customer: peter
+User recharge record found for customer: peter
+Customer: peter is inactive. Set to Offline.
+Processing customer: 256781468000
+No user recharge record found for customer: 256781468000
+Setting state for customer: 256781468000 to Offline
+Processing customer: 0781468000
+No user recharge record found for customer: 0781468000
+Setting state for customer: 0781468000 to Offline
+Table tbl_router_backups already exists.
+Backup already performed today, exiting script.
+Triggering http://localhost/radius/system/disconnection.php...
+http://localhost/radius/system/disconnection.php triggered. Response: 
+Triggering http://localhost/radius/system/time_data_reminder.php...
+http://localhost/radius/system/time_data_reminder.php triggered. Response: 
+Script execution continues...
+Script executed at hour 17. This script runs only at 5 AM. Exiting...
+PHP Time	2024-11-17 17:14:45
+MYSQL Time	2024-11-17 17:14:45
+Column prev_state already exists in tbl_router_cache.
+Column last_seen already exists in tbl_router_cache.
+Processing Router ID 1
+Calling handleNotificationsAndUpdateState for Router ID 1
+Reached handleNotificationsAndUpdateState function for Router ID 1
+Router ID 1: Current state is Online, Previous state is Online
+Router ID 1: Notification phone is 
+No state change for Router ID 1: Current state is Online, Previous state is Online
+Updating prev_state for Router ID 1 from Online to Online
+Successfully updated prev_state for Router ID 1 to Online
+Table tbl_router_status_history already exists.
+Processing Router ID: 1
+Attempting to establish connection to Router ID: 1 at IP: 192.168.180.10
+Connection to Router ID: 1 successful.
+Fetching active users for Router ID: 1
+Active users fetched for Router ID: 1
+Fetched 4 customers connected to Router ID: 1
+Processing customer: 254796381603-B:79
+User recharge record found for customer: 254796381603-B:79
+Customer: 254796381603-B:79 is online in Hotspot.
+Setting state for customer: 254796381603-B:79 to Online
+State for customer: 254796381603-B:79 updated to Online
+Processing customer: peter
+User recharge record found for customer: peter
+Customer: peter is inactive. Set to Offline.
+Processing customer: 256781468000
+No user recharge record found for customer: 256781468000
+Setting state for customer: 256781468000 to Offline
+Processing customer: 0781468000
+No user recharge record found for customer: 0781468000
+Setting state for customer: 0781468000 to Offline
+Table tbl_router_backups already exists.
+Backup already performed today, exiting script.
+Triggering http://localhost/radius/system/disconnection.php...
+http://localhost/radius/system/disconnection.php triggered. Response: 
+Triggering http://localhost/radius/system/time_data_reminder.php...
+http://localhost/radius/system/time_data_reminder.php triggered. Response: 
+Script execution continues...
+Script executed at hour 17. This script runs only at 5 AM. Exiting...
+PHP Time	2024-11-17 17:15:03
+MYSQL Time	2024-11-17 17:15:03
+Column prev_state already exists in tbl_router_cache.
+Column last_seen already exists in tbl_router_cache.
+Processing Router ID 1
+Calling handleNotificationsAndUpdateState for Router ID 1
+Reached handleNotificationsAndUpdateState function for Router ID 1
+Router ID 1: Current state is Online, Previous state is Online
+Router ID 1: Notification phone is 
+No state change for Router ID 1: Current state is Online, Previous state is Online
+Updating prev_state for Router ID 1 from Online to Online
+Successfully updated prev_state for Router ID 1 to Online
+Table tbl_router_status_history already exists.
+Processing Router ID: 1
+Attempting to establish connection to Router ID: 1 at IP: 192.168.180.10
+Connection to Router ID: 1 successful.
+Fetching active users for Router ID: 1
+Active users fetched for Router ID: 1
+Fetched 4 customers connected to Router ID: 1
+Processing customer: 254796381603-B:79
+User recharge record found for customer: 254796381603-B:79
+Customer: 254796381603-B:79 is online in Hotspot.
+Setting state for customer: 254796381603-B:79 to Online
+State for customer: 254796381603-B:79 updated to Online
+Processing customer: peter
+User recharge record found for customer: peter
+Customer: peter is inactive. Set to Offline.
+Processing customer: 256781468000
+No user recharge record found for customer: 256781468000
+Setting state for customer: 256781468000 to Offline
+Processing customer: 0781468000
+No user recharge record found for customer: 0781468000
+Setting state for customer: 0781468000 to Offline
+Table tbl_router_backups already exists.
+Backup already performed today, exiting script.
+Triggering http://localhost/radius/system/disconnection.php...
+http://localhost/radius/system/disconnection.php triggered. Response: 
+Triggering http://localhost/radius/system/time_data_reminder.php...
+http://localhost/radius/system/time_data_reminder.php triggered. Response: 
+Script execution continues...
+Script executed at hour 17. This script runs only at 5 AM. Exiting...
+PHP Time	2024-11-17 17:16:22
+MYSQL Time	2024-11-17 17:16:22
+Column prev_state already exists in tbl_router_cache.
+Column last_seen already exists in tbl_router_cache.
+Processing Router ID 1
+Calling handleNotificationsAndUpdateState for Router ID 1
+Reached handleNotificationsAndUpdateState function for Router ID 1
+Router ID 1: Current state is Online, Previous state is Online
+Router ID 1: Notification phone is 
+No state change for Router ID 1: Current state is Online, Previous state is Online
+Updating prev_state for Router ID 1 from Online to Online
+Successfully updated prev_state for Router ID 1 to Online
+Table tbl_router_status_history already exists.
+Processing Router ID: 1
+Attempting to establish connection to Router ID: 1 at IP: 192.168.180.10
+Connection to Router ID: 1 successful.
+Fetching active users for Router ID: 1
+Active users fetched for Router ID: 1
+Fetched 4 customers connected to Router ID: 1
+Processing customer: 254796381603-B:79
+User recharge record found for customer: 254796381603-B:79
+Customer: 254796381603-B:79 is online in Hotspot.
+Setting state for customer: 254796381603-B:79 to Online
+State for customer: 254796381603-B:79 updated to Online
+Processing customer: peter
+User recharge record found for customer: peter
+Customer: peter is inactive. Set to Offline.
+Processing customer: 256781468000
+No user recharge record found for customer: 256781468000
+Setting state for customer: 256781468000 to Offline
+Processing customer: 0781468000
+No user recharge record found for customer: 0781468000
+Setting state for customer: 0781468000 to Offline
+Table tbl_router_backups already exists.
+Backup already performed today, exiting script.
+Triggering http://localhost/radius/system/disconnection.php...
+http://localhost/radius/system/disconnection.php triggered. Response: 
+Triggering http://localhost/radius/system/time_data_reminder.php...
+http://localhost/radius/system/time_data_reminder.php triggered. Response: 
+Script execution continues...
+Script executed at hour 17. This script runs only at 5 AM. Exiting...
+PHP Time	2024-11-17 17:16:46
+MYSQL Time	2024-11-17 17:16:46
+Column prev_state already exists in tbl_router_cache.
+Column last_seen already exists in tbl_router_cache.
+Processing Router ID 1
+Calling handleNotificationsAndUpdateState for Router ID 1
+Reached handleNotificationsAndUpdateState function for Router ID 1
+Router ID 1: Current state is Online, Previous state is Online
+Router ID 1: Notification phone is 
+No state change for Router ID 1: Current state is Online, Previous state is Online
+Updating prev_state for Router ID 1 from Online to Online
+Successfully updated prev_state for Router ID 1 to Online
+Table tbl_router_status_history already exists.
+Processing Router ID: 1
+Attempting to establish connection to Router ID: 1 at IP: 192.168.180.10
+Connection to Router ID: 1 successful.
+Fetching active users for Router ID: 1
+Active users fetched for Router ID: 1
+Fetched 4 customers connected to Router ID: 1
+Processing customer: 254796381603-B:79
+User recharge record found for customer: 254796381603-B:79
+Customer: 254796381603-B:79 is online in Hotspot.
+Setting state for customer: 254796381603-B:79 to Online
+State for customer: 254796381603-B:79 updated to Online
+Processing customer: peter
+User recharge record found for customer: peter
+Customer: peter is inactive. Set to Offline.
+Processing customer: 256781468000
+No user recharge record found for customer: 256781468000
+Setting state for customer: 256781468000 to Offline
+Processing customer: 0781468000
+No user recharge record found for customer: 0781468000
+Setting state for customer: 0781468000 to Offline
+Table tbl_router_backups already exists.
+Backup already performed today, exiting script.
+Triggering http://localhost/radius/system/disconnection.php...
+http://localhost/radius/system/disconnection.php triggered. Response: 
+Triggering http://localhost/radius/system/time_data_reminder.php...
+http://localhost/radius/system/time_data_reminder.php triggered. Response: 
+Script execution continues...
+Script executed at hour 17. This script runs only at 5 AM. Exiting...
+PHP Time	2024-11-17 17:19:17
+MYSQL Time	2024-11-17 17:19:17
+Column prev_state already exists in tbl_router_cache.
+Column last_seen already exists in tbl_router_cache.
+Processing Router ID 1
+Calling handleNotificationsAndUpdateState for Router ID 1
+Reached handleNotificationsAndUpdateState function for Router ID 1
+Router ID 1: Current state is Online, Previous state is Online
+Router ID 1: Notification phone is 
+No state change for Router ID 1: Current state is Online, Previous state is Online
+Updating prev_state for Router ID 1 from Online to Online
+Successfully updated prev_state for Router ID 1 to Online
+Table tbl_router_status_history already exists.
+Processing Router ID: 1
+Attempting to establish connection to Router ID: 1 at IP: 192.168.180.10
+Connection to Router ID: 1 successful.
+Fetching active users for Router ID: 1
+Active users fetched for Router ID: 1
+Fetched 4 customers connected to Router ID: 1
+Processing customer: 254796381603-B:79
+User recharge record found for customer: 254796381603-B:79
+Setting state for customer: 254796381603-B:79 to Offline
+Customer: 254796381603-B:79 went offline. Updating last_seen.
+State for customer: 254796381603-B:79 updated to Offline
+Processing customer: peter
+User recharge record found for customer: peter
+Customer: peter is inactive. Set to Offline.
+Processing customer: 256781468000
+No user recharge record found for customer: 256781468000
+Setting state for customer: 256781468000 to Offline
+Processing customer: 0781468000
+No user recharge record found for customer: 0781468000
+Setting state for customer: 0781468000 to Offline
+Table tbl_router_backups already exists.
+Backup already performed today, exiting script.
+Triggering http://localhost/radius/system/disconnection.php...
+http://localhost/radius/system/disconnection.php triggered. Response: 
+Triggering http://localhost/radius/system/time_data_reminder.php...
+http://localhost/radius/system/time_data_reminder.php triggered. Response: 
+Script execution continues...
+Script executed at hour 17. This script runs only at 5 AM. Exiting...
+PHP Time	2024-11-17 17:20:38
+MYSQL Time	2024-11-17 17:20:38
+Column prev_state already exists in tbl_router_cache.
+Column last_seen already exists in tbl_router_cache.
+Processing Router ID 1
+Calling handleNotificationsAndUpdateState for Router ID 1
+Reached handleNotificationsAndUpdateState function for Router ID 1
+Router ID 1: Current state is Online, Previous state is Online
+Router ID 1: Notification phone is 
+No state change for Router ID 1: Current state is Online, Previous state is Online
+Updating prev_state for Router ID 1 from Online to Online
+Successfully updated prev_state for Router ID 1 to Online
+Table tbl_router_status_history already exists.
+Processing Router ID: 1
+Attempting to establish connection to Router ID: 1 at IP: 192.168.180.10
+Connection to Router ID: 1 successful.
+Fetching active users for Router ID: 1
+Active users fetched for Router ID: 1
+Fetched 4 customers connected to Router ID: 1
+Processing customer: 254796381603-B:79
+User recharge record found for customer: 254796381603-B:79
+Customer: 254796381603-B:79 is online in Hotspot.
+Setting state for customer: 254796381603-B:79 to Online
+State for customer: 254796381603-B:79 updated to Online
+Processing customer: peter
+User recharge record found for customer: peter
+Customer: peter is inactive. Set to Offline.
+Processing customer: 256781468000
+No user recharge record found for customer: 256781468000
+Setting state for customer: 256781468000 to Offline
+Processing customer: 0781468000
+No user recharge record found for customer: 0781468000
+Setting state for customer: 0781468000 to Offline
+Table tbl_router_backups already exists.
+Backup already performed today, exiting script.
+Triggering http://localhost/radius/system/disconnection.php...
+http://localhost/radius/system/disconnection.php triggered. Response: 
+Triggering http://localhost/radius/system/time_data_reminder.php...
+http://localhost/radius/system/time_data_reminder.php triggered. Response: 
+Script execution continues...
+Script executed at hour 17. This script runs only at 5 AM. Exiting...
+PHP Time	2024-11-17 17:23:54
+MYSQL Time	2024-11-17 17:23:54
+Column prev_state already exists in tbl_router_cache.
+Column last_seen already exists in tbl_router_cache.
+Processing Router ID 1
+Calling handleNotificationsAndUpdateState for Router ID 1
+Reached handleNotificationsAndUpdateState function for Router ID 1
+Router ID 1: Current state is Online, Previous state is Online
+Router ID 1: Notification phone is 
+No state change for Router ID 1: Current state is Online, Previous state is Online
+Updating prev_state for Router ID 1 from Online to Online
+Successfully updated prev_state for Router ID 1 to Online
+Table tbl_router_status_history already exists.
+Processing Router ID: 1
+Attempting to establish connection to Router ID: 1 at IP: 192.168.180.10
+Connection to Router ID: 1 successful.
+Fetching active users for Router ID: 1
+Active users fetched for Router ID: 1
+Fetched 4 customers connected to Router ID: 1
+Processing customer: 254796381603-B:79
+User recharge record found for customer: 254796381603-B:79
+Customer: 254796381603-B:79 is online in Hotspot.
+Setting state for customer: 254796381603-B:79 to Online
+State for customer: 254796381603-B:79 updated to Online
+Processing customer: peter
+User recharge record found for customer: peter
+Customer: peter is inactive. Set to Offline.
+Processing customer: 256781468000
+No user recharge record found for customer: 256781468000
+Setting state for customer: 256781468000 to Offline
+Processing customer: 0781468000
+No user recharge record found for customer: 0781468000
+Setting state for customer: 0781468000 to Offline
+Table tbl_router_backups already exists.
+Backup already performed today, exiting script.
+Triggering http://localhost/radius/system/disconnection.php...
+http://localhost/radius/system/disconnection.php triggered. Response: 
+Triggering http://localhost/radius/system/time_data_reminder.php...
+http://localhost/radius/system/time_data_reminder.php triggered. Response: 
+Script execution continues...
+Script executed at hour 17. This script runs only at 5 AM. Exiting...
+PHP Time	2024-11-17 17:27:13
+MYSQL Time	2024-11-17 17:27:13
+Column prev_state already exists in tbl_router_cache.
+Column last_seen already exists in tbl_router_cache.
+Processing Router ID 1
+Calling handleNotificationsAndUpdateState for Router ID 1
+Reached handleNotificationsAndUpdateState function for Router ID 1
+Router ID 1: Current state is Online, Previous state is Online
+Router ID 1: Notification phone is 
+No state change for Router ID 1: Current state is Online, Previous state is Online
+Updating prev_state for Router ID 1 from Online to Online
+Successfully updated prev_state for Router ID 1 to Online
+Table tbl_router_status_history already exists.
+Processing Router ID: 1
+Attempting to establish connection to Router ID: 1 at IP: 192.168.180.10
+Connection to Router ID: 1 successful.
+Fetching active users for Router ID: 1
+Active users fetched for Router ID: 1
+Fetched 4 customers connected to Router ID: 1
+Processing customer: 254796381603-B:79
+User recharge record found for customer: 254796381603-B:79
+Customer: 254796381603-B:79 is online in Hotspot.
+Setting state for customer: 254796381603-B:79 to Online
+State for customer: 254796381603-B:79 updated to Online
+Processing customer: peter
+User recharge record found for customer: peter
+Customer: peter is inactive. Set to Offline.
+Processing customer: 256781468000
+No user recharge record found for customer: 256781468000
+Setting state for customer: 256781468000 to Offline
+Processing customer: 0781468000
+No user recharge record found for customer: 0781468000
+Setting state for customer: 0781468000 to Offline
+Table tbl_router_backups already exists.
+Backup already performed today, exiting script.
+Triggering http://localhost/radius/system/disconnection.php...
+http://localhost/radius/system/disconnection.php triggered. Response: 
+Triggering http://localhost/radius/system/time_data_reminder.php...
+http://localhost/radius/system/time_data_reminder.php triggered. Response: 
+Script execution continues...
+Script executed at hour 17. This script runs only at 5 AM. Exiting...
+PHP Time	2024-11-17 17:28:33
+MYSQL Time	2024-11-17 17:28:33
+Column prev_state already exists in tbl_router_cache.
+Column last_seen already exists in tbl_router_cache.
+Processing Router ID 1
+Calling handleNotificationsAndUpdateState for Router ID 1
+Reached handleNotificationsAndUpdateState function for Router ID 1
+Router ID 1: Current state is Online, Previous state is Online
+Router ID 1: Notification phone is 
+No state change for Router ID 1: Current state is Online, Previous state is Online
+Updating prev_state for Router ID 1 from Online to Online
+Successfully updated prev_state for Router ID 1 to Online
+Table tbl_router_status_history already exists.
+Processing Router ID: 1
+Attempting to establish connection to Router ID: 1 at IP: 192.168.180.10
+Connection to Router ID: 1 successful.
+Fetching active users for Router ID: 1
+Active users fetched for Router ID: 1
+Fetched 4 customers connected to Router ID: 1
+Processing customer: 254796381603-B:79
+User recharge record found for customer: 254796381603-B:79
+Customer: 254796381603-B:79 is online in Hotspot.
+Setting state for customer: 254796381603-B:79 to Online
+State for customer: 254796381603-B:79 updated to Online
+Processing customer: peter
+User recharge record found for customer: peter
+Customer: peter is inactive. Set to Offline.
+Processing customer: 256781468000
+No user recharge record found for customer: 256781468000
+Setting state for customer: 256781468000 to Offline
+Processing customer: 0781468000
+No user recharge record found for customer: 0781468000
+Setting state for customer: 0781468000 to Offline
+Table tbl_router_backups already exists.
+Backup already performed today, exiting script.
+Triggering http://localhost/radius/system/disconnection.php...
+http://localhost/radius/system/disconnection.php triggered. Response: 
+Triggering http://localhost/radius/system/time_data_reminder.php...
+http://localhost/radius/system/time_data_reminder.php triggered. Response: 
+Script execution continues...
+Script executed at hour 17. This script runs only at 5 AM. Exiting...
+PHP Time	2024-11-17 17:30:04
+MYSQL Time	2024-11-17 17:30:04
+Column prev_state already exists in tbl_router_cache.
+Column last_seen already exists in tbl_router_cache.
+Processing Router ID 1
+Calling handleNotificationsAndUpdateState for Router ID 1
+Reached handleNotificationsAndUpdateState function for Router ID 1
+Router ID 1: Current state is Online, Previous state is Online
+Router ID 1: Notification phone is 
+No state change for Router ID 1: Current state is Online, Previous state is Online
+Updating prev_state for Router ID 1 from Online to Online
+Successfully updated prev_state for Router ID 1 to Online
+Table tbl_router_status_history already exists.
+Processing Router ID: 1
+Attempting to establish connection to Router ID: 1 at IP: 192.168.180.10
+Connection to Router ID: 1 successful.
+Fetching active users for Router ID: 1
+Active users fetched for Router ID: 1
+Fetched 4 customers connected to Router ID: 1
+Processing customer: 254796381603-B:79
+User recharge record found for customer: 254796381603-B:79
+Customer: 254796381603-B:79 is online in Hotspot.
+Setting state for customer: 254796381603-B:79 to Online
+State for customer: 254796381603-B:79 updated to Online
+Processing customer: peter
+User recharge record found for customer: peter
+Customer: peter is inactive. Set to Offline.
+Processing customer: 256781468000
+No user recharge record found for customer: 256781468000
+Setting state for customer: 256781468000 to Offline
+Processing customer: 0781468000
+No user recharge record found for customer: 0781468000
+Setting state for customer: 0781468000 to Offline
+Table tbl_router_backups already exists.
+Backup already performed today, exiting script.
+Triggering http://localhost/radius/system/disconnection.php...
+http://localhost/radius/system/disconnection.php triggered. Response: 
+Triggering http://localhost/radius/system/time_data_reminder.php...
+http://localhost/radius/system/time_data_reminder.php triggered. Response: 
+Script execution continues...
+Script executed at hour 17. This script runs only at 5 AM. Exiting...
+PHP Time	2024-11-17 17:31:47
+MYSQL Time	2024-11-17 17:31:47
+Column prev_state already exists in tbl_router_cache.
+Column last_seen already exists in tbl_router_cache.
+Processing Router ID 1
+Calling handleNotificationsAndUpdateState for Router ID 1
+Reached handleNotificationsAndUpdateState function for Router ID 1
+Router ID 1: Current state is Online, Previous state is Online
+Router ID 1: Notification phone is 
+No state change for Router ID 1: Current state is Online, Previous state is Online
+Updating prev_state for Router ID 1 from Online to Online
+Successfully updated prev_state for Router ID 1 to Online
+Table tbl_router_status_history already exists.
+Processing Router ID: 1
+Attempting to establish connection to Router ID: 1 at IP: 192.168.180.10
+Connection to Router ID: 1 successful.
+Fetching active users for Router ID: 1
+Active users fetched for Router ID: 1
+Fetched 4 customers connected to Router ID: 1
+Processing customer: 254796381603-B:79
+User recharge record found for customer: 254796381603-B:79
+Customer: 254796381603-B:79 is online in Hotspot.
+Setting state for customer: 254796381603-B:79 to Online
+State for customer: 254796381603-B:79 updated to Online
+Processing customer: peter
+User recharge record found for customer: peter
+Customer: peter is inactive. Set to Offline.
+Processing customer: 256781468000
+No user recharge record found for customer: 256781468000
+Setting state for customer: 256781468000 to Offline
+Processing customer: 0781468000
+No user recharge record found for customer: 0781468000
+Setting state for customer: 0781468000 to Offline
+Table tbl_router_backups already exists.
+Backup already performed today, exiting script.
+Triggering http://localhost/radius/system/disconnection.php...
+http://localhost/radius/system/disconnection.php triggered. Response: 
+Triggering http://localhost/radius/system/time_data_reminder.php...
+http://localhost/radius/system/time_data_reminder.php triggered. Response: 
+Script execution continues...
+Script executed at hour 17. This script runs only at 5 AM. Exiting...
+PHP Time	2024-11-17 17:32:23
+MYSQL Time	2024-11-17 17:32:23
+Column prev_state already exists in tbl_router_cache.
+Column last_seen already exists in tbl_router_cache.
+Processing Router ID 1
+Calling handleNotificationsAndUpdateState for Router ID 1
+Reached handleNotificationsAndUpdateState function for Router ID 1
+Router ID 1: Current state is Online, Previous state is Online
+Router ID 1: Notification phone is 
+No state change for Router ID 1: Current state is Online, Previous state is Online
+Updating prev_state for Router ID 1 from Online to Online
+Successfully updated prev_state for Router ID 1 to Online
+Table tbl_router_status_history already exists.
+Processing Router ID: 1
+Attempting to establish connection to Router ID: 1 at IP: 192.168.180.10
+Connection to Router ID: 1 successful.
+Fetching active users for Router ID: 1
+Active users fetched for Router ID: 1
+Fetched 4 customers connected to Router ID: 1
+Processing customer: 254796381603-B:79
+User recharge record found for customer: 254796381603-B:79
+Customer: 254796381603-B:79 is online in Hotspot.
+Setting state for customer: 254796381603-B:79 to Online
+State for customer: 254796381603-B:79 updated to Online
+Processing customer: peter
+User recharge record found for customer: peter
+Customer: peter is inactive. Set to Offline.
+Processing customer: 256781468000
+No user recharge record found for customer: 256781468000
+Setting state for customer: 256781468000 to Offline
+Processing customer: 0781468000
+No user recharge record found for customer: 0781468000
+Setting state for customer: 0781468000 to Offline
+Table tbl_router_backups already exists.
+Backup already performed today, exiting script.
+Triggering http://localhost/radius/system/disconnection.php...
+http://localhost/radius/system/disconnection.php triggered. Response: 
+Triggering http://localhost/radius/system/time_data_reminder.php...
+http://localhost/radius/system/time_data_reminder.php triggered. Response: 
+Script execution continues...
+Script executed at hour 17. This script runs only at 5 AM. Exiting...
+PHP Time	2024-11-17 17:33:32
+MYSQL Time	2024-11-17 17:33:32
+Column prev_state already exists in tbl_router_cache.
+Column last_seen already exists in tbl_router_cache.
+Processing Router ID 1
+Calling handleNotificationsAndUpdateState for Router ID 1
+Reached handleNotificationsAndUpdateState function for Router ID 1
+Router ID 1: Current state is Online, Previous state is Online
+Router ID 1: Notification phone is 
+No state change for Router ID 1: Current state is Online, Previous state is Online
+Updating prev_state for Router ID 1 from Online to Online
+Successfully updated prev_state for Router ID 1 to Online
+Table tbl_router_status_history already exists.
+Processing Router ID: 1
+Attempting to establish connection to Router ID: 1 at IP: 192.168.180.10
+Connection to Router ID: 1 successful.
+Fetching active users for Router ID: 1
+Active users fetched for Router ID: 1
+Fetched 4 customers connected to Router ID: 1
+Processing customer: 254796381603-B:79
+User recharge record found for customer: 254796381603-B:79
+Customer: 254796381603-B:79 is online in Hotspot.
+Setting state for customer: 254796381603-B:79 to Online
+State for customer: 254796381603-B:79 updated to Online
+Processing customer: peter
+User recharge record found for customer: peter
+Customer: peter is inactive. Set to Offline.
+Processing customer: 256781468000
+No user recharge record found for customer: 256781468000
+Setting state for customer: 256781468000 to Offline
+Processing customer: 0781468000
+No user recharge record found for customer: 0781468000
+Setting state for customer: 0781468000 to Offline
+Table tbl_router_backups already exists.
+Backup already performed today, exiting script.
+Triggering http://localhost/radius/system/disconnection.php...
+http://localhost/radius/system/disconnection.php triggered. Response: 
+Triggering http://localhost/radius/system/time_data_reminder.php...
+http://localhost/radius/system/time_data_reminder.php triggered. Response: 
+Script execution continues...
+Script executed at hour 17. This script runs only at 5 AM. Exiting...
+PHP Time	2024-11-17 17:33:58
+MYSQL Time	2024-11-17 17:33:58
+Column prev_state already exists in tbl_router_cache.
+Column last_seen already exists in tbl_router_cache.
+Processing Router ID 1
+Calling handleNotificationsAndUpdateState for Router ID 1
+Reached handleNotificationsAndUpdateState function for Router ID 1
+Router ID 1: Current state is Online, Previous state is Online
+Router ID 1: Notification phone is 
+No state change for Router ID 1: Current state is Online, Previous state is Online
+Updating prev_state for Router ID 1 from Online to Online
+Successfully updated prev_state for Router ID 1 to Online
+Table tbl_router_status_history already exists.
+Processing Router ID: 1
+Attempting to establish connection to Router ID: 1 at IP: 192.168.180.10
+Connection to Router ID: 1 successful.
+Fetching active users for Router ID: 1
+Active users fetched for Router ID: 1
+Fetched 4 customers connected to Router ID: 1
+Processing customer: 254796381603-B:79
+User recharge record found for customer: 254796381603-B:79
+Customer: 254796381603-B:79 is online in Hotspot.
+Setting state for customer: 254796381603-B:79 to Online
+State for customer: 254796381603-B:79 updated to Online
+Processing customer: peter
+User recharge record found for customer: peter
+Customer: peter is inactive. Set to Offline.
+Processing customer: 256781468000
+No user recharge record found for customer: 256781468000
+Setting state for customer: 256781468000 to Offline
+Processing customer: 0781468000
+No user recharge record found for customer: 0781468000
+Setting state for customer: 0781468000 to Offline
+Table tbl_router_backups already exists.
+Backup already performed today, exiting script.
+Triggering http://localhost/radius/system/disconnection.php...
+http://localhost/radius/system/disconnection.php triggered. Response: 
+Triggering http://localhost/radius/system/time_data_reminder.php...
+http://localhost/radius/system/time_data_reminder.php triggered. Response: 
+Script execution continues...
+Script executed at hour 17. This script runs only at 5 AM. Exiting...
+PHP Time	2024-11-17 17:34:21
+MYSQL Time	2024-11-17 17:34:21
+Column prev_state already exists in tbl_router_cache.
+Column last_seen already exists in tbl_router_cache.
+Processing Router ID 1
+Calling handleNotificationsAndUpdateState for Router ID 1
+Reached handleNotificationsAndUpdateState function for Router ID 1
+Router ID 1: Current state is Online, Previous state is Online
+Router ID 1: Notification phone is 
+No state change for Router ID 1: Current state is Online, Previous state is Online
+Updating prev_state for Router ID 1 from Online to Online
+Successfully updated prev_state for Router ID 1 to Online
+Table tbl_router_status_history already exists.
+Processing Router ID: 1
+Attempting to establish connection to Router ID: 1 at IP: 192.168.180.10
+Connection to Router ID: 1 successful.
+Fetching active users for Router ID: 1
+Active users fetched for Router ID: 1
+Fetched 4 customers connected to Router ID: 1
+Processing customer: 254796381603-B:79
+User recharge record found for customer: 254796381603-B:79
+Customer: 254796381603-B:79 is online in Hotspot.
+Setting state for customer: 254796381603-B:79 to Online
+State for customer: 254796381603-B:79 updated to Online
+Processing customer: peter
+User recharge record found for customer: peter
+Customer: peter is inactive. Set to Offline.
+Processing customer: 256781468000
+No user recharge record found for customer: 256781468000
+Setting state for customer: 256781468000 to Offline
+Processing customer: 0781468000
+No user recharge record found for customer: 0781468000
+Setting state for customer: 0781468000 to Offline
+Table tbl_router_backups already exists.
+Backup already performed today, exiting script.
+Triggering http://localhost/radius/system/disconnection.php...
+http://localhost/radius/system/disconnection.php triggered. Response: 
+Triggering http://localhost/radius/system/time_data_reminder.php...
+http://localhost/radius/system/time_data_reminder.php triggered. Response: 
+Script execution continues...
+Script executed at hour 17. This script runs only at 5 AM. Exiting...
+PHP Time	2024-11-17 17:34:58
+MYSQL Time	2024-11-17 17:34:58
+Column prev_state already exists in tbl_router_cache.
+Column last_seen already exists in tbl_router_cache.
+Processing Router ID 1
+Calling handleNotificationsAndUpdateState for Router ID 1
+Reached handleNotificationsAndUpdateState function for Router ID 1
+Router ID 1: Current state is Online, Previous state is Online
+Router ID 1: Notification phone is 
+No state change for Router ID 1: Current state is Online, Previous state is Online
+Updating prev_state for Router ID 1 from Online to Online
+Successfully updated prev_state for Router ID 1 to Online
+Table tbl_router_status_history already exists.
+Processing Router ID: 1
+Attempting to establish connection to Router ID: 1 at IP: 192.168.180.10
+Connection to Router ID: 1 successful.
+Fetching active users for Router ID: 1
+Active users fetched for Router ID: 1
+Fetched 4 customers connected to Router ID: 1
+Processing customer: 254796381603-B:79
+User recharge record found for customer: 254796381603-B:79
+Customer: 254796381603-B:79 is online in Hotspot.
+Setting state for customer: 254796381603-B:79 to Online
+State for customer: 254796381603-B:79 updated to Online
+Processing customer: peter
+User recharge record found for customer: peter
+Customer: peter is inactive. Set to Offline.
+Processing customer: 256781468000
+No user recharge record found for customer: 256781468000
+Setting state for customer: 256781468000 to Offline
+Processing customer: 0781468000
+No user recharge record found for customer: 0781468000
+Setting state for customer: 0781468000 to Offline
+Table tbl_router_backups already exists.
+Backup already performed today, exiting script.
+Triggering http://localhost/radius/system/disconnection.php...
+http://localhost/radius/system/disconnection.php triggered. Response: 
+Triggering http://localhost/radius/system/time_data_reminder.php...
+http://localhost/radius/system/time_data_reminder.php triggered. Response: 
+Script execution continues...
+Script executed at hour 17. This script runs only at 5 AM. Exiting...
+PHP Time	2024-11-17 17:35:35
+MYSQL Time	2024-11-17 17:35:35
+Column prev_state already exists in tbl_router_cache.
+Column last_seen already exists in tbl_router_cache.
+Processing Router ID 1
+Calling handleNotificationsAndUpdateState for Router ID 1
+Reached handleNotificationsAndUpdateState function for Router ID 1
+Router ID 1: Current state is Online, Previous state is Online
+Router ID 1: Notification phone is 
+No state change for Router ID 1: Current state is Online, Previous state is Online
+Updating prev_state for Router ID 1 from Online to Online
+Successfully updated prev_state for Router ID 1 to Online
+Table tbl_router_status_history already exists.
+Processing Router ID: 1
+Attempting to establish connection to Router ID: 1 at IP: 192.168.180.10
+Connection to Router ID: 1 successful.
+Fetching active users for Router ID: 1
+Active users fetched for Router ID: 1
+Fetched 4 customers connected to Router ID: 1
+Processing customer: 254796381603-B:79
+User recharge record found for customer: 254796381603-B:79
+Customer: 254796381603-B:79 is online in Hotspot.
+Setting state for customer: 254796381603-B:79 to Online
+State for customer: 254796381603-B:79 updated to Online
+Processing customer: peter
+User recharge record found for customer: peter
+Customer: peter is inactive. Set to Offline.
+Processing customer: 256781468000
+No user recharge record found for customer: 256781468000
+Setting state for customer: 256781468000 to Offline
+Processing customer: 0781468000
+No user recharge record found for customer: 0781468000
+Setting state for customer: 0781468000 to Offline
+Table tbl_router_backups already exists.
+Backup already performed today, exiting script.
+Triggering http://localhost/radius/system/disconnection.php...
+http://localhost/radius/system/disconnection.php triggered. Response: 
+Triggering http://localhost/radius/system/time_data_reminder.php...
+http://localhost/radius/system/time_data_reminder.php triggered. Response: 
+Script execution continues...
+Script executed at hour 17. This script runs only at 5 AM. Exiting...
+PHP Time	2024-11-17 17:35:47
+MYSQL Time	2024-11-17 17:35:47
+Column prev_state already exists in tbl_router_cache.
+Column last_seen already exists in tbl_router_cache.
+Processing Router ID 1
+Calling handleNotificationsAndUpdateState for Router ID 1
+Reached handleNotificationsAndUpdateState function for Router ID 1
+Router ID 1: Current state is Online, Previous state is Online
+Router ID 1: Notification phone is 
+No state change for Router ID 1: Current state is Online, Previous state is Online
+Updating prev_state for Router ID 1 from Online to Online
+Successfully updated prev_state for Router ID 1 to Online
+Table tbl_router_status_history already exists.
+Processing Router ID: 1
+Attempting to establish connection to Router ID: 1 at IP: 192.168.180.10
+Connection to Router ID: 1 successful.
+Fetching active users for Router ID: 1
+Active users fetched for Router ID: 1
+Fetched 4 customers connected to Router ID: 1
+Processing customer: 254796381603-B:79
+User recharge record found for customer: 254796381603-B:79
+Customer: 254796381603-B:79 is online in Hotspot.
+Setting state for customer: 254796381603-B:79 to Online
+State for customer: 254796381603-B:79 updated to Online
+Processing customer: peter
+User recharge record found for customer: peter
+Customer: peter is inactive. Set to Offline.
+Processing customer: 256781468000
+No user recharge record found for customer: 256781468000
+Setting state for customer: 256781468000 to Offline
+Processing customer: 0781468000
+No user recharge record found for customer: 0781468000
+Setting state for customer: 0781468000 to Offline
+Table tbl_router_backups already exists.
+Backup already performed today, exiting script.
+Triggering http://localhost/radius/system/disconnection.php...
+http://localhost/radius/system/disconnection.php triggered. Response: 
+Triggering http://localhost/radius/system/time_data_reminder.php...
+http://localhost/radius/system/time_data_reminder.php triggered. Response: 
+Script execution continues...
+Script executed at hour 17. This script runs only at 5 AM. Exiting...
+PHP Time	2024-11-17 17:35:57
+MYSQL Time	2024-11-17 17:35:57
+Column prev_state already exists in tbl_router_cache.
+Column last_seen already exists in tbl_router_cache.
+Processing Router ID 1
+Calling handleNotificationsAndUpdateState for Router ID 1
+Reached handleNotificationsAndUpdateState function for Router ID 1
+Router ID 1: Current state is Online, Previous state is Online
+Router ID 1: Notification phone is 
+No state change for Router ID 1: Current state is Online, Previous state is Online
+Updating prev_state for Router ID 1 from Online to Online
+Successfully updated prev_state for Router ID 1 to Online
+Table tbl_router_status_history already exists.
+Processing Router ID: 1
+Attempting to establish connection to Router ID: 1 at IP: 192.168.180.10
+Connection to Router ID: 1 successful.
+Fetching active users for Router ID: 1
+Active users fetched for Router ID: 1
+Fetched 4 customers connected to Router ID: 1
+Processing customer: 254796381603-B:79
+User recharge record found for customer: 254796381603-B:79
+Customer: 254796381603-B:79 is online in Hotspot.
+Setting state for customer: 254796381603-B:79 to Online
+State for customer: 254796381603-B:79 updated to Online
+Processing customer: peter
+User recharge record found for customer: peter
+Customer: peter is inactive. Set to Offline.
+Processing customer: 256781468000
+No user recharge record found for customer: 256781468000
+Setting state for customer: 256781468000 to Offline
+Processing customer: 0781468000
+No user recharge record found for customer: 0781468000
+Setting state for customer: 0781468000 to Offline
+Table tbl_router_backups already exists.
+Backup already performed today, exiting script.
+Triggering http://localhost/radius/system/disconnection.php...
+http://localhost/radius/system/disconnection.php triggered. Response: 
+Triggering http://localhost/radius/system/time_data_reminder.php...
+http://localhost/radius/system/time_data_reminder.php triggered. Response: 
+Script execution continues...
+Script executed at hour 17. This script runs only at 5 AM. Exiting...
+PHP Time	2024-11-17 17:36:24
+MYSQL Time	2024-11-17 17:36:24
+Column prev_state already exists in tbl_router_cache.
+Column last_seen already exists in tbl_router_cache.
+Processing Router ID 1
+Calling handleNotificationsAndUpdateState for Router ID 1
+Reached handleNotificationsAndUpdateState function for Router ID 1
+Router ID 1: Current state is Online, Previous state is Online
+Router ID 1: Notification phone is 
+No state change for Router ID 1: Current state is Online, Previous state is Online
+Updating prev_state for Router ID 1 from Online to Online
+Successfully updated prev_state for Router ID 1 to Online
+Table tbl_router_status_history already exists.
+Processing Router ID: 1
+Attempting to establish connection to Router ID: 1 at IP: 192.168.180.10
+Connection to Router ID: 1 successful.
+Fetching active users for Router ID: 1
+Active users fetched for Router ID: 1
+Fetched 4 customers connected to Router ID: 1
+Processing customer: 254796381603-B:79
+User recharge record found for customer: 254796381603-B:79
+Customer: 254796381603-B:79 is online in Hotspot.
+Setting state for customer: 254796381603-B:79 to Online
+State for customer: 254796381603-B:79 updated to Online
+Processing customer: peter
+User recharge record found for customer: peter
+Customer: peter is inactive. Set to Offline.
+Processing customer: 256781468000
+No user recharge record found for customer: 256781468000
+Setting state for customer: 256781468000 to Offline
+Processing customer: 0781468000
+No user recharge record found for customer: 0781468000
+Setting state for customer: 0781468000 to Offline
+Table tbl_router_backups already exists.
+Backup already performed today, exiting script.
+Triggering http://localhost/radius/system/disconnection.php...
+http://localhost/radius/system/disconnection.php triggered. Response: 
+Triggering http://localhost/radius/system/time_data_reminder.php...
+http://localhost/radius/system/time_data_reminder.php triggered. Response: 
+Script execution continues...
+Script executed at hour 17. This script runs only at 5 AM. Exiting...
+PHP Time	2024-11-17 17:39:04
+MYSQL Time	2024-11-17 17:39:04
+Column prev_state already exists in tbl_router_cache.
+Column last_seen already exists in tbl_router_cache.
+Processing Router ID 1
+Calling handleNotificationsAndUpdateState for Router ID 1
+Reached handleNotificationsAndUpdateState function for Router ID 1
+Router ID 1: Current state is Online, Previous state is Online
+Router ID 1: Notification phone is 
+No state change for Router ID 1: Current state is Online, Previous state is Online
+Updating prev_state for Router ID 1 from Online to Online
+Successfully updated prev_state for Router ID 1 to Online
+Table tbl_router_status_history already exists.
+Processing Router ID: 1
+Attempting to establish connection to Router ID: 1 at IP: 192.168.180.10
+Connection to Router ID: 1 successful.
+Fetching active users for Router ID: 1
+Active users fetched for Router ID: 1
+Fetched 4 customers connected to Router ID: 1
+Processing customer: 254796381603-B:79
+User recharge record found for customer: 254796381603-B:79
+Customer: 254796381603-B:79 is online in Hotspot.
+Setting state for customer: 254796381603-B:79 to Online
+State for customer: 254796381603-B:79 updated to Online
+Processing customer: peter
+User recharge record found for customer: peter
+Customer: peter is inactive. Set to Offline.
+Processing customer: 256781468000
+No user recharge record found for customer: 256781468000
+Setting state for customer: 256781468000 to Offline
+Processing customer: 0781468000
+No user recharge record found for customer: 0781468000
+Setting state for customer: 0781468000 to Offline
+Table tbl_router_backups already exists.
+Backup already performed today, exiting script.
+Triggering http://localhost/radius/system/disconnection.php...
+http://localhost/radius/system/disconnection.php triggered. Response: 
+Triggering http://localhost/radius/system/time_data_reminder.php...
+http://localhost/radius/system/time_data_reminder.php triggered. Response: 
+Script execution continues...
+Script executed at hour 17. This script runs only at 5 AM. Exiting...
+PHP Time	2024-11-17 17:39:47
+MYSQL Time	2024-11-17 17:39:47
+Column prev_state already exists in tbl_router_cache.
+Column last_seen already exists in tbl_router_cache.
+Processing Router ID 1
+Calling handleNotificationsAndUpdateState for Router ID 1
+Reached handleNotificationsAndUpdateState function for Router ID 1
+Router ID 1: Current state is Online, Previous state is Online
+Router ID 1: Notification phone is 
+No state change for Router ID 1: Current state is Online, Previous state is Online
+Updating prev_state for Router ID 1 from Online to Online
+Successfully updated prev_state for Router ID 1 to Online
+Table tbl_router_status_history already exists.
+Processing Router ID: 1
+Attempting to establish connection to Router ID: 1 at IP: 192.168.180.10
+Connection to Router ID: 1 successful.
+Fetching active users for Router ID: 1
+Active users fetched for Router ID: 1
+Fetched 4 customers connected to Router ID: 1
+Processing customer: 254796381603-B:79
+User recharge record found for customer: 254796381603-B:79
+Setting state for customer: 254796381603-B:79 to Offline
+Customer: 254796381603-B:79 went offline. Updating last_seen.
+State for customer: 254796381603-B:79 updated to Offline
+Processing customer: peter
+User recharge record found for customer: peter
+Customer: peter is inactive. Set to Offline.
+Processing customer: 256781468000
+No user recharge record found for customer: 256781468000
+Setting state for customer: 256781468000 to Offline
+Processing customer: 0781468000
+No user recharge record found for customer: 0781468000
+Setting state for customer: 0781468000 to Offline
+Table tbl_router_backups already exists.
+Backup already performed today, exiting script.
+Triggering http://localhost/radius/system/disconnection.php...
+http://localhost/radius/system/disconnection.php triggered. Response: 
+Triggering http://localhost/radius/system/time_data_reminder.php...
+http://localhost/radius/system/time_data_reminder.php triggered. Response: 
+Script execution continues...
+Script executed at hour 17. This script runs only at 5 AM. Exiting...
+PHP Time	2024-11-17 17:41:49
+MYSQL Time	2024-11-17 17:41:49
+Column prev_state already exists in tbl_router_cache.
+Column last_seen already exists in tbl_router_cache.
+Processing Router ID 1
+Calling handleNotificationsAndUpdateState for Router ID 1
+Reached handleNotificationsAndUpdateState function for Router ID 1
+Router ID 1: Current state is Online, Previous state is Online
+Router ID 1: Notification phone is 
+No state change for Router ID 1: Current state is Online, Previous state is Online
+Updating prev_state for Router ID 1 from Online to Online
+Successfully updated prev_state for Router ID 1 to Online
+Table tbl_router_status_history already exists.
+Processing Router ID: 1
+Attempting to establish connection to Router ID: 1 at IP: 192.168.180.10
+Connection to Router ID: 1 successful.
+Fetching active users for Router ID: 1
+Active users fetched for Router ID: 1
+Fetched 4 customers connected to Router ID: 1
+Processing customer: 254796381603-B:79
+User recharge record found for customer: 254796381603-B:79
+Setting state for customer: 254796381603-B:79 to Offline
+State for customer: 254796381603-B:79 updated to Offline
+Processing customer: peter
+User recharge record found for customer: peter
+Customer: peter is inactive. Set to Offline.
+Processing customer: 256781468000
+No user recharge record found for customer: 256781468000
+Setting state for customer: 256781468000 to Offline
+Processing customer: 0781468000
+No user recharge record found for customer: 0781468000
+Setting state for customer: 0781468000 to Offline
+Table tbl_router_backups already exists.
+Backup already performed today, exiting script.
+Triggering http://localhost/radius/system/disconnection.php...
+http://localhost/radius/system/disconnection.php triggered. Response: 
+Triggering http://localhost/radius/system/time_data_reminder.php...
+http://localhost/radius/system/time_data_reminder.php triggered. Response: 
+Script execution continues...
+Script executed at hour 17. This script runs only at 5 AM. Exiting...
+PHP Time	2024-11-17 17:42:32
+MYSQL Time	2024-11-17 17:42:32
+Column prev_state already exists in tbl_router_cache.
+Column last_seen already exists in tbl_router_cache.
+Processing Router ID 1
+Calling handleNotificationsAndUpdateState for Router ID 1
+Reached handleNotificationsAndUpdateState function for Router ID 1
+Router ID 1: Current state is Online, Previous state is Online
+Router ID 1: Notification phone is 
+No state change for Router ID 1: Current state is Online, Previous state is Online
+Updating prev_state for Router ID 1 from Online to Online
+Successfully updated prev_state for Router ID 1 to Online
+Table tbl_router_status_history already exists.
+Processing Router ID: 1
+Attempting to establish connection to Router ID: 1 at IP: 192.168.180.10
+Connection to Router ID: 1 successful.
+Fetching active users for Router ID: 1
+Active users fetched for Router ID: 1
+Fetched 4 customers connected to Router ID: 1
+Processing customer: 254796381603-B:79
+User recharge record found for customer: 254796381603-B:79
+Setting state for customer: 254796381603-B:79 to Offline
+State for customer: 254796381603-B:79 updated to Offline
+Processing customer: peter
+User recharge record found for customer: peter
+Customer: peter is inactive. Set to Offline.
+Processing customer: 256781468000
+No user recharge record found for customer: 256781468000
+Setting state for customer: 256781468000 to Offline
+Processing customer: 0781468000
+No user recharge record found for customer: 0781468000
+Setting state for customer: 0781468000 to Offline
+Table tbl_router_backups already exists.
+Backup already performed today, exiting script.
+Triggering http://localhost/radius/system/disconnection.php...
+http://localhost/radius/system/disconnection.php triggered. Response: 
+Triggering http://localhost/radius/system/time_data_reminder.php...
+http://localhost/radius/system/time_data_reminder.php triggered. Response: 
+Script execution continues...
+Script executed at hour 17. This script runs only at 5 AM. Exiting...
+PHP Time	2024-11-17 17:52:40
+MYSQL Time	2024-11-17 17:52:40
+Column prev_state already exists in tbl_router_cache.
+Column last_seen already exists in tbl_router_cache.
+Processing Router ID 1
+Calling handleNotificationsAndUpdateState for Router ID 1
+Reached handleNotificationsAndUpdateState function for Router ID 1
+Router ID 1: Current state is Online, Previous state is Online
+Router ID 1: Notification phone is 
+No state change for Router ID 1: Current state is Online, Previous state is Online
+Updating prev_state for Router ID 1 from Online to Online
+Successfully updated prev_state for Router ID 1 to Online
+Table tbl_router_status_history already exists.
+Processing Router ID: 1
+Attempting to establish connection to Router ID: 1 at IP: 192.168.180.10
+Connection to Router ID: 1 successful.
+Fetching active users for Router ID: 1
+Active users fetched for Router ID: 1
+Fetched 4 customers connected to Router ID: 1
+Processing customer: 254796381603-B:79
+User recharge record found for customer: 254796381603-B:79
+Setting state for customer: 254796381603-B:79 to Offline
+State for customer: 254796381603-B:79 updated to Offline
+Processing customer: peter
+User recharge record found for customer: peter
+Customer: peter is inactive. Set to Offline.
+Processing customer: 256781468000
+No user recharge record found for customer: 256781468000
+Setting state for customer: 256781468000 to Offline
+Processing customer: 0781468000
+No user recharge record found for customer: 0781468000
+Setting state for customer: 0781468000 to Offline
+Table tbl_router_backups already exists.
+Backup already performed today, exiting script.
+Triggering http://localhost/radius/system/disconnection.php...
+http://localhost/radius/system/disconnection.php triggered. Response: 
+Triggering http://localhost/radius/system/time_data_reminder.php...
+http://localhost/radius/system/time_data_reminder.php triggered. Response: 
+Script execution continues...
+Script executed at hour 17. This script runs only at 5 AM. Exiting...
+PHP Time	2024-11-17 22:21:15
+MYSQL Time	2024-11-17 22:21:15
+Column prev_state already exists in tbl_router_cache.
+Column last_seen already exists in tbl_router_cache.
+Processing Router ID 1
+Calling handleNotificationsAndUpdateState for Router ID 1
+Reached handleNotificationsAndUpdateState function for Router ID 1
+Router ID 1: Current state is Online, Previous state is Online
+Router ID 1: Notification phone is 
+No state change for Router ID 1: Current state is Online, Previous state is Online
+Updating prev_state for Router ID 1 from Online to Online
+Successfully updated prev_state for Router ID 1 to Online
+Processing Router ID 2
+Calling handleNotificationsAndUpdateState for Router ID 2
+Reached handleNotificationsAndUpdateState function for Router ID 2
+Router ID 2: Current state is Online, Previous state is 
+Router ID 2: Notification phone is 
+Sent online notification for Router ID 2
+Logged online event for Router ID 2
+Updating prev_state for Router ID 2 from  to Online
+Successfully updated prev_state for Router ID 2 to Online
+Table tbl_router_status_history already exists.
+Processing Router ID: 1
+Attempting to establish connection to Router ID: 1 at IP: 192.168.180.10
+Connection to Router ID: 1 successful.
+Fetching active users for Router ID: 1
+Active users fetched for Router ID: 1
+Fetched 4 customers connected to Router ID: 1
+Processing customer: 254796381603-B:79
+User recharge record found for customer: 254796381603-B:79
+Setting state for customer: 254796381603-B:79 to Offline
+State for customer: 254796381603-B:79 updated to Offline
+Processing customer: peter
+User recharge record found for customer: peter
+Setting state for customer: peter to Offline
+State for customer: peter updated to Offline
+Processing customer: 256781468000
+No user recharge record found for customer: 256781468000
+Setting state for customer: 256781468000 to Offline
+Processing customer: 0781468000
+No user recharge record found for customer: 0781468000
+Setting state for customer: 0781468000 to Offline
+Processing Router ID: 2
+Attempting to establish connection to Router ID: 2 at IP: 192.168.88.1
+Connection to Router ID: 2 successful.
+Fetching active users for Router ID: 2
+Active users fetched for Router ID: 2
+Fetched 0 customers connected to Router ID: 2
+Table tbl_router_backups already exists.
+Backup already performed today, exiting script.
+Triggering http://localhost/radius/system/disconnection.php...
+http://localhost/radius/system/disconnection.php triggered. Response: 
+Triggering http://localhost/radius/system/time_data_reminder.php...
+http://localhost/radius/system/time_data_reminder.php triggered. Response: 
+Script execution continues...
+Script executed at hour 22. This script runs only at 5 AM. Exiting...
+PHP Time	2024-11-17 22:24:20
+MYSQL Time	2024-11-17 22:24:20
+Column prev_state already exists in tbl_router_cache.
+Column last_seen already exists in tbl_router_cache.
+Processing Router ID 1
+Calling handleNotificationsAndUpdateState for Router ID 1
+Reached handleNotificationsAndUpdateState function for Router ID 1
+Router ID 1: Current state is Online, Previous state is Online
+Router ID 1: Notification phone is 
+No state change for Router ID 1: Current state is Online, Previous state is Online
+Updating prev_state for Router ID 1 from Online to Online
+Successfully updated prev_state for Router ID 1 to Online
+Processing Router ID 2
+Calling handleNotificationsAndUpdateState for Router ID 2
+Reached handleNotificationsAndUpdateState function for Router ID 2
+Router ID 2: Current state is Online, Previous state is Online
+Router ID 2: Notification phone is 
+No state change for Router ID 2: Current state is Online, Previous state is Online
+Updating prev_state for Router ID 2 from Online to Online
+Successfully updated prev_state for Router ID 2 to Online
+Table tbl_router_status_history already exists.
+Processing Router ID: 1
+Attempting to establish connection to Router ID: 1 at IP: 192.168.180.10
+Connection to Router ID: 1 successful.
+Fetching active users for Router ID: 1
+Active users fetched for Router ID: 1
+Fetched 4 customers connected to Router ID: 1
+Processing customer: 254796381603-B:79
+User recharge record found for customer: 254796381603-B:79
+Setting state for customer: 254796381603-B:79 to Offline
+State for customer: 254796381603-B:79 updated to Offline
+Processing customer: peter
+User recharge record found for customer: peter
+Setting state for customer: peter to Offline
+State for customer: peter updated to Offline
+Processing customer: 256781468000
+No user recharge record found for customer: 256781468000
+Setting state for customer: 256781468000 to Offline
+Processing customer: 0781468000
+No user recharge record found for customer: 0781468000
+Setting state for customer: 0781468000 to Offline
+Processing Router ID: 2
+Attempting to establish connection to Router ID: 2 at IP: 192.168.88.1
+Connection to Router ID: 2 successful.
+Fetching active users for Router ID: 2
+Active users fetched for Router ID: 2
+Fetched 0 customers connected to Router ID: 2
+Table tbl_router_backups already exists.
+Backup already performed today, exiting script.
+Triggering http://localhost/radius/system/disconnection.php...
+http://localhost/radius/system/disconnection.php triggered. Response: 
+Triggering http://localhost/radius/system/time_data_reminder.php...
+http://localhost/radius/system/time_data_reminder.php triggered. Response: 
+Triggering http://localhost/radius/system/fup_cron.php...
+http://localhost/radius/system/fup_cron.php triggered. Response: 
+Script execution continues...
+Script executed at hour 22. This script runs only at 5 AM. Exiting...
+PHP Time	2024-11-22 11:41:31
+MYSQL Time	2024-11-22 11:41:31
+Column prev_state already exists in tbl_router_cache.
+Column last_seen already exists in tbl_router_cache.
+Processing Router ID 1
+Calling handleNotificationsAndUpdateState for Router ID 1
+Reached handleNotificationsAndUpdateState function for Router ID 1
+Router ID 1: Current state is Online, Previous state is Online
+Router ID 1: Notification phone is 
+No state change for Router ID 1: Current state is Online, Previous state is Online
+Updating prev_state for Router ID 1 from Online to Online
+Successfully updated prev_state for Router ID 1 to Online
+Processing Router ID 2
+Calling handleNotificationsAndUpdateState for Router ID 2
+Reached handleNotificationsAndUpdateState function for Router ID 2
+Router ID 2: Current state is Online, Previous state is Online
+Router ID 2: Notification phone is 
+No state change for Router ID 2: Current state is Online, Previous state is Online
+Updating prev_state for Router ID 2 from Online to Online
+Successfully updated prev_state for Router ID 2 to Online
+Table tbl_router_status_history already exists.
+Processing Router ID: 1
+Attempting to establish connection to Router ID: 1 at IP: 192.168.180.10
+Connection to Router ID: 1 successful.
+Fetching active users for Router ID: 1
+Active users fetched for Router ID: 1
+Fetched 4 customers connected to Router ID: 1
+Processing customer: 254796381603-B:79
+User recharge record found for customer: 254796381603-B:79
+Setting state for customer: 254796381603-B:79 to Offline
+State for customer: 254796381603-B:79 updated to Offline
+Processing customer: peter
+User recharge record found for customer: peter
+Setting state for customer: peter to Offline
+State for customer: peter updated to Offline
+Processing customer: 256781468000
+No user recharge record found for customer: 256781468000
+Setting state for customer: 256781468000 to Offline
+Processing customer: 0781468000
+No user recharge record found for customer: 0781468000
+Setting state for customer: 0781468000 to Offline
+Processing Router ID: 2
+Attempting to establish connection to Router ID: 2 at IP: 192.168.88.1
+Connection to Router ID: 2 successful.
+Fetching active users for Router ID: 2
+Active users fetched for Router ID: 2
+Fetched 0 customers connected to Router ID: 2
+Table tbl_router_backups already exists.
+Starting backup for router with IP: 192.168.180.10
+Backup save response: {}
+Connected to FTP server at 192.168.180.10
+Logged in to FTP server and set passive mode
+Successfully downloaded backup file freeispradius_backup_20241122_114132.backup to F:\xampp\htdocs\radius\system/../backups/freeispradius_backup_20241122_114132.backup
+Backup record saved for router ID 1 at 2024-11-22 11:41:33 with path F:\xampp\htdocs\radius\system/../backups/freeispradius_backup_20241122_114132.backup
+Deleted old backup file from server: F:\xampp\htdocs\radius\system/../backups/freeispradius_backup_20241026_173008.backup
+Fetching backup files from router
+Backup file on router: freeispradius_backup_20241122_114132.backup, created at: nov/22/2024 11:41:33
+Backup file on router: freeispradius_backup_20241026_000033.backup, created at: oct/26/2024 00:00:34
+Backup file on router: freeispradius_backup_20241106_000031.backup, created at: nov/06/2024 11:00:30
+Backup file on router: freeispradius_backup_20240922_000243.backup, created at: sep/22/2024 03:02:43
+Backup file on router: freeispradius_backup_20241007_000313.backup, created at: oct/07/2024 03:03:13
+Backup file on router: freeispradius_backup_20240923_000252.backup, created at: sep/23/2024 03:02:53
+Attempting to delete file from router: freeispradius_backup_20241122_114132.backup
+Deleted old backup file from router: freeispradius_backup_20241122_114132.backup
+Starting backup for router with IP: 192.168.88.1
+Backup save response: {}
+Connected to FTP server at 192.168.88.1
+Logged in to FTP server and set passive mode
+Successfully downloaded backup file freeispradius_backup_20241122_114133.backup to F:\xampp\htdocs\radius\system/../backups/freeispradius_backup_20241122_114133.backup
+Backup record saved for router ID 2 at 2024-11-22 11:41:33 with path F:\xampp\htdocs\radius\system/../backups/freeispradius_backup_20241122_114133.backup
+Deleted old backup file from server: F:\xampp\htdocs\radius\system/../backups/freeispradius_backup_20241026_173009.backup
+Fetching backup files from router
+Backup file on router: freeispradius_backup_20241026_000033.backup, created at: oct/26/2024 00:00:34
+Backup file on router: freeispradius_backup_20241106_000031.backup, created at: nov/06/2024 11:00:30
+Backup file on router: freeispradius_backup_20240922_000243.backup, created at: sep/22/2024 03:02:43
+Backup file on router: freeispradius_backup_20241007_000313.backup, created at: oct/07/2024 03:03:13
+Backup file on router: freeispradius_backup_20240923_000252.backup, created at: sep/23/2024 03:02:53
+Triggering http://localhost/radius/system/disconnection.php...
+http://localhost/radius/system/disconnection.php triggered. Response: 
+Triggering http://localhost/radius/system/time_data_reminder.php...
+http://localhost/radius/system/time_data_reminder.php triggered. Response: 
+Triggering http://localhost/radius/system/fup_cron.php...
+http://localhost/radius/system/fup_cron.php triggered. Response: 
+Script execution continues...
+Script executed at hour 11. This script runs only at 5 AM. Exiting...
+PHP Time	2024-11-22 11:41:55
+MYSQL Time	2024-11-22 11:41:55
+Column prev_state already exists in tbl_router_cache.
+Column last_seen already exists in tbl_router_cache.
+Processing Router ID 1
+Calling handleNotificationsAndUpdateState for Router ID 1
+Reached handleNotificationsAndUpdateState function for Router ID 1
+Router ID 1: Current state is Online, Previous state is Online
+Router ID 1: Notification phone is 
+No state change for Router ID 1: Current state is Online, Previous state is Online
+Updating prev_state for Router ID 1 from Online to Online
+Successfully updated prev_state for Router ID 1 to Online
+Processing Router ID 2
+Calling handleNotificationsAndUpdateState for Router ID 2
+Reached handleNotificationsAndUpdateState function for Router ID 2
+Router ID 2: Current state is Online, Previous state is Online
+Router ID 2: Notification phone is 
+No state change for Router ID 2: Current state is Online, Previous state is Online
+Updating prev_state for Router ID 2 from Online to Online
+Successfully updated prev_state for Router ID 2 to Online
+Table tbl_router_status_history already exists.
+Processing Router ID: 1
+Attempting to establish connection to Router ID: 1 at IP: 192.168.180.10
+Connection to Router ID: 1 successful.
+Fetching active users for Router ID: 1
+Active users fetched for Router ID: 1
+Fetched 4 customers connected to Router ID: 1
+Processing customer: 254796381603-B:79
+User recharge record found for customer: 254796381603-B:79
+Setting state for customer: 254796381603-B:79 to Offline
+State for customer: 254796381603-B:79 updated to Offline
+Processing customer: peter
+User recharge record found for customer: peter
+Setting state for customer: peter to Offline
+State for customer: peter updated to Offline
+Processing customer: 256781468000
+No user recharge record found for customer: 256781468000
+Setting state for customer: 256781468000 to Offline
+Processing customer: 0781468000
+No user recharge record found for customer: 0781468000
+Setting state for customer: 0781468000 to Offline
+Processing Router ID: 2
+Attempting to establish connection to Router ID: 2 at IP: 192.168.88.1
+Connection to Router ID: 2 successful.
+Fetching active users for Router ID: 2
+Active users fetched for Router ID: 2
+Fetched 0 customers connected to Router ID: 2
+Table tbl_router_backups already exists.
+Backup already performed today, exiting script.
+Triggering http://localhost/radius/system/disconnection.php...
+http://localhost/radius/system/disconnection.php triggered. Response: 
+Triggering http://localhost/radius/system/time_data_reminder.php...
+http://localhost/radius/system/time_data_reminder.php triggered. Response: 
+Triggering http://localhost/radius/system/fup_cron.php...
+http://localhost/radius/system/fup_cron.php triggered. Response: 
+Script execution continues...
+Script executed at hour 11. This script runs only at 5 AM. Exiting...
+PHP Time	2024-11-22 13:13:56
+MYSQL Time	2024-11-22 13:13:56
+Column prev_state already exists in tbl_router_cache.
+Column last_seen already exists in tbl_router_cache.
+Processing Router ID 1
+Error with router ID 1: FreeIspRadius is experiencing difficulty connecting to your router, which may be offline. To verify its status, please navigate back to Network > Routers and check the routers current status
+Calling handleNotificationsAndUpdateState for Router ID 1
+Reached handleNotificationsAndUpdateState function for Router ID 1
+Router ID 1: Current state is Offline, Previous state is Online
+Router ID 1: Notification phone is 254113475429
+PHP Time	2024-11-22 13:27:49
+MYSQL Time	2024-11-22 13:27:49
+Column prev_state already exists in tbl_router_cache.
+Column last_seen already exists in tbl_router_cache.
+Processing Router ID 1
+Error with router ID 1: FreeIspRadius is experiencing difficulty connecting to your router, which may be offline. To verify its status, please navigate back to Network > Routers and check the routers current status
+Calling handleNotificationsAndUpdateState for Router ID 1
+Reached handleNotificationsAndUpdateState function for Router ID 1
+Router ID 1: Current state is Offline, Previous state is Online
+Router ID 1: Notification phone is 254113475429
+PHP Time	2024-11-22 19:39:54
+MYSQL Time	2024-11-22 19:39:54
+Column prev_state already exists in tbl_router_cache.
+Column last_seen already exists in tbl_router_cache.
+Processing Router ID 1
+Calling handleNotificationsAndUpdateState for Router ID 1
+Reached handleNotificationsAndUpdateState function for Router ID 1
+Router ID 1: Current state is Online, Previous state is Online
+Router ID 1: Notification phone is 254113475429
+No state change for Router ID 1: Current state is Online, Previous state is Online
+Updating prev_state for Router ID 1 from Online to Online
+Successfully updated prev_state for Router ID 1 to Online
+Processing Router ID 2
+Calling handleNotificationsAndUpdateState for Router ID 2
+Reached handleNotificationsAndUpdateState function for Router ID 2
+Router ID 2: Current state is Online, Previous state is 
+Router ID 2: Notification phone is 254113475429
+Sent online notification for Router ID 2
+Logged online event for Router ID 2
+Updating prev_state for Router ID 2 from  to Online
+Successfully updated prev_state for Router ID 2 to Online
+Table tbl_router_status_history already exists.
+Processing Router ID: 1
+Attempting to establish connection to Router ID: 1 at IP: 192.168.180.10
+Connection to Router ID: 1 successful.
+Fetching active users for Router ID: 1
+Active users fetched for Router ID: 1
+Fetched 34 customers connected to Router ID: 1
+Processing customer: 254113475429-5:35
+User recharge record found for customer: 254113475429-5:35
+Customer: 254113475429-5:35 is inactive. Set to Offline.
+Processing customer: 254702617009
+User recharge record found for customer: 254702617009
+Setting state for customer: 254702617009 to Offline
+State for customer: 254702617009 updated to Offline
+Processing customer: 254702617009-4:35
+User recharge record found for customer: 254702617009-4:35
+Customer: 254702617009-4:35 is inactive. Set to Offline.
+Processing customer: 254793866796-E:D9
+User recharge record found for customer: 254793866796-E:D9
+Customer: 254793866796-E:D9 is inactive. Set to Offline.
+Processing customer: 254113475429-8:5D
+User recharge record found for customer: 254113475429-8:5D
+Setting state for customer: 254113475429-8:5D to Offline
+State for customer: 254113475429-8:5D updated to Offline
+Processing customer: 254710988910-E:D9
+User recharge record found for customer: 254710988910-E:D9
+Customer: 254710988910-E:D9 is inactive. Set to Offline.
+Processing customer: 254113475429-1:9D
+No user recharge record found for customer: 254113475429-1:9D
+Setting state for customer: 254113475429-1:9D to Offline
+Processing customer: 254701292833-1:9D
+User recharge record found for customer: 254701292833-1:9D
+Customer: 254701292833-1:9D is inactive. Set to Offline.
+Processing customer: 254701292833-9:0F
+No user recharge record found for customer: 254701292833-9:0F
+Setting state for customer: 254701292833-9:0F to Offline
+Processing customer: 254743414375-8:F2
+User recharge record found for customer: 254743414375-8:F2
+Customer: 254743414375-8:F2 is inactive. Set to Offline.
+Processing customer: 254702617009-C:D2
+User recharge record found for customer: 254702617009-C:D2
+Customer: 254702617009-C:D2 is inactive. Set to Offline.
+Processing customer: matoke
+User recharge record found for customer: matoke
+Setting state for customer: matoke to Offline
+State for customer: matoke updated to Offline
+Processing customer: admin
+User recharge record found for customer: admin
+Setting state for customer: admin to Offline
+State for customer: admin updated to Offline
+Processing customer: 254113475429-3:03
+User recharge record found for customer: 254113475429-3:03
+Customer: 254113475429-3:03 is inactive. Set to Offline.
+Processing customer: juma
+User recharge record found for customer: juma
+Setting state for customer: juma to Offline
+Customer: juma went offline. Updating last_seen.
+State for customer: juma updated to Offline
+Processing customer: essence
+User recharge record found for customer: essence
+Setting state for customer: essence to Offline
+State for customer: essence updated to Offline
+Processing customer: stephen
+User recharge record found for customer: stephen
+Setting state for customer: stephen to Offline
+Customer: stephen went offline. Updating last_seen.
+State for customer: stephen updated to Offline
+Processing customer: ivan
+User recharge record found for customer: ivan
+Setting state for customer: ivan to Offline
+State for customer: ivan updated to Offline
+Processing customer: kingsley
+User recharge record found for customer: kingsley
+Setting state for customer: kingsley to Offline
+State for customer: kingsley updated to Offline
+Processing customer: aricha
+User recharge record found for customer: aricha
+Setting state for customer: aricha to Offline
+State for customer: aricha updated to Offline
+Processing customer: 254757895915-B:96
+User recharge record found for customer: 254757895915-B:96
+Customer: 254757895915-B:96 is inactive. Set to Offline.
+Processing customer: user
+No user recharge record found for customer: user
+Setting state for customer: user to Offline
+Processing customer: 254713790159-3:03
+No user recharge record found for customer: 254713790159-3:03
+Setting state for customer: 254713790159-3:03 to Offline
+Processing customer: 254799007943-8:8A
+User recharge record found for customer: 254799007943-8:8A
+Setting state for customer: 254799007943-8:8A to Offline
+State for customer: 254799007943-8:8A updated to Offline
+Processing customer: 254113475429-8:8A
+No user recharge record found for customer: 254113475429-8:8A
+Setting state for customer: 254113475429-8:8A to Offline
+Processing customer: 254113475429-7:63
+User recharge record found for customer: 254113475429-7:63
+Setting state for customer: 254113475429-7:63 to Offline
+State for customer: 254113475429-7:63 updated to Offline
+Processing customer: 254717265280-1:51
+User recharge record found for customer: 254717265280-1:51
+Setting state for customer: 254717265280-1:51 to Offline
+State for customer: 254717265280-1:51 updated to Offline
+Processing customer: 254113475429-1:51
+No user recharge record found for customer: 254113475429-1:51
+Setting state for customer: 254113475429-1:51 to Offline
+Processing customer: 254746417204-0:02
+No user recharge record found for customer: 254746417204-0:02
+Setting state for customer: 254746417204-0:02 to Offline
+Processing customer: 254743324288-F:85
+User recharge record found for customer: 254743324288-F:85
+Setting state for customer: 254743324288-F:85 to Offline
+Customer: 254743324288-F:85 went offline. Updating last_seen.
+State for customer: 254743324288-F:85 updated to Offline
+Processing customer: 254113475429-C:91
+User recharge record found for customer: 254113475429-C:91
+Customer: 254113475429-C:91 is inactive. Set to Offline.
+Processing customer: 254701076995-9:D5
+User recharge record found for customer: 254701076995-9:D5
+Setting state for customer: 254701076995-9:D5 to Offline
+Customer: 254701076995-9:D5 went offline. Updating last_seen.
+State for customer: 254701076995-9:D5 updated to Offline
+Processing customer: 254748952103-9:D5
+No user recharge record found for customer: 254748952103-9:D5
+Setting state for customer: 254748952103-9:D5 to Offline
+Processing customer: 254714438165-F:45
+No user recharge record found for customer: 254714438165-F:45
+Setting state for customer: 254714438165-F:45 to Offline
+Processing Router ID: 2
+Attempting to establish connection to Router ID: 2 at IP: 192.168.88.1
+Connection to Router ID: 2 successful.
+Fetching active users for Router ID: 2
+Active users fetched for Router ID: 2
+Fetched 0 customers connected to Router ID: 2
+Table tbl_router_backups already exists.
+Backup already performed today, exiting script.
+Triggering http://localhost/radius/system/disconnection.php...
+http://localhost/radius/system/disconnection.php triggered. Response: 
+Triggering http://localhost/radius/system/time_data_reminder.php...
+http://localhost/radius/system/time_data_reminder.php triggered. Response: 
+Triggering http://localhost/radius/system/fup_cron.php...
+http://localhost/radius/system/fup_cron.php triggered. Response: 
+Script execution continues...
+Script executed at hour 19. This script runs only at 5 AM. Exiting...
+PHP Time	2025-01-07 23:11:17
+MYSQL Time	2025-01-07 23:11:17
+Column prev_state already exists in tbl_router_cache.
+Column last_seen already exists in tbl_router_cache.
+Processing Router ID 1
+Error with router ID 1: FreeIspRadius is experiencing difficulty connecting to your router, which may be offline. To verify its status, please navigate back to Network > Routers and check the routers current status
+Calling handleNotificationsAndUpdateState for Router ID 1
+Reached handleNotificationsAndUpdateState function for Router ID 1
+Router ID 1: Current state is Offline, Previous state is Online
+Router ID 1: Notification phone is 254113475429
+Sent offline notification for Router ID 1
+Logged offline event for Router ID 1
+Updating prev_state for Router ID 1 from Online to Offline
+Successfully updated prev_state for Router ID 1 to Offline
+Table tbl_router_status_history already exists.
+Processing Router ID: 1
+Attempting to establish connection to Router ID: 1 at IP: 10.8.0.190
+Error with Router ID: 1 - FreeIspRadius is experiencing difficulty connecting to your router, which may be offline. To verify its status, please navigate back to Network > Routers and check the routers current status
+Router ID 1 is unreachable or offline. Setting all users to Offline.
+Fetched 1 users associated with Router ID: 1
+Setting state to Offline for user: 63796381604-mac)
+User: 63796381604-mac) set to Offline.
+Table tbl_router_backups already exists.
+Starting backup for router with IP: 10.8.0.190
+Backup error for router with IP 10.8.0.190: FreeIspRadius is experiencing difficulty connecting to your router, which may be offline. To verify its status, please navigate back to Network > Routers and check the routers current status
+Triggering http://localhost/radius/system/disconnection.php...
+http://localhost/radius/system/disconnection.php triggered. Response: 
+Triggering http://localhost/radius/system/time_data_reminder.php...
+http://localhost/radius/system/time_data_reminder.php triggered. Response: 
+Triggering http://localhost/radius/system/fup_cron.php...
+http://localhost/radius/system/fup_cron.php triggered. Response: 
+Script execution continues...
+Script executed at hour 23. This script runs only at 5 AM. Exiting...
+PHP Time	2025-01-07 23:17:19
+MYSQL Time	2025-01-07 23:17:19
+Column prev_state already exists in tbl_router_cache.
+Column last_seen already exists in tbl_router_cache.
+Processing Router ID 1
+Error with router ID 1: FreeIspRadius is experiencing difficulty connecting to your router, which may be offline. To verify its status, please navigate back to Network > Routers and check the routers current status
+Calling handleNotificationsAndUpdateState for Router ID 1
+Reached handleNotificationsAndUpdateState function for Router ID 1
+Router ID 1: Current state is Offline, Previous state is Offline
+Router ID 1: Notification phone is 254113475429
+No state change for Router ID 1: Current state is Offline, Previous state is Offline
+Updating prev_state for Router ID 1 from Offline to Offline
+Successfully updated prev_state for Router ID 1 to Offline
+Table tbl_router_status_history already exists.
+Processing Router ID: 1
+Attempting to establish connection to Router ID: 1 at IP: 10.8.0.190
+Error with Router ID: 1 - FreeIspRadius is experiencing difficulty connecting to your router, which may be offline. To verify its status, please navigate back to Network > Routers and check the routers current status
+Router ID 1 is unreachable or offline. Setting all users to Offline.
+Fetched 1 users associated with Router ID: 1
+Setting state to Offline for user: 63796381604-mac)
+User: 63796381604-mac) set to Offline.
+Table tbl_router_backups already exists.
+Backup already performed today, exiting script.
+Triggering http://localhost/radius/system/disconnection.php...
+http://localhost/radius/system/disconnection.php triggered. Response: 
+Triggering http://localhost/radius/system/time_data_reminder.php...
+http://localhost/radius/system/time_data_reminder.php triggered. Response: 
+Triggering http://localhost/radius/system/fup_cron.php...
+http://localhost/radius/system/fup_cron.php triggered. Response: 
+Script execution continues...
+Script executed at hour 23. This script runs only at 5 AM. Exiting...

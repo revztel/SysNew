@@ -1,0 +1,127 @@
+[2025-01-06 13:05:22] Received raw data: {"username":"pegggter@gmail.com"}
+[2025-01-06 13:05:22] Starting Italy webhook processing for username: pegggter@gmail.com (plan_id=1, price=1, router_id=1)
+[2025-01-06 13:05:22] Found user record in tbl_customers: pegggter@gmail.com (ID: 64)
+[2025-01-06 13:05:22] Plan found => [ID=1, name=6 HRS, type=Hotspot, validity=6 Hrs]
+[2025-01-06 13:05:22] Using timezone: Africa/Nairobi
+[2025-01-06 13:05:22] Calculated expiry => 2025-01-06 19:05:22
+[2025-01-06 13:05:22] Deleted old recharges for user pegggter@gmail.com
+[2025-01-06 13:05:22] Inserted new recharge record for user=pegggter@gmail.com, plan_id=1
+[2025-01-06 13:05:22] Transaction record inserted for user=pegggter@gmail.com
+[2025-01-06 13:05:22] SMS invoice sent to user=pegggter@gmail.com, phone=0
+[2025-01-06 13:05:22] Attempting to include adduser.php: F:\xampp\htdocs\radius\italy/../system/adduser.php
+[2025-01-06 13:06:57] Successfully included adduser.php for user=pegggter@gmail.com
+[2025-01-06 13:06:57] Webhook processing complete for user=pegggter@gmail.com with plan_id=1.
+[2025-01-06 13:16:30] Received raw data: {"username":"orange@gmail.com"}
+[2025-01-06 13:16:30] Starting Italy webhook processing for username: orange@gmail.com (plan_id=1, price=1, router_id=1)
+[2025-01-06 13:16:30] Found user record in tbl_customers: orange@gmail.com (ID: 65)
+[2025-01-06 13:16:30] Plan found => [ID=1, name=6 HRS, type=Hotspot, validity=6 Hrs]
+[2025-01-06 13:16:30] Using timezone: Africa/Nairobi
+[2025-01-06 13:16:30] Calculated expiry => 2025-01-06 19:16:30
+[2025-01-06 13:16:30] Deleted old recharges for user orange@gmail.com
+[2025-01-06 13:16:31] Inserted new recharge record for user=orange@gmail.com, plan_id=1
+[2025-01-06 13:16:31] Transaction record inserted for user=orange@gmail.com
+[2025-01-06 13:16:31] SMS invoice sent to user=orange@gmail.com, phone=0
+[2025-01-06 13:16:31] Attempting to include adduser.php: F:\xampp\htdocs\radius\italy/../system/adduser.php
+[2025-01-07 11:43:09] Received raw data: {"username":"254796381603"}
+[2025-01-07 11:43:09] Starting Italy webhook processing for username: 254796381603 (plan_id=1, price=1, router_id=1)
+[2025-01-07 11:43:09] Found user record in tbl_customers: 254796381603 (ID: 51)
+[2025-01-07 11:43:09] Plan found => [ID=1, name=6 HRS, type=Hotspot, validity=6 Hrs]
+[2025-01-07 11:43:09] Using timezone: Africa/Nairobi
+[2025-01-07 11:43:09] Calculated expiry => 2025-01-07 17:43:09
+[2025-01-07 11:43:09] Deleted old recharges for user 254796381603
+[2025-01-07 11:43:09] Inserted new recharge record for user=254796381603, plan_id=1
+[2025-01-07 11:43:09] Transaction record inserted for user=254796381603
+[2025-01-07 11:43:11] SMS invoice sent to user=254796381603, phone=254796381603
+[2025-01-07 11:43:11] Attempting to include adduser.php: F:\xampp\htdocs\radius\italy/../system/adduser.php
+[2025-01-07 11:58:17] Received raw data: {"username":"peter@gmail.com"}
+[2025-01-07 11:58:17] Starting Italy webhook processing for username: peter@gmail.com (plan_id=1, price=1, router_id=1)
+[2025-01-07 11:58:17] Found user record in tbl_customers: peter@gmail.com (ID: 60)
+[2025-01-07 11:58:17] Plan found => [ID=1, name=6 HRS, type=Hotspot, validity=6 Hrs]
+[2025-01-07 11:58:17] Using timezone: Africa/Nairobi
+[2025-01-07 11:58:17] Calculated expiry => 2025-01-07 17:58:17
+[2025-01-07 11:58:17] Deleted old recharges for user peter@gmail.com
+[2025-01-07 11:58:17] Inserted new recharge record for user=peter@gmail.com, plan_id=1
+[2025-01-07 11:58:17] Transaction record inserted for user=peter@gmail.com
+[2025-01-07 11:58:18] SMS invoice sent to user=peter@gmail.com, phone=
+[2025-01-07 11:58:18] Attempting to include adduser.php: F:\xampp\htdocs\radius\italy/../system/adduser.php
+[2025-01-07 12:04:40] Received raw data: {"username":"254796381603"}
+[2025-01-07 12:04:40] Starting Italy webhook processing for username: 254796381603 (plan_id=1, price=1, router_id=1)
+[2025-01-07 12:04:40] Found user record in tbl_customers: 254796381603 (ID: 51)
+[2025-01-07 12:04:40] Plan found => [ID=1, name=6 HRS, type=Hotspot, validity=6 Hrs]
+[2025-01-07 12:04:40] Using timezone: Africa/Nairobi
+[2025-01-07 12:04:40] Calculated expiry => 2025-01-07 18:04:40
+[2025-01-07 12:04:40] Deleted old recharges for user 254796381603
+[2025-01-07 12:04:40] Inserted new recharge record for user=254796381603, plan_id=1
+[2025-01-07 12:04:40] Transaction record inserted for user=254796381603
+[2025-01-07 12:04:42] SMS invoice sent to user=254796381603, phone=254796381603
+[2025-01-07 12:04:42] Attempting to include adduser.php: F:\xampp\htdocs\radius\italy/../system/adduser.php
+[2025-01-07 12:09:57] Received raw data: {"username":"254796381603"}
+[2025-01-07 12:09:57] Starting Italy webhook processing for username: 254796381603 (plan_id=1, price=1, router_id=1)
+[2025-01-07 12:09:57] Found user record in tbl_customers: 254796381603 (ID: 66)
+[2025-01-07 12:09:57] Plan found => [ID=1, name=6 HRS, type=Hotspot, validity=6 Hrs]
+[2025-01-07 12:09:57] Using timezone: Africa/Nairobi
+[2025-01-07 12:09:57] Calculated expiry => 2025-01-07 18:09:57
+[2025-01-07 12:09:57] Deleted old recharges for user 254796381603
+[2025-01-07 12:09:57] Inserted new recharge record for user=254796381603, plan_id=1
+[2025-01-07 12:09:57] Transaction record inserted for user=254796381603
+[2025-01-07 12:09:59] SMS invoice sent to user=254796381603, phone=254796381603
+[2025-01-07 12:09:59] Attempting to include adduser.php: F:\xampp\htdocs\radius\italy/../system/adduser.php
+[2025-01-07 14:27:53] Received raw data: {"username":"peter11@gmail.com"}
+[2025-01-07 14:27:53] Starting Italy webhook processing for username: peter11@gmail.com (plan_id=1, price=1, router_id=1)
+[2025-01-07 14:27:53] Found user record in tbl_customers: peter11@gmail.com (ID: 67)
+[2025-01-07 14:27:53] Plan found => [ID=1, name=6 HRS, type=Hotspot, validity=6 Hrs]
+[2025-01-07 14:27:53] Using timezone: Africa/Nairobi
+[2025-01-07 14:27:53] Calculated expiry => 2025-01-07 20:27:53
+[2025-01-07 14:27:53] Deleted old recharges for user peter11@gmail.com
+[2025-01-07 14:27:53] Inserted new recharge record for user=peter11@gmail.com, plan_id=1
+[2025-01-07 14:27:53] Transaction record inserted for user=peter11@gmail.com
+[2025-01-07 14:27:54] SMS invoice sent to user=peter11@gmail.com, phone=0
+[2025-01-07 14:27:54] Attempting to include adduser.php: F:\xampp\htdocs\radius\italy/../system/adduser.php
+[2025-01-07 14:28:24] Received raw data: {"username":"magomere2019@gmail.com"}
+[2025-01-07 14:28:24] Starting Italy webhook processing for username: magomere2019@gmail.com (plan_id=1, price=1, router_id=1)
+[2025-01-07 14:28:24] Found user record in tbl_customers: magomere2019@gmail.com (ID: 68)
+[2025-01-07 14:28:24] Plan found => [ID=1, name=6 HRS, type=Hotspot, validity=6 Hrs]
+[2025-01-07 14:28:24] Using timezone: Africa/Nairobi
+[2025-01-07 14:28:24] Calculated expiry => 2025-01-07 20:28:24
+[2025-01-07 14:28:24] Deleted old recharges for user magomere2019@gmail.com
+[2025-01-07 14:28:24] Inserted new recharge record for user=magomere2019@gmail.com, plan_id=1
+[2025-01-07 14:28:24] Transaction record inserted for user=magomere2019@gmail.com
+[2025-01-07 14:28:25] SMS invoice sent to user=magomere2019@gmail.com, phone=0
+[2025-01-07 14:28:25] Attempting to include adduser.php: F:\xampp\htdocs\radius\italy/../system/adduser.php
+[2025-01-07 14:32:57] Received raw data: {"username":"magomere2019@gmail.com"}
+[2025-01-07 14:32:57] Starting Italy webhook processing for username: magomere2019@gmail.com (plan_id=1, price=1, router_id=1)
+[2025-01-07 14:32:57] Found user record in tbl_customers: magomere2019@gmail.com (ID: 68)
+[2025-01-07 14:32:57] Plan found => [ID=1, name=6 HRS, type=Hotspot, validity=6 Hrs]
+[2025-01-07 14:32:57] Using timezone: Africa/Nairobi
+[2025-01-07 14:32:57] Calculated expiry => 2025-01-07 20:32:57
+[2025-01-07 14:32:57] Deleted old recharges for user magomere2019@gmail.com
+[2025-01-07 14:32:57] Inserted new recharge record for user=magomere2019@gmail.com, plan_id=1
+[2025-01-07 14:32:57] Transaction record inserted for user=magomere2019@gmail.com
+[2025-01-07 14:32:57] SMS invoice sent to user=magomere2019@gmail.com, phone=0
+[2025-01-07 14:32:57] Attempting to include adduser.php: F:\xampp\htdocs\radius\italy/../system/adduser.php
+[2025-01-07 14:34:37] Successfully included adduser.php for user=magomere2019@gmail.com
+[2025-01-07 14:34:37] Webhook processing complete for user=magomere2019@gmail.com with plan_id=1.
+[2025-01-07 14:50:14] Received raw data: {"username":"magomere2019@gmail.com"}
+[2025-01-07 14:50:14] Starting Italy webhook processing for username: magomere2019@gmail.com (plan_id=1, price=1, router_id=1)
+[2025-01-07 14:50:14] Found user record in tbl_customers: magomere2019@gmail.com (ID: 68)
+[2025-01-07 14:50:14] Plan found => [ID=1, name=6 HRS, type=Hotspot, validity=6 Hrs]
+[2025-01-07 14:50:14] Using timezone: Africa/Nairobi
+[2025-01-07 14:50:14] Calculated expiry => 2025-01-07 20:50:14
+[2025-01-07 14:50:14] Deleted old recharges for user magomere2019@gmail.com
+[2025-01-07 14:50:14] Inserted new recharge record for user=magomere2019@gmail.com, plan_id=1
+[2025-01-07 14:50:14] Transaction record inserted for user=magomere2019@gmail.com
+[2025-01-07 14:50:24] SMS invoice sent to user=magomere2019@gmail.com, phone=0
+[2025-01-07 14:50:24] Attempting to include adduser.php: F:\xampp\htdocs\radius\italy/../system/adduser.php
+[2025-01-07 14:52:01] Successfully included adduser.php for user=magomere2019@gmail.com
+[2025-01-07 14:52:01] Webhook processing complete for user=magomere2019@gmail.com with plan_id=1.
+[2025-01-10 20:44:00] Received raw data: {"username":"magomerefrancis61@gmail.com"}
+[2025-01-10 20:44:00] Starting Italy webhook processing for username: magomerefrancis61@gmail.com (plan_id=1, price=1, router_id=1)
+[2025-01-10 20:44:00] Found user record in tbl_customers: magomerefrancis61@gmail.com (ID: 76)
+[2025-01-10 20:44:00] Plan found => [ID=1, name=6 HRS, type=Hotspot, validity=6 Hrs]
+[2025-01-10 20:44:00] Using timezone: Africa/Nairobi
+[2025-01-10 20:44:00] Calculated expiry => 2025-01-11 02:44:00
+[2025-01-10 20:44:00] Deleted old recharges for user magomerefrancis61@gmail.com
+[2025-01-10 20:44:00] Inserted new recharge record for user=magomerefrancis61@gmail.com, plan_id=1
+[2025-01-10 20:44:00] Transaction record inserted for user=magomerefrancis61@gmail.com
+[2025-01-10 20:44:05] SMS invoice sent to user=magomerefrancis61@gmail.com, phone=0
+[2025-01-10 20:44:05] Attempting to include adduser.php: F:\xampp\htdocs\radius\italy/../system/adduser.php

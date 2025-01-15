@@ -1,0 +1,10 @@
+{
+    "expired": "Hello [[name]], your internet package [[package]] has expired",
+    "balance_send": "You sent [[balance]] to [[name]].",
+    "balance_received": "You have received [[balance]] from [[name]].",
+    "reminder_7_day": "Hello *[[name]]*, \r\nyour internet package *[[package]]* will expire in 7 days..",
+    "reminder_3_day": "Hello *[[name]]*, \r\nyour internet package *[[package]]* will expire in 3 days. .",
+    "reminder_1_day": "Hello *[[name]]*,\r\nyour internet package *[[package]]* will expire tomorrow. ",
+    "invoice_paid": "Your account has been activated. Your package will expire on *[[expired_date]]*.",
+    "invoice_balance": "Your account has been activated. Your package will expire on *[[expired_date]]*."
+}

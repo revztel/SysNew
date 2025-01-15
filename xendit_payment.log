@@ -1,0 +1,55 @@
+[2024-12-23 15:10:12] Received data: {"phone_number":"0111777770","plan_id":"29","router_id":"1","mac_address":"$(mac)"}
+[2024-12-23 15:10:12] Computed username: 0111777770-mac from phone=0111777770, mac=$(mac)
+[2024-12-23 15:10:12] Plan: 6 HRS, Price: 150, Router: Allinonecomrade
+[2024-12-23 15:10:12] Transaction record created: 76, username: 0111777770-mac
+[2024-12-23 15:10:14] Invoice creation failed: Your request from IP 102.210.28.23 was rejected as it hasn't been added to IP Allowlist. Visit https://dashboard.xendit.co/settings/developers#ip-allowlist to check and add your server IPs to IP Allowlist
+[2024-12-23 15:19:49] Received data: {"phone_number":"0111777770","plan_id":"29","router_id":"1","mac_address":"$(mac)"}
+[2024-12-23 15:19:49] Computed username: 0111777770-mac from phone=0111777770, mac=$(mac)
+[2024-12-23 15:19:49] Plan: 6 HRS, Price: 150, Router: Allinonecomrade
+[2024-12-23 15:19:49] Transaction record created: 77, username: 0111777770-mac
+[2024-12-23 15:19:53] Invoice created successfully at URL: https://checkout-staging.xendit.co/web/6769718ad1eb9c391efed026
+[2024-12-23 15:37:10] Received data: {"phone_number":"0111777770","plan_id":"29","router_id":"1","mac_address":"$(mac)"}
+[2024-12-23 15:37:10] Computed username: 0111777770-mac from phone=0111777770, mac=$(mac)
+[2024-12-23 15:37:10] Plan: 6 HRS, Price: 150, Router: Allinonecomrade
+[2024-12-23 15:37:11] Transaction record created: 78, username: 0111777770-mac
+[2024-12-23 15:37:14] Invoice created successfully at URL: https://checkout-staging.xendit.co/web/6769759c4cad6660d52d1afe
+[2024-12-29 22:09:46] Received data: {"phone_number":"0796381603","plan_id":"29","router_id":"1","mac_address":"$(mac)"}
+[2024-12-29 22:09:46] Computed username: 0796381603-mac from phone=0796381603, mac=$(mac)
+[2024-12-29 22:09:47] Plan: 6 HRS, Price: 150, Router: Allinonecomrade
+[2024-12-29 22:09:47] Transaction record created: 79, username: 0796381603-mac
+[2024-12-29 22:09:47] Invoice creation failed: Your request from IP 102.216.154.25 was rejected as it hasn't been added to IP Allowlist. Visit https://dashboard.xendit.co/settings/developers#ip-allowlist to check and add your server IPs to IP Allowlist
+[2024-12-29 22:15:24] Received data: {"phone_number":"0963816036","plan_id":"29","router_id":"1","mac_address":"$(mac)"}
+[2024-12-29 22:15:24] Computed username: 0963816036-mac from phone=0963816036, mac=$(mac)
+[2024-12-29 22:15:24] Plan: 6 HRS, Price: 150, Router: Allinonecomrade
+[2024-12-29 22:15:24] Transaction record created: 80, username: 0963816036-mac
+[2024-12-29 22:15:26] Invoice creation failed: Your request from IP 102.216.154.25 was rejected as it hasn't been added to IP Allowlist. Visit https://dashboard.xendit.co/settings/developers#ip-allowlist to check and add your server IPs to IP Allowlist
+[2024-12-29 22:15:55] Received data: {"phone_number":"0963816036","plan_id":"29","router_id":"1","mac_address":"$(mac)"}
+[2024-12-29 22:15:55] Computed username: 0963816036-mac from phone=0963816036, mac=$(mac)
+[2024-12-29 22:15:55] Plan: 6 HRS, Price: 150, Router: Allinonecomrade
+[2024-12-29 22:15:55] Transaction record created: 81, username: 0963816036-mac
+[2024-12-29 22:15:59] Invoice created successfully at URL: https://checkout-staging.xendit.co/web/6771bc114cad668fc83a6905
+[2024-12-29 22:26:10] Received data: {"phone_number":"0796381603","plan_id":"29","router_id":"1","mac_address":"$(mac)"}
+[2024-12-29 22:26:10] Computed username: 0796381603-mac from phone=0796381603, mac=$(mac)
+[2024-12-29 22:26:10] Plan: 6 HRS, Price: 150, Router: Allinonecomrade
+[2024-12-29 22:26:10] Transaction record created: 82, username: 0796381603-mac
+[2024-12-29 22:26:11] Invoice creation failed: Your request from IP 102.216.154.25 was rejected as it hasn't been added to IP Allowlist. Visit https://dashboard.xendit.co/settings/developers#ip-allowlist to check and add your server IPs to IP Allowlist
+[2024-12-29 22:31:13] Received data: {"phone_number":"0796381604","plan_id":"29","router_id":"1","mac_address":"$(mac)"}
+[2024-12-29 22:31:13] Computed username: 0796381604-mac from phone=0796381604, mac=$(mac)
+[2024-12-29 22:31:13] Plan: 6 HRS, Price: 150, Router: Allinonecomrade
+[2024-12-29 22:31:13] Transaction record created: 83, username: 0796381604-mac
+[2024-12-29 22:31:15] Invoice creation failed: Your request from IP 102.216.154.25 was rejected as it hasn't been added to IP Allowlist. Visit https://dashboard.xendit.co/settings/developers#ip-allowlist to check and add your server IPs to IP Allowlist
+[2024-12-29 22:45:49] Received data: {"phone_number":"0796381604","plan_id":"29","router_id":"1","mac_address":"$(mac)"}
+[2024-12-29 22:45:49] Computed username: 0796381604-mac from phone=0796381604, mac=$(mac)
+[2024-12-29 22:45:49] Plan: 6 HRS, Price: 150, Router: Allinonecomrade
+[2024-12-29 22:45:49] Transaction record created: 84, username: 0796381604-mac
+[2024-12-29 22:45:51] Invoice creation failed: Your request from IP 102.216.154.25 was rejected as it hasn't been added to IP Allowlist. Visit https://dashboard.xendit.co/settings/developers#ip-allowlist to check and add your server IPs to IP Allowlist
+[2024-12-30 00:14:36] Received data: {"phone_number":"0796381604","plan_id":"29","router_id":"1","mac_address":"$(mac)"}
+[2024-12-30 00:14:36] Computed username: 0796381604-mac from phone=0796381604, mac=$(mac)
+[2024-12-30 00:14:36] Plan: 6 HRS, Price: 150, Router: Allinonecomrade
+[2024-12-30 00:14:36] Transaction record created: 89, username: 0796381604-mac
+[2024-12-30 00:14:43] Invoice created successfully at URL: https://checkout-staging.xendit.co/web/6771d7e54cad6631893a9441
+[2024-12-31 02:11:56] Received data: {"phone_number":"0796381603","plan_id":"29","router_id":"1","mac_address":"$(mac)"}
+[2024-12-31 02:11:56] Computed username: 63796381603-mac) from phone=63796381603, mac=$(mac)
+[2024-12-31 02:11:56] Plan: 6 HRS, Price: 150, Router: Allinonecomrade
+[2024-12-31 02:11:56] Transaction record created: 90, username: 63796381603-mac)
+[2024-12-31 02:11:58] Invoice creation failed: Your request from IP 102.216.154.25 was rejected as it hasn't been added to IP Allowlist. Visit https://dashboard.xendit.co/settings/developers#ip-allowlist to check and add your server IPs to IP Allowlist

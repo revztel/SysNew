@@ -1,0 +1,62 @@
+[2024-11-17 15:41:51] Database connection successful
+[2024-11-17 17:41:51] Timezone set to: Africa/Nairobi
+[2024-11-17 17:41:51] Fetched 1 active hotspot users
+[2024-11-17 17:41:51] Processing user 254796381603-B:79 with plan 1 (5 mbps)
+[2024-11-17 17:41:51] Connected to router at 192.168.180.10 for user 254796381603-B:79
+[2024-11-17 17:41:51] Expiration DateTime: 2024-11-17 17:44:47
+[2024-11-17 17:41:51] Current DateTime: 2024-11-17 17:41:51
+[2024-11-17 17:41:51] Remaining Seconds: 176
+[2024-11-17 17:41:51] Sending sms message to 254796381603 using URL: https://sms.ispledger.com/sms/send?api=1|25qbsrYwfGN1YiSGOK4cfEtSGSHYUby1X2pnn5EH&SenderId=TOPSPEED&msg=Dear+customer%2C+your+internet+plan+%275+mbps%27+is+about+to+expire+at+2024-11-17+17%3A44%3A47.&phone=254796381603
+[2024-11-17 17:41:53] Sms message sent successfully to 254796381603. Response: {"status":"success","message":"Your message was successfully delivered","data":{"uid":"673a00b2d3d1d","to":"254796381603","from":"TOPSPEED","message":"Dear customer, your internet plan '5 mbps' is about to expire at 2024-11-17 17:44:47.","status":"Delivered","cost":"1"}}
+[2024-11-17 17:41:53] Sending wa message to 254796381603 using URL: https://whatsapp.ispledger.com/api/sendWA?to=254796381603&msg=Dear+customer%2C+your+internet+plan+%275+mbps%27+is+about+to+expire+at+2024-11-17+17%3A44%3A47.&secret=9ce41efa34caca533c86cedb62f1f4b5
+[2024-11-17 17:41:56] Wa message sent successfully to 254796381603. Response: {"success":true,"message":"message saved","metadata":{"to":"254796381603","msg":"Dear customer, your internet plan '5 mbps' is about to expire at 2024-11-17 17:44:47.","secret":"9ce41efa34caca533c86cedb62f1f4b5"},"result":{"type":"paid","queue_id":"dac7b5c6c97d65c579d32035af646209"}}
+[2024-11-17 17:41:57] Set reminder_sent to 'yes' for user 254796381603-B:79
+[2024-11-17 17:41:57] Reminder check completed.
+[2024-11-17 15:42:34] Database connection successful
+[2024-11-17 17:42:34] Timezone set to: Africa/Nairobi
+[2024-11-17 17:42:34] Fetched 0 active hotspot users
+[2024-11-17 17:42:34] Reminder check completed.
+[2024-11-17 15:52:41] Database connection successful
+[2024-11-17 17:52:41] Timezone set to: Africa/Nairobi
+[2024-11-17 17:52:41] Fetched 0 active hotspot users
+[2024-11-17 17:52:41] Reminder check completed.
+[2024-11-17 20:21:18] Database connection successful
+[2024-11-17 22:21:18] Timezone set to: Africa/Nairobi
+[2024-11-17 22:21:18] Fetched 1 active hotspot users
+[2024-11-17 22:21:18] Processing user peter with plan 1 (5 mbps)
+[2024-11-17 22:21:18] Connected to router at 192.168.180.10 for user peter
+[2024-11-17 22:21:18] Time reminders are disabled in app config. Skipping user peter.
+[2024-11-17 22:21:18] Reminder check completed.
+[2024-11-17 20:24:24] Database connection successful
+[2024-11-17 22:24:24] Timezone set to: Africa/Nairobi
+[2024-11-17 22:24:24] Fetched 1 active hotspot users
+[2024-11-17 22:24:24] Processing user peter with plan 1 (5 mbps)
+[2024-11-17 22:24:24] Connected to router at 192.168.180.10 for user peter
+[2024-11-17 22:24:24] Time reminders are disabled in app config. Skipping user peter.
+[2024-11-17 22:24:24] Reminder check completed.
+[2024-11-22 09:41:35] Database connection successful
+[2024-11-22 11:41:35] Timezone set to: Africa/Nairobi
+[2024-11-22 11:41:35] Fetched 1 active hotspot users
+[2024-11-22 11:41:35] Processing user peter with plan 1 (5 mbps)
+[2024-11-22 11:41:35] Connected to router at 192.168.180.10 for user peter
+[2024-11-22 11:41:35] Time reminders are disabled in app config. Skipping user peter.
+[2024-11-22 11:41:35] Reminder check completed.
+[2024-11-22 09:41:58] Database connection successful
+[2024-11-22 11:41:58] Timezone set to: Africa/Nairobi
+[2024-11-22 11:41:58] Fetched 1 active hotspot users
+[2024-11-22 11:41:58] Processing user peter with plan 1 (5 mbps)
+[2024-11-22 11:41:58] Connected to router at 192.168.180.10 for user peter
+[2024-11-22 11:41:58] Time reminders are disabled in app config. Skipping user peter.
+[2024-11-22 11:41:58] Reminder check completed.
+[2024-11-22 17:39:57] Database connection successful
+[2024-11-22 19:39:57] Timezone set to: Africa/Nairobi
+[2024-11-22 19:39:57] Fetched 0 active hotspot users
+[2024-11-22 19:39:57] Reminder check completed.
+[2025-01-07 21:13:05] Database connection successful
+[2025-01-07 23:13:05] Timezone set to: Africa/Nairobi
+[2025-01-07 23:13:05] Fetched 0 active hotspot users
+[2025-01-07 23:13:05] Reminder check completed.
+[2025-01-07 21:18:43] Database connection successful
+[2025-01-07 23:18:43] Timezone set to: Africa/Nairobi
+[2025-01-07 23:18:43] Fetched 0 active hotspot users
+[2025-01-07 23:18:43] Reminder check completed.

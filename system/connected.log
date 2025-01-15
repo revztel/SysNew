@@ -1,0 +1,44 @@
+[2025-01-06 11:05:30] Database connection successful
+[2025-01-06 11:05:30] Column `was_connected` already exists in `tbl_user_recharges`
+[2025-01-06 11:05:30] Column `reconnection` already exists in `tbl_user_recharges`
+[2025-01-06 11:05:30] Received request for username: pegggter@gmail.com, routerId: 1
+[2025-01-06 11:05:30] Router details fetched for routerId: 1
+[2025-01-06 11:05:30] Sleeping for 80 seconds before checking the connection
+[2025-01-06 11:06:54] Connected to router at 10.8.0.190
+[2025-01-06 11:06:56] User pegggter@gmail.com is NOT connected to the hotspot
+[2025-01-06 11:06:56] Extracted phone number: pegggter@gmail.com
+[2025-01-06 11:06:56] Fetched SMS URL: 
+[2025-01-06 11:06:56] Fetched WhatsApp URL: 
+[2025-01-06 11:06:56] SMS URL not configured. SMS not sent.
+[2025-01-06 11:06:56] WhatsApp URL not configured. WhatsApp message not sent.
+[2025-01-06 11:06:56] Updated tbl_user_recharges for user pegggter@gmail.com (was_connected: no, reconnection: sms sent)
+[2025-01-07 12:33:08] Database connection successful
+[2025-01-07 12:33:08] Column `was_connected` already exists in `tbl_user_recharges`
+[2025-01-07 12:33:08] Column `reconnection` already exists in `tbl_user_recharges`
+[2025-01-07 12:33:08] Received request for username: magomere2019@gmail.com, routerId: 1
+[2025-01-07 12:33:08] Router details fetched for routerId: 1
+[2025-01-07 12:33:08] Sleeping for 80 seconds before checking the connection
+[2025-01-07 12:34:31] Connected to router at 10.8.0.190
+[2025-01-07 12:34:33] User magomere2019@gmail.com is NOT connected to the hotspot
+[2025-01-07 12:34:33] Extracted phone number: magomere2019@gmail.com
+[2025-01-07 12:34:33] Fetched SMS URL: https://sms.ispledger.com/sms/send?api=1|25qbsrYwfGN1YiSGOK4cfEtSGSHYUby1X2pnn5EH&SenderId=TOPSPEED&msg=[text]&phone=[number]
+[2025-01-07 12:34:33] Fetched WhatsApp URL: 
+[2025-01-07 12:34:33] Sending SMS to magomere2019@gmail.com using URL: https://sms.ispledger.com/sms/send?api=1|25qbsrYwfGN1YiSGOK4cfEtSGSHYUby1X2pnn5EH&SenderId=TOPSPEED&msg=Hello%2C+we+have+noticed+you+haven%27t+been+connected+to+internet.+Kindly+open+your+WiFi+and+click+on+sign+in.+You+will+be+reconnected+automatically.&phone=magomere2019@gmail.com
+[2025-01-07 12:34:35] SMS sent successfully. Response: {"status":"error","message":"The string supplied did not seem to be a phone number.","data":null}
+[2025-01-07 12:34:35] WhatsApp URL not configured. WhatsApp message not sent.
+[2025-01-07 12:34:35] Updated tbl_user_recharges for user magomere2019@gmail.com (was_connected: no, reconnection: sms sent)
+[2025-01-07 12:50:31] Database connection successful
+[2025-01-07 12:50:31] Column `was_connected` already exists in `tbl_user_recharges`
+[2025-01-07 12:50:31] Column `reconnection` already exists in `tbl_user_recharges`
+[2025-01-07 12:50:31] Received request for username: magomere2019@gmail.com, routerId: 1
+[2025-01-07 12:50:31] Router details fetched for routerId: 1
+[2025-01-07 12:50:31] Sleeping for 80 seconds before checking the connection
+[2025-01-07 12:51:55] Connected to router at 10.8.0.190
+[2025-01-07 12:51:57] User magomere2019@gmail.com is NOT connected to the hotspot
+[2025-01-07 12:51:57] Extracted phone number: magomere2019@gmail.com
+[2025-01-07 12:51:57] Fetched SMS URL: https://sms.ispledger.com/sms/send?api=1|25qbsrYwfGN1YiSGOK4cfEtSGSHYUby1X2pnn5EH&SenderId=TOPSPEED&msg=[text]&phone=[number]
+[2025-01-07 12:51:57] Fetched WhatsApp URL: 
+[2025-01-07 12:51:57] Sending SMS to magomere2019@gmail.com using URL: https://sms.ispledger.com/sms/send?api=1|25qbsrYwfGN1YiSGOK4cfEtSGSHYUby1X2pnn5EH&SenderId=TOPSPEED&msg=Hello%2C+we+have+noticed+you+haven%27t+been+connected+to+internet.+Kindly+open+your+WiFi+and+click+on+sign+in.+You+will+be+reconnected+automatically.&phone=magomere2019@gmail.com
+[2025-01-07 12:51:59] SMS sent successfully. Response: {"status":"error","message":"The string supplied did not seem to be a phone number.","data":null}
+[2025-01-07 12:51:59] WhatsApp URL not configured. WhatsApp message not sent.
+[2025-01-07 12:51:59] Updated tbl_user_recharges for user magomere2019@gmail.com (was_connected: no, reconnection: sms sent)

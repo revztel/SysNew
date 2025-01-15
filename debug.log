@@ -1,0 +1,1415 @@
+Fetched Plans: Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [name_plan] => 5 mbps
+            [id_bw] => 1
+            [price] => 5
+            [type] => Hotspot
+            [typebp] => Unlimited
+            [limit_type] => Time_Limit
+            [time_limit] => 0
+            [time_unit] => Hrs
+            [data_limit] => 0
+            [data_unit] => MB
+            [validity] => 1
+            [validity_unit] => Mins
+            [shared_users] => 1
+            [routers] => Home Router
+            [is_radius] => 0
+            [pool] => 
+            [pool_expired] => 
+            [list_expired] => 
+            [enabled] => 1
+            [allow_purchase] => yes
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [name_plan] => 5 mbps 100mbps
+            [id_bw] => 1
+            [price] => 5
+            [type] => Hotspot
+            [typebp] => Limited
+            [limit_type] => Data_Limit
+            [time_limit] => 0
+            [time_unit] => Hrs
+            [data_limit] => 100
+            [data_unit] => MB
+            [validity] => 1
+            [validity_unit] => Hrs
+            [shared_users] => 1
+            [routers] => Home Router
+            [is_radius] => 0
+            [pool] => 
+            [pool_expired] => 
+            [list_expired] => 
+            [enabled] => 1
+            [allow_purchase] => yes
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [name_plan] => 5 MBPS time
+            [id_bw] => 1
+            [price] => 5
+            [type] => Hotspot
+            [typebp] => Limited
+            [limit_type] => Time_Limit
+            [time_limit] => 5
+            [time_unit] => Mins
+            [data_limit] => 0
+            [data_unit] => MB
+            [validity] => 1
+            [validity_unit] => Hrs
+            [shared_users] => 1
+            [routers] => Home Router
+            [is_radius] => 0
+            [pool] => 
+            [pool_expired] => 
+            [list_expired] => 
+            [enabled] => 1
+            [allow_purchase] => yes
+        )
+
+)
+
+Fetched Plans: Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [name_plan] => 5 mbps
+            [id_bw] => 1
+            [price] => 5
+            [type] => Hotspot
+            [typebp] => Unlimited
+            [limit_type] => Time_Limit
+            [time_limit] => 0
+            [time_unit] => Hrs
+            [data_limit] => 0
+            [data_unit] => MB
+            [validity] => 1
+            [validity_unit] => Mins
+            [shared_users] => 1
+            [routers] => Home Router
+            [is_radius] => 0
+            [pool] => 
+            [pool_expired] => 
+            [list_expired] => 
+            [enabled] => 1
+            [allow_purchase] => yes
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [name_plan] => 5 mbps 100mbps
+            [id_bw] => 1
+            [price] => 5
+            [type] => Hotspot
+            [typebp] => Limited
+            [limit_type] => Data_Limit
+            [time_limit] => 0
+            [time_unit] => Hrs
+            [data_limit] => 100
+            [data_unit] => MB
+            [validity] => 1
+            [validity_unit] => Hrs
+            [shared_users] => 1
+            [routers] => Home Router
+            [is_radius] => 0
+            [pool] => 
+            [pool_expired] => 
+            [list_expired] => 
+            [enabled] => 1
+            [allow_purchase] => yes
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [name_plan] => 5 MBPS time
+            [id_bw] => 1
+            [price] => 5
+            [type] => Hotspot
+            [typebp] => Limited
+            [limit_type] => Time_Limit
+            [time_limit] => 5
+            [time_unit] => Mins
+            [data_limit] => 0
+            [data_unit] => MB
+            [validity] => 1
+            [validity_unit] => Hrs
+            [shared_users] => 1
+            [routers] => Home Router
+            [is_radius] => 0
+            [pool] => 
+            [pool_expired] => 
+            [list_expired] => 
+            [enabled] => 1
+            [allow_purchase] => yes
+        )
+
+)
+
+Fetched Plans: Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [name_plan] => 5 mbps
+            [id_bw] => 1
+            [price] => 5
+            [type] => Hotspot
+            [typebp] => Unlimited
+            [limit_type] => Time_Limit
+            [time_limit] => 0
+            [time_unit] => Hrs
+            [data_limit] => 0
+            [data_unit] => MB
+            [validity] => 1
+            [validity_unit] => Mins
+            [shared_users] => 1
+            [routers] => Home Router
+            [is_radius] => 0
+            [pool] => 
+            [pool_expired] => 
+            [list_expired] => 
+            [enabled] => 1
+            [allow_purchase] => yes
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [name_plan] => 5 mbps 100mbps
+            [id_bw] => 1
+            [price] => 5
+            [type] => Hotspot
+            [typebp] => Limited
+            [limit_type] => Data_Limit
+            [time_limit] => 0
+            [time_unit] => Hrs
+            [data_limit] => 100
+            [data_unit] => MB
+            [validity] => 1
+            [validity_unit] => Hrs
+            [shared_users] => 1
+            [routers] => Home Router
+            [is_radius] => 0
+            [pool] => 
+            [pool_expired] => 
+            [list_expired] => 
+            [enabled] => 1
+            [allow_purchase] => yes
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [name_plan] => 5 MBPS time
+            [id_bw] => 1
+            [price] => 5
+            [type] => Hotspot
+            [typebp] => Limited
+            [limit_type] => Time_Limit
+            [time_limit] => 5
+            [time_unit] => Mins
+            [data_limit] => 0
+            [data_unit] => MB
+            [validity] => 1
+            [validity_unit] => Hrs
+            [shared_users] => 1
+            [routers] => Home Router
+            [is_radius] => 0
+            [pool] => 
+            [pool_expired] => 
+            [list_expired] => 
+            [enabled] => 1
+            [allow_purchase] => yes
+        )
+
+)
+
+Fetched Plans: Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [name_plan] => 5 mbps
+            [id_bw] => 1
+            [price] => 5
+            [type] => Hotspot
+            [typebp] => Unlimited
+            [limit_type] => Time_Limit
+            [time_limit] => 0
+            [time_unit] => Hrs
+            [data_limit] => 0
+            [data_unit] => MB
+            [validity] => 1
+            [validity_unit] => Mins
+            [shared_users] => 1
+            [routers] => Home Router
+            [is_radius] => 0
+            [pool] => 
+            [pool_expired] => 
+            [list_expired] => 
+            [enabled] => 1
+            [allow_purchase] => yes
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [name_plan] => 5 mbps 100mbps
+            [id_bw] => 1
+            [price] => 5
+            [type] => Hotspot
+            [typebp] => Limited
+            [limit_type] => Data_Limit
+            [time_limit] => 0
+            [time_unit] => Hrs
+            [data_limit] => 100
+            [data_unit] => MB
+            [validity] => 1
+            [validity_unit] => Hrs
+            [shared_users] => 1
+            [routers] => Home Router
+            [is_radius] => 0
+            [pool] => 
+            [pool_expired] => 
+            [list_expired] => 
+            [enabled] => 1
+            [allow_purchase] => yes
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [name_plan] => 5 MBPS time
+            [id_bw] => 1
+            [price] => 5
+            [type] => Hotspot
+            [typebp] => Limited
+            [limit_type] => Time_Limit
+            [time_limit] => 5
+            [time_unit] => Mins
+            [data_limit] => 0
+            [data_unit] => MB
+            [validity] => 1
+            [validity_unit] => Hrs
+            [shared_users] => 1
+            [routers] => Home Router
+            [is_radius] => 0
+            [pool] => 
+            [pool_expired] => 
+            [list_expired] => 
+            [enabled] => 1
+            [allow_purchase] => yes
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [name_plan] => Router 2 Hotspot
+            [id_bw] => 1
+            [price] => 22
+            [type] => Hotspot
+            [typebp] => Unlimited
+            [limit_type] => Time_Limit
+            [time_limit] => 0
+            [time_unit] => Hrs
+            [data_limit] => 0
+            [data_unit] => MB
+            [validity] => 8
+            [validity_unit] => Mins
+            [shared_users] => 1
+            [routers] => Home 2
+            [is_radius] => 0
+            [pool] => 
+            [pool_expired] => 
+            [list_expired] => 
+            [enabled] => 1
+            [allow_purchase] => yes
+        )
+
+    [4] => Array
+        (
+            [id] => 5
+            [name_plan] => pppoe plan
+            [id_bw] => 1
+            [price] => 25
+            [type] => PPPOE
+            [typebp] => 
+            [limit_type] => 
+            [time_limit] => 
+            [time_unit] => 
+            [data_limit] => 
+            [data_unit] => 
+            [validity] => 1
+            [validity_unit] => Mins
+            [shared_users] => 
+            [routers] => Home Router
+            [is_radius] => 0
+            [pool] => PPPoE Pool
+            [pool_expired] => 
+            [list_expired] => 
+            [enabled] => 1
+            [allow_purchase] => yes
+        )
+
+)
+
+Fetched Plans: Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [name_plan] => 5 mbps
+            [id_bw] => 1
+            [price] => 5
+            [type] => Hotspot
+            [typebp] => Unlimited
+            [limit_type] => Time_Limit
+            [time_limit] => 0
+            [time_unit] => Hrs
+            [data_limit] => 0
+            [data_unit] => MB
+            [validity] => 1
+            [validity_unit] => Mins
+            [shared_users] => 1
+            [routers] => Home Router
+            [is_radius] => 0
+            [pool] => 
+            [pool_expired] => 
+            [list_expired] => 
+            [enabled] => 1
+            [allow_purchase] => yes
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [name_plan] => 5 mbps 100mbps
+            [id_bw] => 1
+            [price] => 5
+            [type] => Hotspot
+            [typebp] => Limited
+            [limit_type] => Data_Limit
+            [time_limit] => 0
+            [time_unit] => Hrs
+            [data_limit] => 100
+            [data_unit] => MB
+            [validity] => 1
+            [validity_unit] => Hrs
+            [shared_users] => 1
+            [routers] => Home Router
+            [is_radius] => 0
+            [pool] => 
+            [pool_expired] => 
+            [list_expired] => 
+            [enabled] => 1
+            [allow_purchase] => yes
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [name_plan] => 5 MBPS time
+            [id_bw] => 1
+            [price] => 5
+            [type] => Hotspot
+            [typebp] => Limited
+            [limit_type] => Time_Limit
+            [time_limit] => 5
+            [time_unit] => Mins
+            [data_limit] => 0
+            [data_unit] => MB
+            [validity] => 1
+            [validity_unit] => Hrs
+            [shared_users] => 1
+            [routers] => Home Router
+            [is_radius] => 0
+            [pool] => 
+            [pool_expired] => 
+            [list_expired] => 
+            [enabled] => 1
+            [allow_purchase] => yes
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [name_plan] => Router 2 Hotspot
+            [id_bw] => 1
+            [price] => 22
+            [type] => Hotspot
+            [typebp] => Unlimited
+            [limit_type] => Time_Limit
+            [time_limit] => 0
+            [time_unit] => Hrs
+            [data_limit] => 0
+            [data_unit] => MB
+            [validity] => 8
+            [validity_unit] => Mins
+            [shared_users] => 1
+            [routers] => Home 2
+            [is_radius] => 0
+            [pool] => 
+            [pool_expired] => 
+            [list_expired] => 
+            [enabled] => 1
+            [allow_purchase] => yes
+        )
+
+    [4] => Array
+        (
+            [id] => 5
+            [name_plan] => pppoe plan
+            [id_bw] => 1
+            [price] => 25
+            [type] => PPPOE
+            [typebp] => 
+            [limit_type] => 
+            [time_limit] => 
+            [time_unit] => 
+            [data_limit] => 
+            [data_unit] => 
+            [validity] => 1
+            [validity_unit] => Mins
+            [shared_users] => 
+            [routers] => Home Router
+            [is_radius] => 0
+            [pool] => PPPoE Pool
+            [pool_expired] => 
+            [list_expired] => 
+            [enabled] => 1
+            [allow_purchase] => yes
+        )
+
+)
+
+Fetched Plans: Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [name_plan] => 5 mbps
+            [id_bw] => 1
+            [price] => 5
+            [type] => Hotspot
+            [typebp] => Unlimited
+            [limit_type] => Time_Limit
+            [time_limit] => 0
+            [time_unit] => Hrs
+            [data_limit] => 0
+            [data_unit] => MB
+            [validity] => 1
+            [validity_unit] => Mins
+            [shared_users] => 1
+            [routers] => Home Router
+            [is_radius] => 0
+            [pool] => 
+            [pool_expired] => 
+            [list_expired] => 
+            [enabled] => 1
+            [allow_purchase] => yes
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [name_plan] => 5 mbps 100mbps
+            [id_bw] => 1
+            [price] => 5
+            [type] => Hotspot
+            [typebp] => Limited
+            [limit_type] => Data_Limit
+            [time_limit] => 0
+            [time_unit] => Hrs
+            [data_limit] => 100
+            [data_unit] => MB
+            [validity] => 1
+            [validity_unit] => Hrs
+            [shared_users] => 1
+            [routers] => Home Router
+            [is_radius] => 0
+            [pool] => 
+            [pool_expired] => 
+            [list_expired] => 
+            [enabled] => 1
+            [allow_purchase] => yes
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [name_plan] => 5 MBPS time
+            [id_bw] => 1
+            [price] => 5
+            [type] => Hotspot
+            [typebp] => Limited
+            [limit_type] => Time_Limit
+            [time_limit] => 5
+            [time_unit] => Mins
+            [data_limit] => 0
+            [data_unit] => MB
+            [validity] => 1
+            [validity_unit] => Hrs
+            [shared_users] => 1
+            [routers] => Home Router
+            [is_radius] => 0
+            [pool] => 
+            [pool_expired] => 
+            [list_expired] => 
+            [enabled] => 1
+            [allow_purchase] => yes
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [name_plan] => Router 2 Hotspot
+            [id_bw] => 1
+            [price] => 22
+            [type] => Hotspot
+            [typebp] => Unlimited
+            [limit_type] => Time_Limit
+            [time_limit] => 0
+            [time_unit] => Hrs
+            [data_limit] => 0
+            [data_unit] => MB
+            [validity] => 8
+            [validity_unit] => Mins
+            [shared_users] => 1
+            [routers] => Home 2
+            [is_radius] => 0
+            [pool] => 
+            [pool_expired] => 
+            [list_expired] => 
+            [enabled] => 1
+            [allow_purchase] => yes
+        )
+
+    [4] => Array
+        (
+            [id] => 5
+            [name_plan] => pppoe plan
+            [id_bw] => 1
+            [price] => 25
+            [type] => PPPOE
+            [typebp] => 
+            [limit_type] => 
+            [time_limit] => 
+            [time_unit] => 
+            [data_limit] => 
+            [data_unit] => 
+            [validity] => 1
+            [validity_unit] => Mins
+            [shared_users] => 
+            [routers] => Home Router
+            [is_radius] => 0
+            [pool] => PPPoE Pool
+            [pool_expired] => 
+            [list_expired] => 
+            [enabled] => 1
+            [allow_purchase] => yes
+        )
+
+)
+
+Router Names: Array
+(
+    [1] => Home Router
+    [2] => Home 2
+)
+
+Mapped Plans: Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [name_plan] => 5 mbps
+            [id_bw] => 1
+            [price] => 5
+            [type] => Hotspot
+            [typebp] => Unlimited
+            [limit_type] => Time_Limit
+            [time_limit] => 0
+            [time_unit] => Hrs
+            [data_limit] => 0
+            [data_unit] => MB
+            [validity] => 1
+            [validity_unit] => Mins
+            [shared_users] => 1
+            [routers] => Home Router
+            [is_radius] => 0
+            [pool] => 
+            [pool_expired] => 
+            [list_expired] => 
+            [enabled] => 1
+            [allow_purchase] => yes
+            [mapped_routers] => 
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [name_plan] => 5 mbps 100mbps
+            [id_bw] => 1
+            [price] => 5
+            [type] => Hotspot
+            [typebp] => Limited
+            [limit_type] => Data_Limit
+            [time_limit] => 0
+            [time_unit] => Hrs
+            [data_limit] => 100
+            [data_unit] => MB
+            [validity] => 1
+            [validity_unit] => Hrs
+            [shared_users] => 1
+            [routers] => Home Router
+            [is_radius] => 0
+            [pool] => 
+            [pool_expired] => 
+            [list_expired] => 
+            [enabled] => 1
+            [allow_purchase] => yes
+            [mapped_routers] => 
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [name_plan] => 5 MBPS time
+            [id_bw] => 1
+            [price] => 5
+            [type] => Hotspot
+            [typebp] => Limited
+            [limit_type] => Time_Limit
+            [time_limit] => 5
+            [time_unit] => Mins
+            [data_limit] => 0
+            [data_unit] => MB
+            [validity] => 1
+            [validity_unit] => Hrs
+            [shared_users] => 1
+            [routers] => Home Router
+            [is_radius] => 0
+            [pool] => 
+            [pool_expired] => 
+            [list_expired] => 
+            [enabled] => 1
+            [allow_purchase] => yes
+            [mapped_routers] => 
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [name_plan] => Router 2 Hotspot
+            [id_bw] => 1
+            [price] => 22
+            [type] => Hotspot
+            [typebp] => Unlimited
+            [limit_type] => Time_Limit
+            [time_limit] => 0
+            [time_unit] => Hrs
+            [data_limit] => 0
+            [data_unit] => MB
+            [validity] => 8
+            [validity_unit] => Mins
+            [shared_users] => 1
+            [routers] => Home 2
+            [is_radius] => 0
+            [pool] => 
+            [pool_expired] => 
+            [list_expired] => 
+            [enabled] => 1
+            [allow_purchase] => yes
+            [mapped_routers] => 
+        )
+
+    [4] => Array
+        (
+            [id] => 5
+            [name_plan] => pppoe plan
+            [id_bw] => 1
+            [price] => 25
+            [type] => PPPOE
+            [typebp] => 
+            [limit_type] => 
+            [time_limit] => 
+            [time_unit] => 
+            [data_limit] => 
+            [data_unit] => 
+            [validity] => 1
+            [validity_unit] => Mins
+            [shared_users] => 
+            [routers] => Home Router
+            [is_radius] => 0
+            [pool] => PPPoE Pool
+            [pool_expired] => 
+            [list_expired] => 
+            [enabled] => 1
+            [allow_purchase] => yes
+            [mapped_routers] => 
+        )
+
+)
+
+Router Names: Array
+(
+    [1] => Home Router
+    [2] => Home 2
+)
+
+Mapped Plans: Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [name_plan] => 5 mbps
+            [id_bw] => 1
+            [price] => 5
+            [type] => Hotspot
+            [typebp] => Unlimited
+            [limit_type] => Time_Limit
+            [time_limit] => 0
+            [time_unit] => Hrs
+            [data_limit] => 0
+            [data_unit] => MB
+            [validity] => 1
+            [validity_unit] => Mins
+            [shared_users] => 1
+            [routers] => Home Router
+            [is_radius] => 0
+            [pool] => 
+            [pool_expired] => 
+            [list_expired] => 
+            [enabled] => 1
+            [allow_purchase] => yes
+            [mapped_routers] => 
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [name_plan] => 5 mbps 100mbps
+            [id_bw] => 1
+            [price] => 5
+            [type] => Hotspot
+            [typebp] => Limited
+            [limit_type] => Data_Limit
+            [time_limit] => 0
+            [time_unit] => Hrs
+            [data_limit] => 100
+            [data_unit] => MB
+            [validity] => 1
+            [validity_unit] => Hrs
+            [shared_users] => 1
+            [routers] => Home Router
+            [is_radius] => 0
+            [pool] => 
+            [pool_expired] => 
+            [list_expired] => 
+            [enabled] => 1
+            [allow_purchase] => yes
+            [mapped_routers] => 
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [name_plan] => 5 MBPS time
+            [id_bw] => 1
+            [price] => 5
+            [type] => Hotspot
+            [typebp] => Limited
+            [limit_type] => Time_Limit
+            [time_limit] => 5
+            [time_unit] => Mins
+            [data_limit] => 0
+            [data_unit] => MB
+            [validity] => 1
+            [validity_unit] => Hrs
+            [shared_users] => 1
+            [routers] => Home Router
+            [is_radius] => 0
+            [pool] => 
+            [pool_expired] => 
+            [list_expired] => 
+            [enabled] => 1
+            [allow_purchase] => yes
+            [mapped_routers] => 
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [name_plan] => Router 2 Hotspot
+            [id_bw] => 1
+            [price] => 22
+            [type] => Hotspot
+            [typebp] => Unlimited
+            [limit_type] => Time_Limit
+            [time_limit] => 0
+            [time_unit] => Hrs
+            [data_limit] => 0
+            [data_unit] => MB
+            [validity] => 8
+            [validity_unit] => Mins
+            [shared_users] => 1
+            [routers] => Home 2
+            [is_radius] => 0
+            [pool] => 
+            [pool_expired] => 
+            [list_expired] => 
+            [enabled] => 1
+            [allow_purchase] => yes
+            [mapped_routers] => 
+        )
+
+    [4] => Array
+        (
+            [id] => 5
+            [name_plan] => pppoe plan
+            [id_bw] => 1
+            [price] => 25
+            [type] => PPPOE
+            [typebp] => 
+            [limit_type] => 
+            [time_limit] => 
+            [time_unit] => 
+            [data_limit] => 
+            [data_unit] => 
+            [validity] => 1
+            [validity_unit] => Mins
+            [shared_users] => 
+            [routers] => Home Router
+            [is_radius] => 0
+            [pool] => PPPoE Pool
+            [pool_expired] => 
+            [list_expired] => 
+            [enabled] => 1
+            [allow_purchase] => yes
+            [mapped_routers] => 
+        )
+
+)
+
+Fetched Routers: Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [name] => Home Router
+            [ip_address] => 192.168.180.10
+            [username] => admin
+            [password] => 12345
+            [description] => dd
+            [enabled] => 1
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [name] => Home 2
+            [ip_address] => 192.168.88.1
+            [username] => admin
+            [password] => 12345
+            [description] => kjdksj
+            [enabled] => 1
+        )
+
+)
+
+Fetched Plans: Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [name_plan] => 5 mbps
+            [id_bw] => 1
+            [price] => 5
+            [type] => Hotspot
+            [typebp] => Unlimited
+            [limit_type] => Time_Limit
+            [time_limit] => 0
+            [time_unit] => Hrs
+            [data_limit] => 0
+            [data_unit] => MB
+            [validity] => 1
+            [validity_unit] => Mins
+            [shared_users] => 1
+            [routers] => Home Router
+            [is_radius] => 0
+            [pool] => 
+            [pool_expired] => 
+            [list_expired] => 
+            [enabled] => 1
+            [allow_purchase] => yes
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [name_plan] => 5 mbps 100mbps
+            [id_bw] => 1
+            [price] => 5
+            [type] => Hotspot
+            [typebp] => Limited
+            [limit_type] => Data_Limit
+            [time_limit] => 0
+            [time_unit] => Hrs
+            [data_limit] => 100
+            [data_unit] => MB
+            [validity] => 1
+            [validity_unit] => Hrs
+            [shared_users] => 1
+            [routers] => Home Router
+            [is_radius] => 0
+            [pool] => 
+            [pool_expired] => 
+            [list_expired] => 
+            [enabled] => 1
+            [allow_purchase] => yes
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [name_plan] => 5 MBPS time
+            [id_bw] => 1
+            [price] => 5
+            [type] => Hotspot
+            [typebp] => Limited
+            [limit_type] => Time_Limit
+            [time_limit] => 5
+            [time_unit] => Mins
+            [data_limit] => 0
+            [data_unit] => MB
+            [validity] => 1
+            [validity_unit] => Hrs
+            [shared_users] => 1
+            [routers] => Home Router
+            [is_radius] => 0
+            [pool] => 
+            [pool_expired] => 
+            [list_expired] => 
+            [enabled] => 1
+            [allow_purchase] => yes
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [name_plan] => Router 2 Hotspot
+            [id_bw] => 1
+            [price] => 22
+            [type] => Hotspot
+            [typebp] => Unlimited
+            [limit_type] => Time_Limit
+            [time_limit] => 0
+            [time_unit] => Hrs
+            [data_limit] => 0
+            [data_unit] => MB
+            [validity] => 8
+            [validity_unit] => Mins
+            [shared_users] => 1
+            [routers] => Home 2
+            [is_radius] => 0
+            [pool] => 
+            [pool_expired] => 
+            [list_expired] => 
+            [enabled] => 1
+            [allow_purchase] => yes
+        )
+
+    [4] => Array
+        (
+            [id] => 5
+            [name_plan] => pppoe plan
+            [id_bw] => 1
+            [price] => 25
+            [type] => PPPOE
+            [typebp] => 
+            [limit_type] => 
+            [time_limit] => 
+            [time_unit] => 
+            [data_limit] => 
+            [data_unit] => 
+            [validity] => 1
+            [validity_unit] => Mins
+            [shared_users] => 
+            [routers] => Home Router
+            [is_radius] => 0
+            [pool] => PPPoE Pool
+            [pool_expired] => 
+            [list_expired] => 
+            [enabled] => 1
+            [allow_purchase] => yes
+        )
+
+)
+
+Fetched Routers: Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [name] => Home Router
+            [ip_address] => 192.168.180.10
+            [username] => admin
+            [password] => 12345
+            [description] => dd
+            [enabled] => 1
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [name] => Home 2
+            [ip_address] => 192.168.88.1
+            [username] => admin
+            [password] => 12345
+            [description] => kjdksj
+            [enabled] => 1
+        )
+
+)
+
+Fetched Plans with Routers: Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [name_plan] => 5 mbps
+            [id_bw] => 1
+            [price] => 5
+            [type] => Hotspot
+            [typebp] => Unlimited
+            [limit_type] => Time_Limit
+            [time_limit] => 0
+            [time_unit] => Hrs
+            [data_limit] => 0
+            [data_unit] => MB
+            [validity] => 1
+            [validity_unit] => Mins
+            [shared_users] => 1
+            [routers] => Home Router
+            [is_radius] => 0
+            [pool] => 
+            [pool_expired] => 
+            [list_expired] => 
+            [enabled] => 1
+            [allow_purchase] => yes
+            [display_routers] => Home Router
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [name_plan] => 5 mbps 100mbps
+            [id_bw] => 1
+            [price] => 5
+            [type] => Hotspot
+            [typebp] => Limited
+            [limit_type] => Data_Limit
+            [time_limit] => 0
+            [time_unit] => Hrs
+            [data_limit] => 100
+            [data_unit] => MB
+            [validity] => 1
+            [validity_unit] => Hrs
+            [shared_users] => 1
+            [routers] => Home Router
+            [is_radius] => 0
+            [pool] => 
+            [pool_expired] => 
+            [list_expired] => 
+            [enabled] => 1
+            [allow_purchase] => yes
+            [display_routers] => Home Router
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [name_plan] => 5 MBPS time
+            [id_bw] => 1
+            [price] => 5
+            [type] => Hotspot
+            [typebp] => Limited
+            [limit_type] => Time_Limit
+            [time_limit] => 5
+            [time_unit] => Mins
+            [data_limit] => 0
+            [data_unit] => MB
+            [validity] => 1
+            [validity_unit] => Hrs
+            [shared_users] => 1
+            [routers] => Home Router
+            [is_radius] => 0
+            [pool] => 
+            [pool_expired] => 
+            [list_expired] => 
+            [enabled] => 1
+            [allow_purchase] => yes
+            [display_routers] => Home Router
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [name_plan] => Router 2 Hotspot
+            [id_bw] => 1
+            [price] => 22
+            [type] => Hotspot
+            [typebp] => Unlimited
+            [limit_type] => Time_Limit
+            [time_limit] => 0
+            [time_unit] => Hrs
+            [data_limit] => 0
+            [data_unit] => MB
+            [validity] => 8
+            [validity_unit] => Mins
+            [shared_users] => 1
+            [routers] => Home 2
+            [is_radius] => 0
+            [pool] => 
+            [pool_expired] => 
+            [list_expired] => 
+            [enabled] => 1
+            [allow_purchase] => yes
+            [display_routers] => Home 2
+        )
+
+    [4] => Array
+        (
+            [id] => 5
+            [name_plan] => pppoe plan
+            [id_bw] => 1
+            [price] => 25
+            [type] => PPPOE
+            [typebp] => 
+            [limit_type] => 
+            [time_limit] => 
+            [time_unit] => 
+            [data_limit] => 
+            [data_unit] => 
+            [validity] => 1
+            [validity_unit] => Mins
+            [shared_users] => 
+            [routers] => Home Router
+            [is_radius] => 0
+            [pool] => PPPoE Pool
+            [pool_expired] => 
+            [list_expired] => 
+            [enabled] => 1
+            [allow_purchase] => yes
+            [display_routers] => Home Router
+        )
+
+)
+
+Fetched Routers: Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [name] => Home Router
+            [ip_address] => 192.168.180.10
+            [username] => admin
+            [password] => 12345
+            [description] => dd
+            [enabled] => 1
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [name] => Home 2
+            [ip_address] => 192.168.88.1
+            [username] => admin
+            [password] => 12345
+            [description] => kjdksj
+            [enabled] => 1
+        )
+
+)
+
+Fetched Plans with Routers: Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [name_plan] => 5 mbps
+            [id_bw] => 1
+            [price] => 5
+            [type] => Hotspot
+            [typebp] => Unlimited
+            [limit_type] => Time_Limit
+            [time_limit] => 0
+            [time_unit] => Hrs
+            [data_limit] => 0
+            [data_unit] => MB
+            [validity] => 1
+            [validity_unit] => Mins
+            [shared_users] => 1
+            [routers] => Home Router
+            [is_radius] => 0
+            [pool] => 
+            [pool_expired] => 
+            [list_expired] => 
+            [enabled] => 1
+            [allow_purchase] => yes
+            [display_routers] => Home Router
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [name_plan] => 5 mbps 100mbps
+            [id_bw] => 1
+            [price] => 5
+            [type] => Hotspot
+            [typebp] => Limited
+            [limit_type] => Data_Limit
+            [time_limit] => 0
+            [time_unit] => Hrs
+            [data_limit] => 100
+            [data_unit] => MB
+            [validity] => 1
+            [validity_unit] => Hrs
+            [shared_users] => 1
+            [routers] => Home Router
+            [is_radius] => 0
+            [pool] => 
+            [pool_expired] => 
+            [list_expired] => 
+            [enabled] => 1
+            [allow_purchase] => yes
+            [display_routers] => Home Router
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [name_plan] => 5 MBPS time
+            [id_bw] => 1
+            [price] => 5
+            [type] => Hotspot
+            [typebp] => Limited
+            [limit_type] => Time_Limit
+            [time_limit] => 5
+            [time_unit] => Mins
+            [data_limit] => 0
+            [data_unit] => MB
+            [validity] => 1
+            [validity_unit] => Hrs
+            [shared_users] => 1
+            [routers] => Home Router
+            [is_radius] => 0
+            [pool] => 
+            [pool_expired] => 
+            [list_expired] => 
+            [enabled] => 1
+            [allow_purchase] => yes
+            [display_routers] => Home Router
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [name_plan] => Router 2 Hotspot
+            [id_bw] => 1
+            [price] => 22
+            [type] => Hotspot
+            [typebp] => Unlimited
+            [limit_type] => Time_Limit
+            [time_limit] => 0
+            [time_unit] => Hrs
+            [data_limit] => 0
+            [data_unit] => MB
+            [validity] => 8
+            [validity_unit] => Mins
+            [shared_users] => 1
+            [routers] => Home 2
+            [is_radius] => 0
+            [pool] => 
+            [pool_expired] => 
+            [list_expired] => 
+            [enabled] => 1
+            [allow_purchase] => yes
+            [display_routers] => Home 2
+        )
+
+    [4] => Array
+        (
+            [id] => 5
+            [name_plan] => pppoe plan
+            [id_bw] => 1
+            [price] => 25
+            [type] => PPPOE
+            [typebp] => 
+            [limit_type] => 
+            [time_limit] => 
+            [time_unit] => 
+            [data_limit] => 
+            [data_unit] => 
+            [validity] => 1
+            [validity_unit] => Mins
+            [shared_users] => 
+            [routers] => Home Router
+            [is_radius] => 0
+            [pool] => PPPoE Pool
+            [pool_expired] => 
+            [list_expired] => 
+            [enabled] => 1
+            [allow_purchase] => yes
+            [display_routers] => Home Router
+        )
+
+)
+
+POST data: Array
+(
+    [name] => FUP FUP
+    [data_limit] => 250
+    [data_limit_unit] => MB
+    [router_name] => Home Router
+    [service_type] => Hotspot
+    [profile_on_limit] => 6
+    [plan_under_fup] => 2
+    [active] => 1
+)
+
+POST data: Array
+(
+    [name] => hotspot fup
+    [data_limit] => 300
+    [data_limit_unit] => MB
+    [router_name] => Home Router
+    [service_type] => Hotspot
+    [profile_on_limit] => 6
+    [plan_under_fup] => 1
+    [active] => 1
+)
+
+POST data: Array
+(
+    [name] => 1 TB DAILY
+    [data_limit] => 1
+    [data_limit_unit] => TB
+    [router_name] => Allinonecomrade
+    [service_type] => Hotspot
+    [profile_on_limit] => 29
+    [plan_under_fup] => 35
+    [active] => 1
+)
+

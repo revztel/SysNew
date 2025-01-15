@@ -1,0 +1,128 @@
+2024-09-25 00:15:37 - File uploaded successfully to 'hotspot/login.html'.
+2024-09-25 00:15:37 - Failed to upload the file to 'flash/hotspot/login.html'.
+2024-10-03 11:13:28 - File uploaded successfully to 'hotspot/login.html'.
+2024-10-03 11:13:28 - Failed to upload the file to 'flash/hotspot/login.html'.
+2024-10-03 11:13:28 - File uploaded successfully to 'hotspot/rlogin.html'.
+2024-10-03 11:13:28 - Failed to upload the file to 'flash/hotspot/rlogin.html'.
+2024-10-03 11:14:49 - File uploaded successfully to 'hotspot/login.html'.
+2024-10-03 11:14:49 - Failed to upload the file to 'flash/hotspot/login.html'.
+2024-10-03 11:14:49 - File uploaded successfully to 'hotspot/rlogin.html'.
+2024-10-03 11:14:49 - Failed to upload the file to 'flash/hotspot/rlogin.html'.
+2024-10-03 11:15:15 - File uploaded successfully to 'hotspot/login.html'.
+2024-10-03 11:15:15 - Failed to upload the file to 'flash/hotspot/login.html'.
+2024-10-03 11:15:15 - File uploaded successfully to 'hotspot/rlogin.html'.
+2024-10-03 11:15:15 - Failed to upload the file to 'flash/hotspot/rlogin.html'.
+2024-10-08 22:55:31 - File uploaded successfully to 'hotspot/login.html'.
+2024-10-08 22:55:31 - Failed to upload the file to 'flash/hotspot/login.html'.
+2024-10-08 22:55:31 - File uploaded successfully to 'hotspot/rlogin.html'.
+2024-10-08 22:55:31 - Failed to upload the file to 'flash/hotspot/rlogin.html'.
+2024-12-17 21:05:14 - Failed to connect to the MikroTik router.
+2024-12-17 21:54:47 - Failed to connect to the MikroTik router.
+2024-12-17 21:55:14 - Failed to connect to the MikroTik router.
+2024-12-17 21:55:25 - Failed to connect to the MikroTik router.
+2024-12-17 21:55:37 - File uploaded successfully to 'hotspot/login.html'.
+2024-12-17 21:55:37 - Failed to upload the file to 'flash/hotspot/login.html'.
+2024-12-17 21:55:37 - File uploaded successfully to 'hotspot/rlogin.html'.
+2024-12-17 21:55:37 - Failed to upload the file to 'flash/hotspot/rlogin.html'.
+2024-12-17 22:05:23 - File uploaded successfully to 'hotspot/login.html'.
+2024-12-17 22:05:23 - Failed to upload the file to 'flash/hotspot/login.html'.
+2024-12-17 22:05:23 - File uploaded successfully to 'hotspot/rlogin.html'.
+2024-12-17 22:05:23 - Failed to upload the file to 'flash/hotspot/rlogin.html'.
+2024-12-17 22:13:30 - File uploaded successfully to 'hotspot/login.html'.
+2024-12-17 22:13:30 - Failed to upload the file to 'flash/hotspot/login.html'.
+2024-12-17 22:28:16 - File uploaded successfully to 'hotspot/login.html'.
+2024-12-17 22:28:16 - Failed to upload the file to 'flash/hotspot/login.html'.
+2024-12-17 22:28:28 - File uploaded successfully to 'hotspot/login.html'.
+2024-12-17 22:28:28 - Failed to upload the file to 'flash/hotspot/login.html'.
+2024-12-17 22:35:25 - File uploaded successfully to 'hotspot/login.html'.
+2024-12-17 22:35:25 - Failed to upload the file to 'flash/hotspot/login.html'.
+2024-12-17 22:36:56 - File uploaded successfully to 'hotspot/login.html'.
+2024-12-17 22:36:56 - Failed to upload the file to 'flash/hotspot/login.html'.
+2024-12-17 22:40:01 - File uploaded successfully to 'hotspot/login.html'.
+2024-12-17 22:40:01 - Failed to upload the file to 'flash/hotspot/login.html'.
+2024-12-17 22:41:13 - File uploaded successfully to 'hotspot/login.html'.
+2024-12-17 22:41:13 - Failed to upload the file to 'flash/hotspot/login.html'.
+2024-12-17 22:42:07 - Failed to connect to the MikroTik router.
+2024-12-20 19:44:42 - Failed to connect to the MikroTik router.
+2024-12-20 19:46:10 - Failed to connect to the MikroTik router.
+2024-12-20 20:05:12 - Failed to connect to the MikroTik router.
+2024-12-20 20:06:06 - Failed to connect to the MikroTik router.
+2024-12-20 20:06:38 - Failed to connect to the MikroTik router.
+2024-12-20 20:13:18 - Failed to connect to the MikroTik router.
+2024-12-20 20:17:45 - Failed to connect to the MikroTik router.
+2024-12-20 20:24:10 - Failed to connect to the MikroTik router.
+2024-12-20 20:26:07 - File uploaded successfully to 'hotspot/login.html'.
+2024-12-20 20:26:07 - Failed to upload the file to 'flash/hotspot/login.html'.
+2024-12-20 20:36:58 - File uploaded successfully to 'hotspot/login.html'.
+2024-12-20 20:36:58 - Failed to upload the file to 'flash/hotspot/login.html'.
+2024-12-20 20:40:19 - File uploaded successfully to 'hotspot/login.html'.
+2024-12-20 20:40:19 - Failed to upload the file to 'flash/hotspot/login.html'.
+2024-12-20 20:40:37 - File uploaded successfully to 'hotspot/login.html'.
+2024-12-20 20:40:37 - Failed to upload the file to 'flash/hotspot/login.html'.
+2024-12-20 20:40:43 - File uploaded successfully to 'hotspot/login.html'.
+2024-12-20 20:40:43 - Failed to upload the file to 'flash/hotspot/login.html'.
+2024-12-20 20:40:57 - File uploaded successfully to 'hotspot/login.html'.
+2024-12-20 20:40:57 - Failed to upload the file to 'flash/hotspot/login.html'.
+2024-12-20 20:43:17 - File uploaded successfully to 'hotspot/login.html'.
+2024-12-20 20:43:17 - Failed to upload the file to 'flash/hotspot/login.html'.
+2024-12-20 20:43:49 - File uploaded successfully to 'hotspot/login.html'.
+2024-12-20 20:43:49 - Failed to upload the file to 'flash/hotspot/login.html'.
+2024-12-21 02:11:39 - Failed to connect to the MikroTik router.
+2024-12-23 17:35:43 - Failed to connect to the MikroTik router.
+2024-12-23 18:00:17 - Failed to connect to the MikroTik router.
+2024-12-23 18:01:24 - Failed to connect to the MikroTik router.
+2024-12-30 00:11:20 - Failed to connect to the MikroTik router.
+2024-12-30 00:22:17 - Failed to connect to the MikroTik router.
+2024-12-30 00:25:48 - Failed to connect to the MikroTik router.
+2025-01-07 18:38:14 - Failed to connect to the MikroTik router.
+2025-01-07 18:39:15 - Failed to connect to the MikroTik router.
+2025-01-07 20:26:17 - Failed to connect to the MikroTik router.
+2025-01-07 20:39:42 - Failed to connect to the MikroTik router.
+2025-01-07 21:11:27 - Failed to connect to the MikroTik router.
+2025-01-07 21:26:32 - Failed to connect to the MikroTik router.
+2025-01-07 21:29:30 - File uploaded successfully to 'hotspot/login.html'.
+2025-01-07 21:29:30 - Failed to upload the file to 'flash/hotspot/login.html'.
+2025-01-07 21:29:30 - File uploaded successfully to 'hotspot/rlogin.html'.
+2025-01-07 21:29:30 - Failed to upload the file to 'flash/hotspot/rlogin.html'.
+2025-01-07 21:29:30 - File uploaded successfully to 'hotspot/logo.png'.
+2025-01-07 21:29:30 - Failed to upload the file to 'flash/hotspot/logo.png'.
+2025-01-07 21:29:30 - File uploaded successfully to 'hotspot/advert.png'.
+2025-01-07 21:29:30 - Failed to upload the file to 'flash/hotspot/advert.png'.
+2025-01-07 22:21:25 - Failed to connect to the MikroTik router.
+2025-01-07 22:22:31 - Failed to connect to the MikroTik router.
+2025-01-07 22:23:43 - Failed to connect to the MikroTik router.
+2025-01-07 22:30:23 - Failed to connect to the MikroTik router.
+2025-01-07 22:39:46 - Failed to connect to the MikroTik router.
+2025-01-07 22:48:55 - Failed to connect to the MikroTik router.
+2025-01-07 22:54:16 - Failed to connect to the MikroTik router.
+2025-01-07 22:56:16 - Failed to connect to the MikroTik router.
+2025-01-07 22:58:35 - Failed to connect to the MikroTik router.
+2025-01-07 23:03:00 - Failed to connect to the MikroTik router.
+2025-01-07 23:03:56 - Failed to connect to the MikroTik router.
+2025-01-07 23:19:48 - Failed to connect to the MikroTik router.
+2025-01-07 23:21:04 - Failed to connect to the MikroTik router.
+2025-01-07 23:25:41 - Failed to connect to the MikroTik router.
+2025-01-07 23:32:13 - Failed to connect to the MikroTik router.
+2025-01-07 23:33:22 - Failed to connect to the MikroTik router.
+2025-01-07 23:41:05 - Failed to connect to the MikroTik router.
+2025-01-07 23:47:22 - Failed to connect to the MikroTik router.
+2025-01-07 23:53:46 - Failed to connect to the MikroTik router.
+2025-01-08 21:21:29 - Failed to connect to the MikroTik router.
+2025-01-08 21:39:15 - Failed to connect to the MikroTik router.
+2025-01-08 22:48:29 - Failed to connect to the MikroTik router.
+2025-01-10 00:34:36 - Failed to connect to the MikroTik router.
+2025-01-10 00:35:35 - Failed to connect to the MikroTik router.
+2025-01-10 00:38:36 - Failed to connect to the MikroTik router.
+2025-01-10 00:41:49 - Failed to connect to the MikroTik router.
+2025-01-10 00:46:15 - Failed to connect to the MikroTik router.
+2025-01-10 00:49:13 - Failed to connect to the MikroTik router.
+2025-01-10 00:50:51 - Failed to connect to the MikroTik router.
+2025-01-10 00:54:04 - Failed to connect to the MikroTik router.
+2025-01-10 00:58:15 - Failed to connect to the MikroTik router.
+2025-01-10 00:59:44 - Failed to connect to the MikroTik router.
+2025-01-10 01:06:17 - Failed to connect to the MikroTik router.
+2025-01-10 01:09:33 - Failed to connect to the MikroTik router.
+2025-01-10 01:23:30 - Failed to connect to the MikroTik router.
+2025-01-10 12:49:17 - Failed to connect to the MikroTik router.
+2025-01-10 12:55:00 - Failed to connect to the MikroTik router.
+2025-01-12 00:28:06 - Failed to connect to the MikroTik router.

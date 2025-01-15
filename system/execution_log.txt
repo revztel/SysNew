@@ -1,0 +1,6 @@
+2024-07-25 20:16:52 - Database connection failed: SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO)
+2024-07-25 20:17:56 - Database connection failed: SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO)
+2024-07-25 20:19:02 - Router not found with ID: 1
+2024-07-25 20:24:23 - Config file included successfully
+2024-07-25 20:24:23 - Database connection successful
+2024-07-25 20:24:23 - Router details fetched: Username: admin, IP: 192.168.180.10

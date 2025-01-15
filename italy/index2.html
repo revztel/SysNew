@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Hotel Guest Wi-Fi Registration</title>
+
+  <!-- Tailwind CSS -->
+  <script src="https://cdn.tailwindcss.com"></script>
+
+  <!-- SweetAlert2 -->
+  <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+
+  <style>
+    /* Example background styling */
+    .hero-background {
+      background-image: url('https://images.unsplash.com/photo-1600585154340-be6161a56a0c?ixlib=rb-4.0.3&auto=format&fit=crop&w=1740&q=80');
+      background-size: cover;
+      background-position: center;
+    }
+  </style>
+</head>
+<body class="min-h-screen hero-background flex flex-col justify-center items-center">
+
+  <!-- LOGO (Optional) -->
+  <div class="mb-4 flex items-center space-x-2 bg-white p-3 rounded-full shadow-md">
+    <!-- Replace with your actual logo image URL -->
+    <img src="https://via.placeholder.com/50x50/09f/fff.png?text=Logo" alt="Logo" class="w-12 h-12 rounded-full" />
+    <span class="text-xl font-bold text-gray-700">YourHotel</span>
+  </div>
+
+  <!-- Registration Card -->
+  <div class="bg-white w-full max-w-md mx-auto rounded-lg shadow-lg p-6 mb-8">
+    <img 
+      src="https://images.unsplash.com/photo-1590490360183-a533f2ab6add?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80" 
+      alt="Airbnb room" 
+      class="w-full h-48 object-cover rounded mb-4"
+    />
+    
+    <h1 class="text-2xl font-bold text-center text-gray-800 mb-3">Welcome Hotel Guest</h1>
+    <p class="text-center text-gray-600 mb-5">
+      Enter <strong>either</strong> your Phone Number or your Email<br />
+      to register and connect to our Wi-Fi.
+    </p>
+    
+    <!-- The form that sends POST data to register_user.php -->
+    <form id="registrationForm" class="space-y-4">
+      <div>
+        <label for="user_input" class="block text-sm font-medium text-gray-700 mb-1">
+          Phone or Email
+        </label>
+        <input
+          type="text"
+          id="user_input"
+          name="user_input"
+          placeholder="e.g. 09123456789 or user@example.com"
+          class="w-full border border-gray-300 rounded px-3 py-2 focus:outline-none focus:ring-2 focus:ring-teal-500"
+          required
+        />
+        <small class="block mt-1 text-gray-500">
+          Example phone: 09123456789 or +63XXXXXXXXXX
+        </small>
+      </div>
+
+      <button
+        type="submit"
+        class="w-full bg-orange-600 hover:bg-orange-700 text-white font-bold py-2 px-4 rounded focus:outline-none"
+      >
+        Register &amp; Connect
+      </button>
+    </form>
+
+    <div class="text-center mt-6 text-sm text-gray-500">
+      By clicking "Register &amp; Connect", you agree to our
+      <a href="#" class="underline text-blue-600">Terms &amp; Conditions</a>.
+    </div>
+  </div>
+
+  <footer class="text-white mb-4">
+    <p class="text-center text-sm">© 2025 YourHotel. All rights reserved.</p>
+  </footer>
+
+  <script>
+    document.addEventListener('DOMContentLoaded', () => {
+      const form = document.getElementById('registrationForm');
+
+      form.addEventListener('submit', async (e) => {
+        e.preventDefault(); // Prevent normal form submission
+
+        // Show a "loading" SweetAlert
+        Swal.fire({
+          title: 'Registering...',
+          text: 'Please wait while we set up your account.',
+          allowOutsideClick: false,
+          allowEscapeKey: false,
+          didOpen: () => {
+            Swal.showLoading();
+          }
+        });
+
+        // Gather the form data
+        const formData = new FormData(form);
+
+        try {
+          // POST to register_user.php with "fetch"
+          const response = await fetch('register_user.php', {
+            method: 'POST',
+            body: formData
+          });
+
+          // Log the entire response for debugging
+          console.log('Raw fetch response:', response);
+
+          // Attempt to parse JSON
+          const result = await response.json();
+          console.log('Parsed JSON result:', result);
+
+          // Close the loading alert
+          Swal.close();
+
+          if (response.ok) {
+            if (result.success === true) {
+              // Success scenario
+              Swal.fire({
+                icon: 'success',
+                title: 'Registration Successful!',
+                html: `
+                  <p>Your username: <strong>${result.username}</strong></p>
+                  <p>Your password: <strong>${result.password}</strong></p>
+                  <p>We are now attempting to log you in...</p>
+                `,
+                showConfirmButton: false,
+                timer: 4000,
+                didClose: () => {
+                  // After success, redirect to Mikrotik
+                  window.location.href = 'http://192.168.180.1';
+                }
+              });
+            } else {
+              // Server responded with success: false
+              let errMsg = result.error || 'Something went wrong.';
+              Swal.fire({
+                icon: 'error',
+                title: 'Registration Failed',
+                text: errMsg
+              });
+            }
+          } else {
+            // Not an OK (200) response from server
+            Swal.fire({
+              icon: 'error',
+              title: 'Server Error',
+              text: `HTTP Status: ${response.status} ${response.statusText}`
+            });
+          }
+        } catch (error) {
+          // Network or parse error
+          console.error('Network or parsing error:', error);
+          Swal.fire({
+            icon: 'error',
+            title: 'Unable to contact the server',
+            text: 'Check console for details or try again later.'
+          });
+        }
+      });
+    });
+  </script>
+</body>
+</html>

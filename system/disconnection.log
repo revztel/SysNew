@@ -1,0 +1,1097 @@
+[2024-11-17 14:53:59] Database connection successful
+[2024-11-17 14:53:59] Updated disconnection_reason to 'N/A' for 0 online users
+[2024-11-17 14:53:59] Processing router ID: 1 at IP: 192.168.180.10
+[2024-11-17 14:53:59] Connected to router at 192.168.180.10
+[2024-11-17 14:53:59] Last log retrieval time for router 1: 2024-11-16 14:53:59
+[2024-11-17 14:54:00] Total logs to process: 68
+[2024-11-17 14:54:00] User 254796381603-B:79 disconnected at 2024-11-17 15:00:40 due to expired
+[2024-11-17 14:54:00] Updated disconnection info for user 254796381603-B:79
+[2024-11-17 14:54:00] User 254796381603-B:79 disconnected at 2024-11-17 15:05:46 due to traffic limit reached
+[2024-11-17 14:54:00] Updated disconnection info for user 254796381603-B:79
+[2024-11-17 14:54:00] User 254796381603-B:79 disconnected at 2024-11-17 15:20:42 due to traffic limit reached
+[2024-11-17 14:54:00] Updated disconnection info for user 254796381603-B:79
+[2024-11-17 14:54:00] User 254796381603-B:79 disconnected at 2024-11-17 15:23:23 due to traffic limit reached
+[2024-11-17 14:54:00] Updated disconnection info for user 254796381603-B:79
+[2024-11-17 14:54:00] User 254796381603-B:79 disconnected at 2024-11-17 15:27:14 due to keepalive timeout
+[2024-11-17 14:54:00] Updated disconnection info for user 254796381603-B:79
+[2024-11-17 14:54:00] User 254796381603-B:79 disconnected at 2024-11-17 15:28:17 due to expired
+[2024-11-17 14:54:00] Updated disconnection info for user 254796381603-B:79
+[2024-11-17 14:54:00] User 254796381603-B:79 disconnected at 2024-11-17 15:57:43 due to traffic limit reached
+[2024-11-17 14:54:00] Updated disconnection info for user 254796381603-B:79
+[2024-11-17 14:54:00] User 254796381603-B:79 disconnected at 2024-11-17 16:06:26 due to expired
+[2024-11-17 14:54:00] Updated disconnection info for user 254796381603-B:79
+[2024-11-17 14:54:00] User 254796381603-B:79 disconnected at 2024-11-17 16:08:55 due to expired
+[2024-11-17 14:54:00] Updated disconnection info for user 254796381603-B:79
+[2024-11-17 14:54:00] User 254796381603-B:79 disconnected at 2024-11-17 16:32:07 due to keepalive timeout
+[2024-11-17 14:54:00] Updated disconnection info for user 254796381603-B:79
+[2024-11-17 14:54:00] Updated last log retrieval time for router 1 to 2024-11-17 16:32:07
+[2024-11-17 14:54:00] Disconnection check completed.
+[2024-11-17 15:05:21] Database connection successful
+[2024-11-17 15:05:21] Updated disconnection_reason to 'N/A' for 0 online users
+[2024-11-17 15:05:21] Processing router ID: 1 at IP: 192.168.180.10
+[2024-11-17 15:05:21] Connected to router at 192.168.180.10
+[2024-11-17 15:05:21] Last log retrieval time for router 1: 2024-11-16 15:05:21
+[2024-11-17 15:05:22] Total logs to process: 68
+[2024-11-17 15:05:22] User 254796381603-B:79 disconnected at 2024-11-17 15:00:40 due to expired
+[2024-11-17 15:05:22] Updated disconnection info for user 254796381603-B:79
+[2024-11-17 15:05:22] User 254796381603-B:79 disconnected at 2024-11-17 15:05:46 due to traffic limit reached
+[2024-11-17 15:05:22] Updated disconnection info for user 254796381603-B:79
+[2024-11-17 15:05:22] User 254796381603-B:79 disconnected at 2024-11-17 15:20:42 due to traffic limit reached
+[2024-11-17 15:05:22] Updated disconnection info for user 254796381603-B:79
+[2024-11-17 15:05:22] User 254796381603-B:79 disconnected at 2024-11-17 15:23:23 due to traffic limit reached
+[2024-11-17 15:05:22] Updated disconnection info for user 254796381603-B:79
+[2024-11-17 15:05:22] User 254796381603-B:79 disconnected at 2024-11-17 15:27:14 due to keepalive timeout
+[2024-11-17 15:05:22] Updated disconnection info for user 254796381603-B:79
+[2024-11-17 15:05:22] User 254796381603-B:79 disconnected at 2024-11-17 15:28:17 due to expired
+[2024-11-17 15:05:22] Updated disconnection info for user 254796381603-B:79
+[2024-11-17 15:05:22] User 254796381603-B:79 disconnected at 2024-11-17 15:57:43 due to traffic limit reached
+[2024-11-17 15:05:22] Updated disconnection info for user 254796381603-B:79
+[2024-11-17 15:05:22] User 254796381603-B:79 disconnected at 2024-11-17 16:06:26 due to expired
+[2024-11-17 15:05:22] Updated disconnection info for user 254796381603-B:79
+[2024-11-17 15:05:22] User 254796381603-B:79 disconnected at 2024-11-17 16:08:55 due to expired
+[2024-11-17 15:05:22] Updated disconnection info for user 254796381603-B:79
+[2024-11-17 15:05:22] User 254796381603-B:79 disconnected at 2024-11-17 16:32:07 due to keepalive timeout
+[2024-11-17 15:05:22] Updated disconnection info for user 254796381603-B:79
+[2024-11-17 15:05:22] Updated last log retrieval time for router 1 to 2024-11-17 16:32:07
+[2024-11-17 15:05:22] Disconnection check completed.
+[2024-11-17 15:06:57] Database connection successful
+[2024-11-17 15:06:57] Updated disconnection_reason to 'N/A' for 0 online users
+[2024-11-17 15:06:57] Processing router ID: 1 at IP: 192.168.180.10
+[2024-11-17 15:06:57] Connected to router at 192.168.180.10
+[2024-11-17 15:06:57] Last log retrieval time for router 1: 2024-11-16 15:06:57
+[2024-11-17 15:06:58] Total logs to process: 68
+[2024-11-17 15:06:58] User 254796381603-B:79 disconnected at 2024-11-17 15:00:40 due to expired
+[2024-11-17 15:06:58] Updated disconnection info for user 254796381603-B:79
+[2024-11-17 15:06:58] User 254796381603-B:79 disconnected at 2024-11-17 15:05:46 due to traffic limit reached
+[2024-11-17 15:06:58] Updated disconnection info for user 254796381603-B:79
+[2024-11-17 15:06:58] User 254796381603-B:79 disconnected at 2024-11-17 15:20:42 due to traffic limit reached
+[2024-11-17 15:06:58] Updated disconnection info for user 254796381603-B:79
+[2024-11-17 15:06:58] User 254796381603-B:79 disconnected at 2024-11-17 15:23:23 due to traffic limit reached
+[2024-11-17 15:06:58] Updated disconnection info for user 254796381603-B:79
+[2024-11-17 15:06:58] User 254796381603-B:79 disconnected at 2024-11-17 15:27:14 due to keepalive timeout
+[2024-11-17 15:06:58] Updated disconnection info for user 254796381603-B:79
+[2024-11-17 15:06:58] User 254796381603-B:79 disconnected at 2024-11-17 15:28:17 due to expired
+[2024-11-17 15:06:58] Updated disconnection info for user 254796381603-B:79
+[2024-11-17 15:06:58] User 254796381603-B:79 disconnected at 2024-11-17 15:57:43 due to traffic limit reached
+[2024-11-17 15:06:58] Updated disconnection info for user 254796381603-B:79
+[2024-11-17 15:06:58] User 254796381603-B:79 disconnected at 2024-11-17 16:06:26 due to expired
+[2024-11-17 15:06:58] Updated disconnection info for user 254796381603-B:79
+[2024-11-17 15:06:58] User 254796381603-B:79 disconnected at 2024-11-17 16:08:55 due to expired
+[2024-11-17 15:06:58] Updated disconnection info for user 254796381603-B:79
+[2024-11-17 15:06:58] User 254796381603-B:79 disconnected at 2024-11-17 16:32:07 due to keepalive timeout
+[2024-11-17 15:06:58] Updated disconnection info for user 254796381603-B:79
+[2024-11-17 15:06:58] Updated last log retrieval time for router 1 to 2024-11-17 16:32:07
+[2024-11-17 15:06:58] Disconnection check completed.
+[2024-11-17 15:07:31] Database connection successful
+[2024-11-17 15:07:31] Updated disconnection_reason to 'N/A' for 1 online users
+[2024-11-17 15:07:31] Processing router ID: 1 at IP: 192.168.180.10
+[2024-11-17 15:07:31] Connected to router at 192.168.180.10
+[2024-11-17 15:07:31] Last log retrieval time for router 1: 2024-11-16 15:07:31
+[2024-11-17 15:07:32] Total logs to process: 72
+[2024-11-17 15:07:32] User 254796381603-B:79 disconnected at 2024-11-17 15:00:40 due to expired
+[2024-11-17 15:07:32] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:07:32] User 254796381603-B:79 disconnected at 2024-11-17 15:05:46 due to traffic limit reached
+[2024-11-17 15:07:32] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:07:32] User 254796381603-B:79 disconnected at 2024-11-17 15:20:42 due to traffic limit reached
+[2024-11-17 15:07:32] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:07:32] User 254796381603-B:79 disconnected at 2024-11-17 15:23:23 due to traffic limit reached
+[2024-11-17 15:07:32] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:07:32] User 254796381603-B:79 disconnected at 2024-11-17 15:27:14 due to keepalive timeout
+[2024-11-17 15:07:32] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:07:32] User 254796381603-B:79 disconnected at 2024-11-17 15:28:17 due to expired
+[2024-11-17 15:07:32] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:07:32] User 254796381603-B:79 disconnected at 2024-11-17 15:57:43 due to traffic limit reached
+[2024-11-17 15:07:32] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:07:32] User 254796381603-B:79 disconnected at 2024-11-17 16:06:26 due to expired
+[2024-11-17 15:07:32] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:07:32] User 254796381603-B:79 disconnected at 2024-11-17 16:08:55 due to expired
+[2024-11-17 15:07:32] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:07:32] User 254796381603-B:79 disconnected at 2024-11-17 16:32:07 due to keepalive timeout
+[2024-11-17 15:07:32] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:07:32] Updated last log retrieval time for router 1 to 2024-11-17 17:07:27
+[2024-11-17 15:07:32] Disconnection check completed.
+[2024-11-17 15:07:58] Database connection successful
+[2024-11-17 15:07:58] Updated disconnection_reason to 'N/A' for 0 online users
+[2024-11-17 15:07:58] Processing router ID: 1 at IP: 192.168.180.10
+[2024-11-17 15:07:58] Connected to router at 192.168.180.10
+[2024-11-17 15:07:58] Last log retrieval time for router 1: 2024-11-16 15:07:58
+[2024-11-17 15:07:59] Total logs to process: 72
+[2024-11-17 15:07:59] User 254796381603-B:79 disconnected at 2024-11-17 15:00:40 due to expired
+[2024-11-17 15:07:59] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:07:59] User 254796381603-B:79 disconnected at 2024-11-17 15:05:46 due to traffic limit reached
+[2024-11-17 15:07:59] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:07:59] User 254796381603-B:79 disconnected at 2024-11-17 15:20:42 due to traffic limit reached
+[2024-11-17 15:07:59] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:07:59] User 254796381603-B:79 disconnected at 2024-11-17 15:23:23 due to traffic limit reached
+[2024-11-17 15:07:59] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:07:59] User 254796381603-B:79 disconnected at 2024-11-17 15:27:14 due to keepalive timeout
+[2024-11-17 15:07:59] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:07:59] User 254796381603-B:79 disconnected at 2024-11-17 15:28:17 due to expired
+[2024-11-17 15:07:59] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:07:59] User 254796381603-B:79 disconnected at 2024-11-17 15:57:43 due to traffic limit reached
+[2024-11-17 15:07:59] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:07:59] User 254796381603-B:79 disconnected at 2024-11-17 16:06:26 due to expired
+[2024-11-17 15:07:59] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:07:59] User 254796381603-B:79 disconnected at 2024-11-17 16:08:55 due to expired
+[2024-11-17 15:07:59] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:07:59] User 254796381603-B:79 disconnected at 2024-11-17 16:32:07 due to keepalive timeout
+[2024-11-17 15:07:59] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:07:59] Updated last log retrieval time for router 1 to 2024-11-17 17:07:27
+[2024-11-17 15:07:59] Disconnection check completed.
+[2024-11-17 15:10:30] Database connection successful
+[2024-11-17 15:10:30] Updated disconnection_reason to 'N/A' for 0 online users
+[2024-11-17 15:10:30] Processing router ID: 1 at IP: 192.168.180.10
+[2024-11-17 15:10:30] Connected to router at 192.168.180.10
+[2024-11-17 15:10:30] Last log retrieval time for router 1: 2024-11-16 15:10:30
+[2024-11-17 15:10:30] Total logs to process: 72
+[2024-11-17 15:10:30] User 254796381603-B:79 disconnected at 2024-11-17 15:00:40 due to expired
+[2024-11-17 15:10:30] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:10:30] User 254796381603-B:79 disconnected at 2024-11-17 15:05:46 due to traffic limit reached
+[2024-11-17 15:10:30] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:10:30] User 254796381603-B:79 disconnected at 2024-11-17 15:20:42 due to traffic limit reached
+[2024-11-17 15:10:30] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:10:30] User 254796381603-B:79 disconnected at 2024-11-17 15:23:23 due to traffic limit reached
+[2024-11-17 15:10:30] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:10:30] User 254796381603-B:79 disconnected at 2024-11-17 15:27:14 due to keepalive timeout
+[2024-11-17 15:10:30] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:10:30] User 254796381603-B:79 disconnected at 2024-11-17 15:28:17 due to expired
+[2024-11-17 15:10:30] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:10:30] User 254796381603-B:79 disconnected at 2024-11-17 15:57:43 due to traffic limit reached
+[2024-11-17 15:10:30] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:10:30] User 254796381603-B:79 disconnected at 2024-11-17 16:06:26 due to expired
+[2024-11-17 15:10:30] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:10:30] User 254796381603-B:79 disconnected at 2024-11-17 16:08:55 due to expired
+[2024-11-17 15:10:30] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:10:30] User 254796381603-B:79 disconnected at 2024-11-17 16:32:07 due to keepalive timeout
+[2024-11-17 15:10:30] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:10:30] Updated last log retrieval time for router 1 to 2024-11-17 17:07:27
+[2024-11-17 15:10:30] Disconnection check completed.
+[2024-11-17 15:12:43] Database connection successful
+[2024-11-17 15:12:43] Updated disconnection_reason to 'N/A' for 0 online users
+[2024-11-17 15:12:43] Processing router ID: 1 at IP: 192.168.180.10
+[2024-11-17 15:12:43] Connected to router at 192.168.180.10
+[2024-11-17 15:12:43] Last log retrieval time for router 1: 2024-11-16 15:12:43
+[2024-11-17 15:12:44] Total logs to process: 72
+[2024-11-17 15:12:44] User 254796381603-B:79 disconnected at 2024-11-17 15:00:40 due to expired
+[2024-11-17 15:12:44] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:12:44] User 254796381603-B:79 disconnected at 2024-11-17 15:05:46 due to traffic limit reached
+[2024-11-17 15:12:44] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:12:44] User 254796381603-B:79 disconnected at 2024-11-17 15:20:42 due to traffic limit reached
+[2024-11-17 15:12:44] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:12:44] User 254796381603-B:79 disconnected at 2024-11-17 15:23:23 due to traffic limit reached
+[2024-11-17 15:12:44] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:12:44] User 254796381603-B:79 disconnected at 2024-11-17 15:27:14 due to keepalive timeout
+[2024-11-17 15:12:44] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:12:44] User 254796381603-B:79 disconnected at 2024-11-17 15:28:17 due to expired
+[2024-11-17 15:12:44] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:12:44] User 254796381603-B:79 disconnected at 2024-11-17 15:57:43 due to traffic limit reached
+[2024-11-17 15:12:44] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:12:44] User 254796381603-B:79 disconnected at 2024-11-17 16:06:26 due to expired
+[2024-11-17 15:12:44] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:12:44] User 254796381603-B:79 disconnected at 2024-11-17 16:08:55 due to expired
+[2024-11-17 15:12:44] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:12:44] User 254796381603-B:79 disconnected at 2024-11-17 16:32:07 due to keepalive timeout
+[2024-11-17 15:12:44] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:12:44] Updated last log retrieval time for router 1 to 2024-11-17 17:07:27
+[2024-11-17 15:12:44] Disconnection check completed.
+[2024-11-17 15:14:45] Database connection successful
+[2024-11-17 15:14:45] Updated disconnection_reason to 'N/A' for 0 online users
+[2024-11-17 15:14:45] Processing router ID: 1 at IP: 192.168.180.10
+[2024-11-17 15:14:46] Connected to router at 192.168.180.10
+[2024-11-17 15:14:46] Last log retrieval time for router 1: 2024-11-16 15:14:46
+[2024-11-17 15:14:46] Total logs to process: 72
+[2024-11-17 15:14:46] User 254796381603-B:79 disconnected at 2024-11-17 15:00:40 due to expired
+[2024-11-17 15:14:46] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:14:46] User 254796381603-B:79 disconnected at 2024-11-17 15:05:46 due to traffic limit reached
+[2024-11-17 15:14:46] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:14:46] User 254796381603-B:79 disconnected at 2024-11-17 15:20:42 due to traffic limit reached
+[2024-11-17 15:14:46] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:14:46] User 254796381603-B:79 disconnected at 2024-11-17 15:23:23 due to traffic limit reached
+[2024-11-17 15:14:46] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:14:46] User 254796381603-B:79 disconnected at 2024-11-17 15:27:14 due to keepalive timeout
+[2024-11-17 15:14:46] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:14:46] User 254796381603-B:79 disconnected at 2024-11-17 15:28:17 due to expired
+[2024-11-17 15:14:46] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:14:46] User 254796381603-B:79 disconnected at 2024-11-17 15:57:43 due to traffic limit reached
+[2024-11-17 15:14:46] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:14:46] User 254796381603-B:79 disconnected at 2024-11-17 16:06:26 due to expired
+[2024-11-17 15:14:46] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:14:46] User 254796381603-B:79 disconnected at 2024-11-17 16:08:55 due to expired
+[2024-11-17 15:14:46] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:14:46] User 254796381603-B:79 disconnected at 2024-11-17 16:32:07 due to keepalive timeout
+[2024-11-17 15:14:46] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:14:46] Updated last log retrieval time for router 1 to 2024-11-17 17:07:27
+[2024-11-17 15:14:46] Disconnection check completed.
+[2024-11-17 15:15:04] Database connection successful
+[2024-11-17 15:15:04] Updated disconnection_reason to 'N/A' for 0 online users
+[2024-11-17 15:15:04] Processing router ID: 1 at IP: 192.168.180.10
+[2024-11-17 15:15:04] Connected to router at 192.168.180.10
+[2024-11-17 15:15:04] Last log retrieval time for router 1: 2024-11-16 15:15:04
+[2024-11-17 15:15:04] Total logs to process: 72
+[2024-11-17 15:15:04] User 254796381603-B:79 disconnected at 2024-11-17 15:00:40 due to expired
+[2024-11-17 15:15:04] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:15:04] User 254796381603-B:79 disconnected at 2024-11-17 15:05:46 due to traffic limit reached
+[2024-11-17 15:15:04] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:15:04] User 254796381603-B:79 disconnected at 2024-11-17 15:20:42 due to traffic limit reached
+[2024-11-17 15:15:04] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:15:04] User 254796381603-B:79 disconnected at 2024-11-17 15:23:23 due to traffic limit reached
+[2024-11-17 15:15:04] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:15:04] User 254796381603-B:79 disconnected at 2024-11-17 15:27:14 due to keepalive timeout
+[2024-11-17 15:15:04] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:15:04] User 254796381603-B:79 disconnected at 2024-11-17 15:28:17 due to expired
+[2024-11-17 15:15:04] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:15:04] User 254796381603-B:79 disconnected at 2024-11-17 15:57:43 due to traffic limit reached
+[2024-11-17 15:15:04] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:15:04] User 254796381603-B:79 disconnected at 2024-11-17 16:06:26 due to expired
+[2024-11-17 15:15:04] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:15:04] User 254796381603-B:79 disconnected at 2024-11-17 16:08:55 due to expired
+[2024-11-17 15:15:04] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:15:04] User 254796381603-B:79 disconnected at 2024-11-17 16:32:07 due to keepalive timeout
+[2024-11-17 15:15:04] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:15:04] Updated last log retrieval time for router 1 to 2024-11-17 17:07:27
+[2024-11-17 15:15:04] Disconnection check completed.
+[2024-11-17 15:16:23] Database connection successful
+[2024-11-17 15:16:23] Updated disconnection_reason to 'N/A' for 0 online users
+[2024-11-17 15:16:23] Processing router ID: 1 at IP: 192.168.180.10
+[2024-11-17 15:16:23] Connected to router at 192.168.180.10
+[2024-11-17 15:16:23] Last log retrieval time for router 1: 2024-11-16 15:16:23
+[2024-11-17 15:16:24] Total logs to process: 72
+[2024-11-17 15:16:24] User 254796381603-B:79 disconnected at 2024-11-17 15:00:40 due to expired
+[2024-11-17 15:16:24] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:16:24] User 254796381603-B:79 disconnected at 2024-11-17 15:05:46 due to traffic limit reached
+[2024-11-17 15:16:24] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:16:24] User 254796381603-B:79 disconnected at 2024-11-17 15:20:42 due to traffic limit reached
+[2024-11-17 15:16:24] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:16:24] User 254796381603-B:79 disconnected at 2024-11-17 15:23:23 due to traffic limit reached
+[2024-11-17 15:16:24] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:16:24] User 254796381603-B:79 disconnected at 2024-11-17 15:27:14 due to keepalive timeout
+[2024-11-17 15:16:24] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:16:24] User 254796381603-B:79 disconnected at 2024-11-17 15:28:17 due to expired
+[2024-11-17 15:16:24] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:16:24] User 254796381603-B:79 disconnected at 2024-11-17 15:57:43 due to traffic limit reached
+[2024-11-17 15:16:24] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:16:24] User 254796381603-B:79 disconnected at 2024-11-17 16:06:26 due to expired
+[2024-11-17 15:16:24] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:16:24] User 254796381603-B:79 disconnected at 2024-11-17 16:08:55 due to expired
+[2024-11-17 15:16:24] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:16:24] User 254796381603-B:79 disconnected at 2024-11-17 16:32:07 due to keepalive timeout
+[2024-11-17 15:16:24] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:16:24] Updated last log retrieval time for router 1 to 2024-11-17 17:07:27
+[2024-11-17 15:16:24] Disconnection check completed.
+[2024-11-17 15:16:47] Database connection successful
+[2024-11-17 15:16:47] Updated disconnection_reason to 'N/A' for 0 online users
+[2024-11-17 15:16:47] Processing router ID: 1 at IP: 192.168.180.10
+[2024-11-17 15:16:47] Connected to router at 192.168.180.10
+[2024-11-17 15:16:47] Last log retrieval time for router 1: 2024-11-16 15:16:47
+[2024-11-17 15:16:47] Total logs to process: 72
+[2024-11-17 15:16:47] User 254796381603-B:79 disconnected at 2024-11-17 15:00:40 due to expired
+[2024-11-17 15:16:47] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:16:47] User 254796381603-B:79 disconnected at 2024-11-17 15:05:46 due to traffic limit reached
+[2024-11-17 15:16:47] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:16:47] User 254796381603-B:79 disconnected at 2024-11-17 15:20:42 due to traffic limit reached
+[2024-11-17 15:16:47] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:16:47] User 254796381603-B:79 disconnected at 2024-11-17 15:23:23 due to traffic limit reached
+[2024-11-17 15:16:47] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:16:47] User 254796381603-B:79 disconnected at 2024-11-17 15:27:14 due to keepalive timeout
+[2024-11-17 15:16:47] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:16:47] User 254796381603-B:79 disconnected at 2024-11-17 15:28:17 due to expired
+[2024-11-17 15:16:47] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:16:47] User 254796381603-B:79 disconnected at 2024-11-17 15:57:43 due to traffic limit reached
+[2024-11-17 15:16:47] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:16:47] User 254796381603-B:79 disconnected at 2024-11-17 16:06:26 due to expired
+[2024-11-17 15:16:47] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:16:47] User 254796381603-B:79 disconnected at 2024-11-17 16:08:55 due to expired
+[2024-11-17 15:16:47] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:16:47] User 254796381603-B:79 disconnected at 2024-11-17 16:32:07 due to keepalive timeout
+[2024-11-17 15:16:47] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:16:47] Updated last log retrieval time for router 1 to 2024-11-17 17:07:27
+[2024-11-17 15:16:47] Disconnection check completed.
+[2024-11-17 15:19:18] Database connection successful
+[2024-11-17 15:19:18] Updated disconnection_reason to 'N/A' for 0 online users
+[2024-11-17 15:19:18] Processing router ID: 1 at IP: 192.168.180.10
+[2024-11-17 15:19:19] Connected to router at 192.168.180.10
+[2024-11-17 15:19:19] Last log retrieval time for router 1: 2024-11-16 15:19:19
+[2024-11-17 15:19:19] Total logs to process: 73
+[2024-11-17 15:19:19] User 254796381603-B:79 disconnected at 2024-11-17 15:00:40 due to expired
+[2024-11-17 15:19:19] Updated disconnection info for user 254796381603-B:79
+[2024-11-17 15:19:19] User 254796381603-B:79 disconnected at 2024-11-17 15:05:46 due to traffic limit reached
+[2024-11-17 15:19:19] Updated disconnection info for user 254796381603-B:79
+[2024-11-17 15:19:19] User 254796381603-B:79 disconnected at 2024-11-17 15:20:42 due to traffic limit reached
+[2024-11-17 15:19:19] Updated disconnection info for user 254796381603-B:79
+[2024-11-17 15:19:19] User 254796381603-B:79 disconnected at 2024-11-17 15:23:23 due to traffic limit reached
+[2024-11-17 15:19:19] Updated disconnection info for user 254796381603-B:79
+[2024-11-17 15:19:19] User 254796381603-B:79 disconnected at 2024-11-17 15:27:14 due to keepalive timeout
+[2024-11-17 15:19:20] Updated disconnection info for user 254796381603-B:79
+[2024-11-17 15:19:20] User 254796381603-B:79 disconnected at 2024-11-17 15:28:17 due to expired
+[2024-11-17 15:19:20] Updated disconnection info for user 254796381603-B:79
+[2024-11-17 15:19:20] User 254796381603-B:79 disconnected at 2024-11-17 15:57:43 due to traffic limit reached
+[2024-11-17 15:19:20] Updated disconnection info for user 254796381603-B:79
+[2024-11-17 15:19:20] User 254796381603-B:79 disconnected at 2024-11-17 16:06:26 due to expired
+[2024-11-17 15:19:20] Updated disconnection info for user 254796381603-B:79
+[2024-11-17 15:19:20] User 254796381603-B:79 disconnected at 2024-11-17 16:08:55 due to expired
+[2024-11-17 15:19:20] Updated disconnection info for user 254796381603-B:79
+[2024-11-17 15:19:20] User 254796381603-B:79 disconnected at 2024-11-17 16:32:07 due to keepalive timeout
+[2024-11-17 15:19:20] Updated disconnection info for user 254796381603-B:79
+[2024-11-17 15:19:20] User 254796381603-B:79 disconnected at 2024-11-17 17:16:55 due to traffic limit reached
+[2024-11-17 15:19:20] Updated disconnection info for user 254796381603-B:79
+[2024-11-17 15:19:20] Updated last log retrieval time for router 1 to 2024-11-17 17:16:55
+[2024-11-17 15:19:20] Disconnection check completed.
+[2024-11-17 15:20:39] Database connection successful
+[2024-11-17 15:20:39] Updated disconnection_reason to 'N/A' for 1 online users
+[2024-11-17 15:20:39] Processing router ID: 1 at IP: 192.168.180.10
+[2024-11-17 15:20:39] Connected to router at 192.168.180.10
+[2024-11-17 15:20:39] Last log retrieval time for router 1: 2024-11-16 15:20:39
+[2024-11-17 15:20:40] Total logs to process: 77
+[2024-11-17 15:20:40] User 254796381603-B:79 disconnected at 2024-11-17 15:00:40 due to expired
+[2024-11-17 15:20:40] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:20:40] User 254796381603-B:79 disconnected at 2024-11-17 15:05:46 due to traffic limit reached
+[2024-11-17 15:20:40] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:20:40] User 254796381603-B:79 disconnected at 2024-11-17 15:20:42 due to traffic limit reached
+[2024-11-17 15:20:40] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:20:40] User 254796381603-B:79 disconnected at 2024-11-17 15:23:23 due to traffic limit reached
+[2024-11-17 15:20:40] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:20:40] User 254796381603-B:79 disconnected at 2024-11-17 15:27:14 due to keepalive timeout
+[2024-11-17 15:20:40] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:20:40] User 254796381603-B:79 disconnected at 2024-11-17 15:28:17 due to expired
+[2024-11-17 15:20:40] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:20:40] User 254796381603-B:79 disconnected at 2024-11-17 15:57:43 due to traffic limit reached
+[2024-11-17 15:20:40] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:20:40] User 254796381603-B:79 disconnected at 2024-11-17 16:06:26 due to expired
+[2024-11-17 15:20:40] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:20:40] User 254796381603-B:79 disconnected at 2024-11-17 16:08:55 due to expired
+[2024-11-17 15:20:40] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:20:40] User 254796381603-B:79 disconnected at 2024-11-17 16:32:07 due to keepalive timeout
+[2024-11-17 15:20:40] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:20:40] User 254796381603-B:79 disconnected at 2024-11-17 17:16:55 due to traffic limit reached
+[2024-11-17 15:20:40] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:20:40] Updated last log retrieval time for router 1 to 2024-11-17 17:20:25
+[2024-11-17 15:20:40] Disconnection check completed.
+[2024-11-17 15:23:54] Database connection successful
+[2024-11-17 15:23:54] Updated disconnection_reason to 'N/A' for 0 online users
+[2024-11-17 15:23:54] Processing router ID: 1 at IP: 192.168.180.10
+[2024-11-17 15:23:55] Connected to router at 192.168.180.10
+[2024-11-17 15:23:55] Last log retrieval time for router 1: 2024-11-16 15:23:55
+[2024-11-17 15:23:55] Total logs to process: 77
+[2024-11-17 15:23:55] User 254796381603-B:79 disconnected at 2024-11-17 15:00:40 due to expired
+[2024-11-17 15:23:55] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:23:55] User 254796381603-B:79 disconnected at 2024-11-17 15:05:46 due to traffic limit reached
+[2024-11-17 15:23:55] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:23:55] User 254796381603-B:79 disconnected at 2024-11-17 15:20:42 due to traffic limit reached
+[2024-11-17 15:23:55] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:23:55] User 254796381603-B:79 disconnected at 2024-11-17 15:23:23 due to traffic limit reached
+[2024-11-17 15:23:55] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:23:55] User 254796381603-B:79 disconnected at 2024-11-17 15:27:14 due to keepalive timeout
+[2024-11-17 15:23:55] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:23:55] User 254796381603-B:79 disconnected at 2024-11-17 15:28:17 due to expired
+[2024-11-17 15:23:55] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:23:55] User 254796381603-B:79 disconnected at 2024-11-17 15:57:43 due to traffic limit reached
+[2024-11-17 15:23:55] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:23:55] User 254796381603-B:79 disconnected at 2024-11-17 16:06:26 due to expired
+[2024-11-17 15:23:55] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:23:55] User 254796381603-B:79 disconnected at 2024-11-17 16:08:55 due to expired
+[2024-11-17 15:23:55] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:23:55] User 254796381603-B:79 disconnected at 2024-11-17 16:32:07 due to keepalive timeout
+[2024-11-17 15:23:55] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:23:55] User 254796381603-B:79 disconnected at 2024-11-17 17:16:55 due to traffic limit reached
+[2024-11-17 15:23:55] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:23:55] Updated last log retrieval time for router 1 to 2024-11-17 17:20:25
+[2024-11-17 15:23:55] Disconnection check completed.
+[2024-11-17 15:27:14] Database connection successful
+[2024-11-17 15:27:14] Updated disconnection_reason to 'N/A' for 0 online users
+[2024-11-17 15:27:14] Processing router ID: 1 at IP: 192.168.180.10
+[2024-11-17 15:27:14] Connected to router at 192.168.180.10
+[2024-11-17 15:27:14] Last log retrieval time for router 1: 2024-11-16 15:27:14
+[2024-11-17 15:27:14] Total logs to process: 77
+[2024-11-17 15:27:14] User 254796381603-B:79 disconnected at 2024-11-17 15:00:40 due to expired
+[2024-11-17 15:27:14] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:27:14] User 254796381603-B:79 disconnected at 2024-11-17 15:05:46 due to traffic limit reached
+[2024-11-17 15:27:14] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:27:14] User 254796381603-B:79 disconnected at 2024-11-17 15:20:42 due to traffic limit reached
+[2024-11-17 15:27:14] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:27:14] User 254796381603-B:79 disconnected at 2024-11-17 15:23:23 due to traffic limit reached
+[2024-11-17 15:27:14] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:27:14] User 254796381603-B:79 disconnected at 2024-11-17 15:27:14 due to keepalive timeout
+[2024-11-17 15:27:14] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:27:14] User 254796381603-B:79 disconnected at 2024-11-17 15:28:17 due to expired
+[2024-11-17 15:27:14] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:27:14] User 254796381603-B:79 disconnected at 2024-11-17 15:57:43 due to traffic limit reached
+[2024-11-17 15:27:14] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:27:14] User 254796381603-B:79 disconnected at 2024-11-17 16:06:26 due to expired
+[2024-11-17 15:27:14] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:27:14] User 254796381603-B:79 disconnected at 2024-11-17 16:08:55 due to expired
+[2024-11-17 15:27:14] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:27:14] User 254796381603-B:79 disconnected at 2024-11-17 16:32:07 due to keepalive timeout
+[2024-11-17 15:27:14] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:27:14] User 254796381603-B:79 disconnected at 2024-11-17 17:16:55 due to traffic limit reached
+[2024-11-17 15:27:14] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:27:14] Updated last log retrieval time for router 1 to 2024-11-17 17:20:25
+[2024-11-17 15:27:14] Disconnection check completed.
+[2024-11-17 15:28:34] Database connection successful
+[2024-11-17 15:28:34] Updated disconnection_reason to 'N/A' for 0 online users
+[2024-11-17 15:28:34] Processing router ID: 1 at IP: 192.168.180.10
+[2024-11-17 15:28:34] Connected to router at 192.168.180.10
+[2024-11-17 15:28:34] Last log retrieval time for router 1: 2024-11-16 15:28:34
+[2024-11-17 15:28:35] Total logs to process: 77
+[2024-11-17 15:28:35] User 254796381603-B:79 disconnected at 2024-11-17 15:00:40 due to expired
+[2024-11-17 15:28:35] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:28:35] User 254796381603-B:79 disconnected at 2024-11-17 15:05:46 due to traffic limit reached
+[2024-11-17 15:28:35] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:28:35] User 254796381603-B:79 disconnected at 2024-11-17 15:20:42 due to traffic limit reached
+[2024-11-17 15:28:35] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:28:35] User 254796381603-B:79 disconnected at 2024-11-17 15:23:23 due to traffic limit reached
+[2024-11-17 15:28:35] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:28:35] User 254796381603-B:79 disconnected at 2024-11-17 15:27:14 due to keepalive timeout
+[2024-11-17 15:28:35] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:28:35] User 254796381603-B:79 disconnected at 2024-11-17 15:28:17 due to expired
+[2024-11-17 15:28:35] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:28:35] User 254796381603-B:79 disconnected at 2024-11-17 15:57:43 due to traffic limit reached
+[2024-11-17 15:28:35] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:28:35] User 254796381603-B:79 disconnected at 2024-11-17 16:06:26 due to expired
+[2024-11-17 15:28:35] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:28:35] User 254796381603-B:79 disconnected at 2024-11-17 16:08:55 due to expired
+[2024-11-17 15:28:35] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:28:35] User 254796381603-B:79 disconnected at 2024-11-17 16:32:07 due to keepalive timeout
+[2024-11-17 15:28:35] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:28:35] User 254796381603-B:79 disconnected at 2024-11-17 17:16:55 due to traffic limit reached
+[2024-11-17 15:28:35] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:28:35] Updated last log retrieval time for router 1 to 2024-11-17 17:20:25
+[2024-11-17 15:28:35] Disconnection check completed.
+[2024-11-17 15:30:05] Database connection successful
+[2024-11-17 15:30:05] Updated disconnection_reason to 'N/A' for 0 online users
+[2024-11-17 15:30:05] Processing router ID: 1 at IP: 192.168.180.10
+[2024-11-17 15:30:05] Connected to router at 192.168.180.10
+[2024-11-17 15:30:05] Last log retrieval time for router 1: 2024-11-16 15:30:05
+[2024-11-17 15:30:05] Total logs to process: 77
+[2024-11-17 15:30:05] User 254796381603-B:79 disconnected at 2024-11-17 15:00:40 due to expired
+[2024-11-17 15:30:05] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:30:05] User 254796381603-B:79 disconnected at 2024-11-17 15:05:46 due to traffic limit reached
+[2024-11-17 15:30:05] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:30:05] User 254796381603-B:79 disconnected at 2024-11-17 15:20:42 due to traffic limit reached
+[2024-11-17 15:30:05] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:30:05] User 254796381603-B:79 disconnected at 2024-11-17 15:23:23 due to traffic limit reached
+[2024-11-17 15:30:05] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:30:05] User 254796381603-B:79 disconnected at 2024-11-17 15:27:14 due to keepalive timeout
+[2024-11-17 15:30:05] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:30:05] User 254796381603-B:79 disconnected at 2024-11-17 15:28:17 due to expired
+[2024-11-17 15:30:05] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:30:05] User 254796381603-B:79 disconnected at 2024-11-17 15:57:43 due to traffic limit reached
+[2024-11-17 15:30:05] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:30:05] User 254796381603-B:79 disconnected at 2024-11-17 16:06:26 due to expired
+[2024-11-17 15:30:05] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:30:05] User 254796381603-B:79 disconnected at 2024-11-17 16:08:55 due to expired
+[2024-11-17 15:30:05] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:30:05] User 254796381603-B:79 disconnected at 2024-11-17 16:32:07 due to keepalive timeout
+[2024-11-17 15:30:05] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:30:05] User 254796381603-B:79 disconnected at 2024-11-17 17:16:55 due to traffic limit reached
+[2024-11-17 15:30:05] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:30:05] Updated last log retrieval time for router 1 to 2024-11-17 17:20:25
+[2024-11-17 15:30:05] Disconnection check completed.
+[2024-11-17 15:31:48] Database connection successful
+[2024-11-17 15:31:48] Updated disconnection_reason to 'N/A' for 0 online users
+[2024-11-17 15:31:48] Processing router ID: 1 at IP: 192.168.180.10
+[2024-11-17 15:31:48] Connected to router at 192.168.180.10
+[2024-11-17 15:31:48] Last log retrieval time for router 1: 2024-11-16 15:31:48
+[2024-11-17 15:31:48] Total logs to process: 77
+[2024-11-17 15:31:48] User 254796381603-B:79 disconnected at 2024-11-17 15:00:40 due to expired
+[2024-11-17 15:31:48] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:31:48] User 254796381603-B:79 disconnected at 2024-11-17 15:05:46 due to traffic limit reached
+[2024-11-17 15:31:48] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:31:48] User 254796381603-B:79 disconnected at 2024-11-17 15:20:42 due to traffic limit reached
+[2024-11-17 15:31:48] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:31:48] User 254796381603-B:79 disconnected at 2024-11-17 15:23:23 due to traffic limit reached
+[2024-11-17 15:31:48] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:31:48] User 254796381603-B:79 disconnected at 2024-11-17 15:27:14 due to keepalive timeout
+[2024-11-17 15:31:48] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:31:48] User 254796381603-B:79 disconnected at 2024-11-17 15:28:17 due to expired
+[2024-11-17 15:31:48] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:31:48] User 254796381603-B:79 disconnected at 2024-11-17 15:57:43 due to traffic limit reached
+[2024-11-17 15:31:48] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:31:48] User 254796381603-B:79 disconnected at 2024-11-17 16:06:26 due to expired
+[2024-11-17 15:31:48] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:31:48] User 254796381603-B:79 disconnected at 2024-11-17 16:08:55 due to expired
+[2024-11-17 15:31:48] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:31:48] User 254796381603-B:79 disconnected at 2024-11-17 16:32:07 due to keepalive timeout
+[2024-11-17 15:31:48] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:31:48] User 254796381603-B:79 disconnected at 2024-11-17 17:16:55 due to traffic limit reached
+[2024-11-17 15:31:48] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:31:48] Updated last log retrieval time for router 1 to 2024-11-17 17:20:25
+[2024-11-17 15:31:48] Disconnection check completed.
+[2024-11-17 15:32:24] Database connection successful
+[2024-11-17 15:32:24] Updated disconnection_reason to 'N/A' for 0 online users
+[2024-11-17 15:32:24] Processing router ID: 1 at IP: 192.168.180.10
+[2024-11-17 15:32:24] Connected to router at 192.168.180.10
+[2024-11-17 15:32:24] Last log retrieval time for router 1: 2024-11-16 15:32:24
+[2024-11-17 15:32:24] Total logs to process: 77
+[2024-11-17 15:32:24] User 254796381603-B:79 disconnected at 2024-11-17 15:00:40 due to expired
+[2024-11-17 15:32:24] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:32:24] User 254796381603-B:79 disconnected at 2024-11-17 15:05:46 due to traffic limit reached
+[2024-11-17 15:32:24] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:32:24] User 254796381603-B:79 disconnected at 2024-11-17 15:20:42 due to traffic limit reached
+[2024-11-17 15:32:24] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:32:24] User 254796381603-B:79 disconnected at 2024-11-17 15:23:23 due to traffic limit reached
+[2024-11-17 15:32:24] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:32:24] User 254796381603-B:79 disconnected at 2024-11-17 15:27:14 due to keepalive timeout
+[2024-11-17 15:32:24] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:32:24] User 254796381603-B:79 disconnected at 2024-11-17 15:28:17 due to expired
+[2024-11-17 15:32:24] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:32:24] User 254796381603-B:79 disconnected at 2024-11-17 15:57:43 due to traffic limit reached
+[2024-11-17 15:32:24] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:32:24] User 254796381603-B:79 disconnected at 2024-11-17 16:06:26 due to expired
+[2024-11-17 15:32:24] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:32:24] User 254796381603-B:79 disconnected at 2024-11-17 16:08:55 due to expired
+[2024-11-17 15:32:24] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:32:24] User 254796381603-B:79 disconnected at 2024-11-17 16:32:07 due to keepalive timeout
+[2024-11-17 15:32:24] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:32:24] User 254796381603-B:79 disconnected at 2024-11-17 17:16:55 due to traffic limit reached
+[2024-11-17 15:32:24] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:32:24] Updated last log retrieval time for router 1 to 2024-11-17 17:20:25
+[2024-11-17 15:32:24] Disconnection check completed.
+[2024-11-17 15:33:33] Database connection successful
+[2024-11-17 15:33:33] Updated disconnection_reason to 'N/A' for 0 online users
+[2024-11-17 15:33:33] Processing router ID: 1 at IP: 192.168.180.10
+[2024-11-17 15:33:33] Connected to router at 192.168.180.10
+[2024-11-17 15:33:33] Last log retrieval time for router 1: 2024-11-16 15:33:33
+[2024-11-17 15:33:34] Total logs to process: 77
+[2024-11-17 15:33:34] User 254796381603-B:79 disconnected at 2024-11-17 15:00:40 due to expired
+[2024-11-17 15:33:34] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:33:34] User 254796381603-B:79 disconnected at 2024-11-17 15:05:46 due to traffic limit reached
+[2024-11-17 15:33:34] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:33:34] User 254796381603-B:79 disconnected at 2024-11-17 15:20:42 due to traffic limit reached
+[2024-11-17 15:33:34] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:33:34] User 254796381603-B:79 disconnected at 2024-11-17 15:23:23 due to traffic limit reached
+[2024-11-17 15:33:34] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:33:34] User 254796381603-B:79 disconnected at 2024-11-17 15:27:14 due to keepalive timeout
+[2024-11-17 15:33:34] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:33:34] User 254796381603-B:79 disconnected at 2024-11-17 15:28:17 due to expired
+[2024-11-17 15:33:34] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:33:34] User 254796381603-B:79 disconnected at 2024-11-17 15:57:43 due to traffic limit reached
+[2024-11-17 15:33:34] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:33:34] User 254796381603-B:79 disconnected at 2024-11-17 16:06:26 due to expired
+[2024-11-17 15:33:34] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:33:34] User 254796381603-B:79 disconnected at 2024-11-17 16:08:55 due to expired
+[2024-11-17 15:33:34] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:33:34] User 254796381603-B:79 disconnected at 2024-11-17 16:32:07 due to keepalive timeout
+[2024-11-17 15:33:34] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:33:34] User 254796381603-B:79 disconnected at 2024-11-17 17:16:55 due to traffic limit reached
+[2024-11-17 15:33:34] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:33:34] Updated last log retrieval time for router 1 to 2024-11-17 17:20:25
+[2024-11-17 15:33:34] Disconnection check completed.
+[2024-11-17 15:33:59] Database connection successful
+[2024-11-17 15:33:59] Updated disconnection_reason to 'N/A' for 0 online users
+[2024-11-17 15:33:59] Processing router ID: 1 at IP: 192.168.180.10
+[2024-11-17 15:33:59] Connected to router at 192.168.180.10
+[2024-11-17 15:33:59] Last log retrieval time for router 1: 2024-11-16 15:33:59
+[2024-11-17 15:33:59] Total logs to process: 77
+[2024-11-17 15:33:59] User 254796381603-B:79 disconnected at 2024-11-17 15:00:40 due to expired
+[2024-11-17 15:33:59] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:33:59] User 254796381603-B:79 disconnected at 2024-11-17 15:05:46 due to traffic limit reached
+[2024-11-17 15:33:59] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:33:59] User 254796381603-B:79 disconnected at 2024-11-17 15:20:42 due to traffic limit reached
+[2024-11-17 15:33:59] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:33:59] User 254796381603-B:79 disconnected at 2024-11-17 15:23:23 due to traffic limit reached
+[2024-11-17 15:33:59] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:33:59] User 254796381603-B:79 disconnected at 2024-11-17 15:27:14 due to keepalive timeout
+[2024-11-17 15:33:59] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:33:59] User 254796381603-B:79 disconnected at 2024-11-17 15:28:17 due to expired
+[2024-11-17 15:33:59] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:33:59] User 254796381603-B:79 disconnected at 2024-11-17 15:57:43 due to traffic limit reached
+[2024-11-17 15:33:59] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:33:59] User 254796381603-B:79 disconnected at 2024-11-17 16:06:26 due to expired
+[2024-11-17 15:33:59] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:33:59] User 254796381603-B:79 disconnected at 2024-11-17 16:08:55 due to expired
+[2024-11-17 15:33:59] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:33:59] User 254796381603-B:79 disconnected at 2024-11-17 16:32:07 due to keepalive timeout
+[2024-11-17 15:33:59] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:33:59] User 254796381603-B:79 disconnected at 2024-11-17 17:16:55 due to traffic limit reached
+[2024-11-17 15:33:59] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:33:59] Updated last log retrieval time for router 1 to 2024-11-17 17:20:25
+[2024-11-17 15:33:59] Disconnection check completed.
+[2024-11-17 15:34:22] Database connection successful
+[2024-11-17 15:34:22] Updated disconnection_reason to 'N/A' for 0 online users
+[2024-11-17 15:34:22] Processing router ID: 1 at IP: 192.168.180.10
+[2024-11-17 15:34:22] Connected to router at 192.168.180.10
+[2024-11-17 15:34:22] Last log retrieval time for router 1: 2024-11-16 15:34:22
+[2024-11-17 15:34:22] Total logs to process: 77
+[2024-11-17 15:34:22] User 254796381603-B:79 disconnected at 2024-11-17 15:00:40 due to expired
+[2024-11-17 15:34:22] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:34:22] User 254796381603-B:79 disconnected at 2024-11-17 15:05:46 due to traffic limit reached
+[2024-11-17 15:34:22] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:34:22] User 254796381603-B:79 disconnected at 2024-11-17 15:20:42 due to traffic limit reached
+[2024-11-17 15:34:22] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:34:22] User 254796381603-B:79 disconnected at 2024-11-17 15:23:23 due to traffic limit reached
+[2024-11-17 15:34:22] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:34:22] User 254796381603-B:79 disconnected at 2024-11-17 15:27:14 due to keepalive timeout
+[2024-11-17 15:34:22] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:34:22] User 254796381603-B:79 disconnected at 2024-11-17 15:28:17 due to expired
+[2024-11-17 15:34:22] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:34:22] User 254796381603-B:79 disconnected at 2024-11-17 15:57:43 due to traffic limit reached
+[2024-11-17 15:34:22] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:34:22] User 254796381603-B:79 disconnected at 2024-11-17 16:06:26 due to expired
+[2024-11-17 15:34:22] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:34:22] User 254796381603-B:79 disconnected at 2024-11-17 16:08:55 due to expired
+[2024-11-17 15:34:22] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:34:22] User 254796381603-B:79 disconnected at 2024-11-17 16:32:07 due to keepalive timeout
+[2024-11-17 15:34:22] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:34:22] User 254796381603-B:79 disconnected at 2024-11-17 17:16:55 due to traffic limit reached
+[2024-11-17 15:34:22] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:34:22] Updated last log retrieval time for router 1 to 2024-11-17 17:20:25
+[2024-11-17 15:34:22] Disconnection check completed.
+[2024-11-17 15:34:58] Database connection successful
+[2024-11-17 15:34:58] Updated disconnection_reason to 'N/A' for 0 online users
+[2024-11-17 15:34:58] Processing router ID: 1 at IP: 192.168.180.10
+[2024-11-17 15:34:58] Connected to router at 192.168.180.10
+[2024-11-17 15:34:58] Last log retrieval time for router 1: 2024-11-16 15:34:58
+[2024-11-17 15:34:59] Total logs to process: 77
+[2024-11-17 15:34:59] User 254796381603-B:79 disconnected at 2024-11-17 15:00:40 due to expired
+[2024-11-17 15:34:59] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:34:59] User 254796381603-B:79 disconnected at 2024-11-17 15:05:46 due to traffic limit reached
+[2024-11-17 15:34:59] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:34:59] User 254796381603-B:79 disconnected at 2024-11-17 15:20:42 due to traffic limit reached
+[2024-11-17 15:34:59] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:34:59] User 254796381603-B:79 disconnected at 2024-11-17 15:23:23 due to traffic limit reached
+[2024-11-17 15:34:59] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:34:59] User 254796381603-B:79 disconnected at 2024-11-17 15:27:14 due to keepalive timeout
+[2024-11-17 15:34:59] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:34:59] User 254796381603-B:79 disconnected at 2024-11-17 15:28:17 due to expired
+[2024-11-17 15:34:59] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:34:59] User 254796381603-B:79 disconnected at 2024-11-17 15:57:43 due to traffic limit reached
+[2024-11-17 15:34:59] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:34:59] User 254796381603-B:79 disconnected at 2024-11-17 16:06:26 due to expired
+[2024-11-17 15:34:59] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:34:59] User 254796381603-B:79 disconnected at 2024-11-17 16:08:55 due to expired
+[2024-11-17 15:34:59] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:34:59] User 254796381603-B:79 disconnected at 2024-11-17 16:32:07 due to keepalive timeout
+[2024-11-17 15:34:59] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:34:59] User 254796381603-B:79 disconnected at 2024-11-17 17:16:55 due to traffic limit reached
+[2024-11-17 15:34:59] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:34:59] Updated last log retrieval time for router 1 to 2024-11-17 17:20:25
+[2024-11-17 15:34:59] Disconnection check completed.
+[2024-11-17 15:35:36] Database connection successful
+[2024-11-17 15:35:36] Updated disconnection_reason to 'N/A' for 0 online users
+[2024-11-17 15:35:36] Processing router ID: 1 at IP: 192.168.180.10
+[2024-11-17 15:35:36] Connected to router at 192.168.180.10
+[2024-11-17 15:35:36] Last log retrieval time for router 1: 2024-11-16 15:35:36
+[2024-11-17 15:35:37] Total logs to process: 77
+[2024-11-17 15:35:37] User 254796381603-B:79 disconnected at 2024-11-17 15:00:40 due to expired
+[2024-11-17 15:35:37] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:35:37] User 254796381603-B:79 disconnected at 2024-11-17 15:05:46 due to traffic limit reached
+[2024-11-17 15:35:37] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:35:37] User 254796381603-B:79 disconnected at 2024-11-17 15:20:42 due to traffic limit reached
+[2024-11-17 15:35:37] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:35:37] User 254796381603-B:79 disconnected at 2024-11-17 15:23:23 due to traffic limit reached
+[2024-11-17 15:35:37] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:35:37] User 254796381603-B:79 disconnected at 2024-11-17 15:27:14 due to keepalive timeout
+[2024-11-17 15:35:37] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:35:37] User 254796381603-B:79 disconnected at 2024-11-17 15:28:17 due to expired
+[2024-11-17 15:35:37] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:35:37] User 254796381603-B:79 disconnected at 2024-11-17 15:57:43 due to traffic limit reached
+[2024-11-17 15:35:37] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:35:37] User 254796381603-B:79 disconnected at 2024-11-17 16:06:26 due to expired
+[2024-11-17 15:35:37] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:35:37] User 254796381603-B:79 disconnected at 2024-11-17 16:08:55 due to expired
+[2024-11-17 15:35:37] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:35:37] User 254796381603-B:79 disconnected at 2024-11-17 16:32:07 due to keepalive timeout
+[2024-11-17 15:35:37] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:35:37] User 254796381603-B:79 disconnected at 2024-11-17 17:16:55 due to traffic limit reached
+[2024-11-17 15:35:37] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:35:37] Updated last log retrieval time for router 1 to 2024-11-17 17:20:25
+[2024-11-17 15:35:37] Disconnection check completed.
+[2024-11-17 15:35:48] Database connection successful
+[2024-11-17 15:35:48] Updated disconnection_reason to 'N/A' for 0 online users
+[2024-11-17 15:35:48] Processing router ID: 1 at IP: 192.168.180.10
+[2024-11-17 15:35:48] Connected to router at 192.168.180.10
+[2024-11-17 15:35:48] Last log retrieval time for router 1: 2024-11-16 15:35:48
+[2024-11-17 15:35:49] Total logs to process: 77
+[2024-11-17 15:35:49] User 254796381603-B:79 disconnected at 2024-11-17 15:00:40 due to expired
+[2024-11-17 15:35:49] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:35:49] User 254796381603-B:79 disconnected at 2024-11-17 15:05:46 due to traffic limit reached
+[2024-11-17 15:35:49] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:35:49] User 254796381603-B:79 disconnected at 2024-11-17 15:20:42 due to traffic limit reached
+[2024-11-17 15:35:49] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:35:49] User 254796381603-B:79 disconnected at 2024-11-17 15:23:23 due to traffic limit reached
+[2024-11-17 15:35:49] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:35:49] User 254796381603-B:79 disconnected at 2024-11-17 15:27:14 due to keepalive timeout
+[2024-11-17 15:35:49] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:35:49] User 254796381603-B:79 disconnected at 2024-11-17 15:28:17 due to expired
+[2024-11-17 15:35:49] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:35:49] User 254796381603-B:79 disconnected at 2024-11-17 15:57:43 due to traffic limit reached
+[2024-11-17 15:35:49] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:35:49] User 254796381603-B:79 disconnected at 2024-11-17 16:06:26 due to expired
+[2024-11-17 15:35:49] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:35:49] User 254796381603-B:79 disconnected at 2024-11-17 16:08:55 due to expired
+[2024-11-17 15:35:49] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:35:49] User 254796381603-B:79 disconnected at 2024-11-17 16:32:07 due to keepalive timeout
+[2024-11-17 15:35:49] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:35:49] User 254796381603-B:79 disconnected at 2024-11-17 17:16:55 due to traffic limit reached
+[2024-11-17 15:35:49] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:35:49] Updated last log retrieval time for router 1 to 2024-11-17 17:20:25
+[2024-11-17 15:35:49] Disconnection check completed.
+[2024-11-17 15:35:59] Database connection successful
+[2024-11-17 15:35:59] Updated disconnection_reason to 'N/A' for 0 online users
+[2024-11-17 15:35:59] Processing router ID: 1 at IP: 192.168.180.10
+[2024-11-17 15:35:59] Connected to router at 192.168.180.10
+[2024-11-17 15:35:59] Last log retrieval time for router 1: 2024-11-16 15:35:59
+[2024-11-17 15:36:00] Total logs to process: 77
+[2024-11-17 15:36:00] User 254796381603-B:79 disconnected at 2024-11-17 15:00:40 due to expired
+[2024-11-17 15:36:00] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:36:00] User 254796381603-B:79 disconnected at 2024-11-17 15:05:46 due to traffic limit reached
+[2024-11-17 15:36:00] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:36:00] User 254796381603-B:79 disconnected at 2024-11-17 15:20:42 due to traffic limit reached
+[2024-11-17 15:36:00] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:36:00] User 254796381603-B:79 disconnected at 2024-11-17 15:23:23 due to traffic limit reached
+[2024-11-17 15:36:00] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:36:00] User 254796381603-B:79 disconnected at 2024-11-17 15:27:14 due to keepalive timeout
+[2024-11-17 15:36:00] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:36:00] User 254796381603-B:79 disconnected at 2024-11-17 15:28:17 due to expired
+[2024-11-17 15:36:00] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:36:00] User 254796381603-B:79 disconnected at 2024-11-17 15:57:43 due to traffic limit reached
+[2024-11-17 15:36:00] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:36:00] User 254796381603-B:79 disconnected at 2024-11-17 16:06:26 due to expired
+[2024-11-17 15:36:00] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:36:00] User 254796381603-B:79 disconnected at 2024-11-17 16:08:55 due to expired
+[2024-11-17 15:36:00] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:36:00] User 254796381603-B:79 disconnected at 2024-11-17 16:32:07 due to keepalive timeout
+[2024-11-17 15:36:00] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:36:00] User 254796381603-B:79 disconnected at 2024-11-17 17:16:55 due to traffic limit reached
+[2024-11-17 15:36:00] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:36:00] Updated last log retrieval time for router 1 to 2024-11-17 17:20:25
+[2024-11-17 15:36:00] Disconnection check completed.
+[2024-11-17 15:36:25] Database connection successful
+[2024-11-17 15:36:25] Updated disconnection_reason to 'N/A' for 0 online users
+[2024-11-17 15:36:25] Processing router ID: 1 at IP: 192.168.180.10
+[2024-11-17 15:36:25] Connected to router at 192.168.180.10
+[2024-11-17 15:36:25] Last log retrieval time for router 1: 2024-11-16 15:36:25
+[2024-11-17 15:36:26] Total logs to process: 77
+[2024-11-17 15:36:26] User 254796381603-B:79 disconnected at 2024-11-17 15:00:40 due to expired
+[2024-11-17 15:36:26] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:36:26] User 254796381603-B:79 disconnected at 2024-11-17 15:05:46 due to traffic limit reached
+[2024-11-17 15:36:26] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:36:26] User 254796381603-B:79 disconnected at 2024-11-17 15:20:42 due to traffic limit reached
+[2024-11-17 15:36:26] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:36:26] User 254796381603-B:79 disconnected at 2024-11-17 15:23:23 due to traffic limit reached
+[2024-11-17 15:36:26] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:36:26] User 254796381603-B:79 disconnected at 2024-11-17 15:27:14 due to keepalive timeout
+[2024-11-17 15:36:26] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:36:26] User 254796381603-B:79 disconnected at 2024-11-17 15:28:17 due to expired
+[2024-11-17 15:36:26] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:36:26] User 254796381603-B:79 disconnected at 2024-11-17 15:57:43 due to traffic limit reached
+[2024-11-17 15:36:26] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:36:26] User 254796381603-B:79 disconnected at 2024-11-17 16:06:26 due to expired
+[2024-11-17 15:36:26] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:36:26] User 254796381603-B:79 disconnected at 2024-11-17 16:08:55 due to expired
+[2024-11-17 15:36:26] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:36:26] User 254796381603-B:79 disconnected at 2024-11-17 16:32:07 due to keepalive timeout
+[2024-11-17 15:36:26] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:36:26] User 254796381603-B:79 disconnected at 2024-11-17 17:16:55 due to traffic limit reached
+[2024-11-17 15:36:26] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:36:26] Updated last log retrieval time for router 1 to 2024-11-17 17:20:25
+[2024-11-17 15:36:26] Disconnection check completed.
+[2024-11-17 15:39:05] Database connection successful
+[2024-11-17 15:39:05] Updated disconnection_reason to 'N/A' for 0 online users
+[2024-11-17 15:39:05] Processing router ID: 1 at IP: 192.168.180.10
+[2024-11-17 15:39:05] Connected to router at 192.168.180.10
+[2024-11-17 15:39:05] Last log retrieval time for router 1: 2024-11-16 15:39:05
+[2024-11-17 15:39:05] Total logs to process: 77
+[2024-11-17 15:39:05] User 254796381603-B:79 disconnected at 2024-11-17 15:00:40 due to expired
+[2024-11-17 15:39:05] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:39:05] User 254796381603-B:79 disconnected at 2024-11-17 15:05:46 due to traffic limit reached
+[2024-11-17 15:39:05] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:39:05] User 254796381603-B:79 disconnected at 2024-11-17 15:20:42 due to traffic limit reached
+[2024-11-17 15:39:05] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:39:05] User 254796381603-B:79 disconnected at 2024-11-17 15:23:23 due to traffic limit reached
+[2024-11-17 15:39:05] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:39:05] User 254796381603-B:79 disconnected at 2024-11-17 15:27:14 due to keepalive timeout
+[2024-11-17 15:39:05] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:39:05] User 254796381603-B:79 disconnected at 2024-11-17 15:28:17 due to expired
+[2024-11-17 15:39:05] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:39:05] User 254796381603-B:79 disconnected at 2024-11-17 15:57:43 due to traffic limit reached
+[2024-11-17 15:39:05] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:39:05] User 254796381603-B:79 disconnected at 2024-11-17 16:06:26 due to expired
+[2024-11-17 15:39:05] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:39:05] User 254796381603-B:79 disconnected at 2024-11-17 16:08:55 due to expired
+[2024-11-17 15:39:05] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:39:05] User 254796381603-B:79 disconnected at 2024-11-17 16:32:07 due to keepalive timeout
+[2024-11-17 15:39:05] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:39:05] User 254796381603-B:79 disconnected at 2024-11-17 17:16:55 due to traffic limit reached
+[2024-11-17 15:39:05] User 254796381603-B:79 is not offline. Skipping disconnection update.
+[2024-11-17 15:39:05] Updated last log retrieval time for router 1 to 2024-11-17 17:20:25
+[2024-11-17 15:39:05] Disconnection check completed.
+[2024-11-17 15:39:48] Database connection successful
+[2024-11-17 15:39:48] Updated disconnection_reason to 'N/A' for 0 online users
+[2024-11-17 15:39:48] Processing router ID: 1 at IP: 192.168.180.10
+[2024-11-17 15:39:48] Connected to router at 192.168.180.10
+[2024-11-17 15:39:48] Last log retrieval time for router 1: 2024-11-16 15:39:48
+[2024-11-17 15:39:49] Total logs to process: 78
+[2024-11-17 15:39:49] User 254796381603-B:79 disconnected at 2024-11-17 15:00:40 due to expired
+[2024-11-17 15:39:49] Updated disconnection info for user 254796381603-B:79
+[2024-11-17 15:39:49] User 254796381603-B:79 disconnected at 2024-11-17 15:05:46 due to traffic limit reached
+[2024-11-17 15:39:49] Updated disconnection info for user 254796381603-B:79
+[2024-11-17 15:39:49] User 254796381603-B:79 disconnected at 2024-11-17 15:20:42 due to traffic limit reached
+[2024-11-17 15:39:49] Updated disconnection info for user 254796381603-B:79
+[2024-11-17 15:39:49] User 254796381603-B:79 disconnected at 2024-11-17 15:23:23 due to traffic limit reached
+[2024-11-17 15:39:49] Updated disconnection info for user 254796381603-B:79
+[2024-11-17 15:39:49] User 254796381603-B:79 disconnected at 2024-11-17 15:27:14 due to keepalive timeout
+[2024-11-17 15:39:49] Updated disconnection info for user 254796381603-B:79
+[2024-11-17 15:39:49] User 254796381603-B:79 disconnected at 2024-11-17 15:28:17 due to expired
+[2024-11-17 15:39:49] Updated disconnection info for user 254796381603-B:79
+[2024-11-17 15:39:49] User 254796381603-B:79 disconnected at 2024-11-17 15:57:43 due to traffic limit reached
+[2024-11-17 15:39:49] Updated disconnection info for user 254796381603-B:79
+[2024-11-17 15:39:49] User 254796381603-B:79 disconnected at 2024-11-17 16:06:26 due to expired
+[2024-11-17 15:39:49] Updated disconnection info for user 254796381603-B:79
+[2024-11-17 15:39:49] User 254796381603-B:79 disconnected at 2024-11-17 16:08:55 due to expired
+[2024-11-17 15:39:49] Updated disconnection info for user 254796381603-B:79
+[2024-11-17 15:39:49] User 254796381603-B:79 disconnected at 2024-11-17 16:32:07 due to keepalive timeout
+[2024-11-17 15:39:49] Updated disconnection info for user 254796381603-B:79
+[2024-11-17 15:39:49] User 254796381603-B:79 disconnected at 2024-11-17 17:16:55 due to traffic limit reached
+[2024-11-17 15:39:49] Updated disconnection info for user 254796381603-B:79
+[2024-11-17 15:39:49] User 254796381603-B:79 disconnected at 2024-11-17 17:39:40 due to traffic limit reached
+[2024-11-17 15:39:49] Updated disconnection info for user 254796381603-B:79
+[2024-11-17 15:39:49] Updated last log retrieval time for router 1 to 2024-11-17 17:39:40
+[2024-11-17 15:39:49] Disconnection check completed.
+[2024-11-17 15:41:50] Database connection successful
+[2024-11-17 15:41:50] Updated disconnection_reason to 'N/A' for 0 online users
+[2024-11-17 15:41:50] Processing router ID: 1 at IP: 192.168.180.10
+[2024-11-17 15:41:50] Connected to router at 192.168.180.10
+[2024-11-17 15:41:50] Last log retrieval time for router 1: 2024-11-16 15:41:50
+[2024-11-17 15:41:51] Total logs to process: 82
+[2024-11-17 15:41:51] User 254796381603-B:79 disconnected at 2024-11-17 15:00:40 due to expired
+[2024-11-17 15:41:51] Updated disconnection info for user 254796381603-B:79
+[2024-11-17 15:41:51] User 254796381603-B:79 disconnected at 2024-11-17 15:05:46 due to traffic limit reached
+[2024-11-17 15:41:51] Updated disconnection info for user 254796381603-B:79
+[2024-11-17 15:41:51] User 254796381603-B:79 disconnected at 2024-11-17 15:20:42 due to traffic limit reached
+[2024-11-17 15:41:51] Updated disconnection info for user 254796381603-B:79
+[2024-11-17 15:41:51] User 254796381603-B:79 disconnected at 2024-11-17 15:23:23 due to traffic limit reached
+[2024-11-17 15:41:51] Updated disconnection info for user 254796381603-B:79
+[2024-11-17 15:41:51] User 254796381603-B:79 disconnected at 2024-11-17 15:27:14 due to keepalive timeout
+[2024-11-17 15:41:51] Updated disconnection info for user 254796381603-B:79
+[2024-11-17 15:41:51] User 254796381603-B:79 disconnected at 2024-11-17 15:28:17 due to expired
+[2024-11-17 15:41:51] Updated disconnection info for user 254796381603-B:79
+[2024-11-17 15:41:51] User 254796381603-B:79 disconnected at 2024-11-17 15:57:43 due to traffic limit reached
+[2024-11-17 15:41:51] Updated disconnection info for user 254796381603-B:79
+[2024-11-17 15:41:51] User 254796381603-B:79 disconnected at 2024-11-17 16:06:26 due to expired
+[2024-11-17 15:41:51] Updated disconnection info for user 254796381603-B:79
+[2024-11-17 15:41:51] User 254796381603-B:79 disconnected at 2024-11-17 16:08:55 due to expired
+[2024-11-17 15:41:51] Updated disconnection info for user 254796381603-B:79
+[2024-11-17 15:41:51] User 254796381603-B:79 disconnected at 2024-11-17 16:32:07 due to keepalive timeout
+[2024-11-17 15:41:51] Updated disconnection info for user 254796381603-B:79
+[2024-11-17 15:41:51] User 254796381603-B:79 disconnected at 2024-11-17 17:16:55 due to traffic limit reached
+[2024-11-17 15:41:51] Updated disconnection info for user 254796381603-B:79
+[2024-11-17 15:41:51] User 254796381603-B:79 disconnected at 2024-11-17 17:39:40 due to traffic limit reached
+[2024-11-17 15:41:51] Updated disconnection info for user 254796381603-B:79
+[2024-11-17 15:41:51] Updated last log retrieval time for router 1 to 2024-11-17 17:41:12
+[2024-11-17 15:41:51] Disconnection check completed.
+[2024-11-17 15:42:33] Database connection successful
+[2024-11-17 15:42:33] Updated disconnection_reason to 'N/A' for 0 online users
+[2024-11-17 15:42:33] Processing router ID: 1 at IP: 192.168.180.10
+[2024-11-17 15:42:33] Connected to router at 192.168.180.10
+[2024-11-17 15:42:33] Last log retrieval time for router 1: 2024-11-16 15:42:33
+[2024-11-17 15:42:34] Total logs to process: 82
+[2024-11-17 15:42:34] User 254796381603-B:79 disconnected at 2024-11-17 15:00:40 due to expired
+[2024-11-17 15:42:34] Updated disconnection info for user 254796381603-B:79
+[2024-11-17 15:42:34] User 254796381603-B:79 disconnected at 2024-11-17 15:05:46 due to traffic limit reached
+[2024-11-17 15:42:34] Updated disconnection info for user 254796381603-B:79
+[2024-11-17 15:42:34] User 254796381603-B:79 disconnected at 2024-11-17 15:20:42 due to traffic limit reached
+[2024-11-17 15:42:34] Updated disconnection info for user 254796381603-B:79
+[2024-11-17 15:42:34] User 254796381603-B:79 disconnected at 2024-11-17 15:23:23 due to traffic limit reached
+[2024-11-17 15:42:34] Updated disconnection info for user 254796381603-B:79
+[2024-11-17 15:42:34] User 254796381603-B:79 disconnected at 2024-11-17 15:27:14 due to keepalive timeout
+[2024-11-17 15:42:34] Updated disconnection info for user 254796381603-B:79
+[2024-11-17 15:42:34] User 254796381603-B:79 disconnected at 2024-11-17 15:28:17 due to expired
+[2024-11-17 15:42:34] Updated disconnection info for user 254796381603-B:79
+[2024-11-17 15:42:34] User 254796381603-B:79 disconnected at 2024-11-17 15:57:43 due to traffic limit reached
+[2024-11-17 15:42:34] Updated disconnection info for user 254796381603-B:79
+[2024-11-17 15:42:34] User 254796381603-B:79 disconnected at 2024-11-17 16:06:26 due to expired
+[2024-11-17 15:42:34] Updated disconnection info for user 254796381603-B:79
+[2024-11-17 15:42:34] User 254796381603-B:79 disconnected at 2024-11-17 16:08:55 due to expired
+[2024-11-17 15:42:34] Updated disconnection info for user 254796381603-B:79
+[2024-11-17 15:42:34] User 254796381603-B:79 disconnected at 2024-11-17 16:32:07 due to keepalive timeout
+[2024-11-17 15:42:34] Updated disconnection info for user 254796381603-B:79
+[2024-11-17 15:42:34] User 254796381603-B:79 disconnected at 2024-11-17 17:16:55 due to traffic limit reached
+[2024-11-17 15:42:34] Updated disconnection info for user 254796381603-B:79
+[2024-11-17 15:42:34] User 254796381603-B:79 disconnected at 2024-11-17 17:39:40 due to traffic limit reached
+[2024-11-17 15:42:34] Updated disconnection info for user 254796381603-B:79
+[2024-11-17 15:42:34] Updated last log retrieval time for router 1 to 2024-11-17 17:41:12
+[2024-11-17 15:42:34] Disconnection check completed.
+[2024-11-17 15:52:40] Database connection successful
+[2024-11-17 15:52:40] Updated disconnection_reason to 'N/A' for 0 online users
+[2024-11-17 15:52:40] Processing router ID: 1 at IP: 192.168.180.10
+[2024-11-17 15:52:40] Connected to router at 192.168.180.10
+[2024-11-17 15:52:40] Last log retrieval time for router 1: 2024-11-16 15:52:40
+[2024-11-17 15:52:41] Total logs to process: 82
+[2024-11-17 15:52:41] User 254796381603-B:79 disconnected at 2024-11-17 15:00:40 due to expired
+[2024-11-17 15:52:41] Updated disconnection info for user 254796381603-B:79
+[2024-11-17 15:52:41] User 254796381603-B:79 disconnected at 2024-11-17 15:05:46 due to traffic limit reached
+[2024-11-17 15:52:41] Updated disconnection info for user 254796381603-B:79
+[2024-11-17 15:52:41] User 254796381603-B:79 disconnected at 2024-11-17 15:20:42 due to traffic limit reached
+[2024-11-17 15:52:41] Updated disconnection info for user 254796381603-B:79
+[2024-11-17 15:52:41] User 254796381603-B:79 disconnected at 2024-11-17 15:23:23 due to traffic limit reached
+[2024-11-17 15:52:41] Updated disconnection info for user 254796381603-B:79
+[2024-11-17 15:52:41] User 254796381603-B:79 disconnected at 2024-11-17 15:27:14 due to keepalive timeout
+[2024-11-17 15:52:41] Updated disconnection info for user 254796381603-B:79
+[2024-11-17 15:52:41] User 254796381603-B:79 disconnected at 2024-11-17 15:28:17 due to expired
+[2024-11-17 15:52:41] Updated disconnection info for user 254796381603-B:79
+[2024-11-17 15:52:41] User 254796381603-B:79 disconnected at 2024-11-17 15:57:43 due to traffic limit reached
+[2024-11-17 15:52:41] Updated disconnection info for user 254796381603-B:79
+[2024-11-17 15:52:41] User 254796381603-B:79 disconnected at 2024-11-17 16:06:26 due to expired
+[2024-11-17 15:52:41] Updated disconnection info for user 254796381603-B:79
+[2024-11-17 15:52:41] User 254796381603-B:79 disconnected at 2024-11-17 16:08:55 due to expired
+[2024-11-17 15:52:41] Updated disconnection info for user 254796381603-B:79
+[2024-11-17 15:52:41] User 254796381603-B:79 disconnected at 2024-11-17 16:32:07 due to keepalive timeout
+[2024-11-17 15:52:41] Updated disconnection info for user 254796381603-B:79
+[2024-11-17 15:52:41] User 254796381603-B:79 disconnected at 2024-11-17 17:16:55 due to traffic limit reached
+[2024-11-17 15:52:41] Updated disconnection info for user 254796381603-B:79
+[2024-11-17 15:52:41] User 254796381603-B:79 disconnected at 2024-11-17 17:39:40 due to traffic limit reached
+[2024-11-17 15:52:41] Updated disconnection info for user 254796381603-B:79
+[2024-11-17 15:52:41] Updated last log retrieval time for router 1 to 2024-11-17 17:41:12
+[2024-11-17 15:52:41] Disconnection check completed.
+[2024-11-17 20:21:16] Database connection successful
+[2024-11-17 20:21:16] Updated disconnection_reason to 'N/A' for 0 online users
+[2024-11-17 20:21:16] Processing router ID: 1 at IP: 192.168.180.10
+[2024-11-17 20:21:16] Connected to router at 192.168.180.10
+[2024-11-17 20:21:16] Last log retrieval time for router 1: 2024-11-17 17:41:12
+[2024-11-17 20:21:17] Total logs to process: 6
+[2024-11-17 20:21:17] Updated last log retrieval time for router 1 to 2024-11-17 22:05:02
+[2024-11-17 20:21:17] Processing router ID: 2 at IP: 192.168.88.1
+[2024-11-17 20:21:17] Connected to router at 192.168.88.1
+[2024-11-17 20:21:17] Last log retrieval time for router 2: 2024-11-16 20:21:17
+[2024-11-17 20:21:17] Total logs to process: 72
+[2024-11-17 20:21:17] User 254796381603-B:79 disconnected at 2024-11-17 15:00:40 due to expired
+[2024-11-17 20:21:18] Updated disconnection info for user 254796381603-B:79
+[2024-11-17 20:21:18] User 254796381603-B:79 disconnected at 2024-11-17 15:05:46 due to traffic limit reached
+[2024-11-17 20:21:18] Updated disconnection info for user 254796381603-B:79
+[2024-11-17 20:21:18] User 254796381603-B:79 disconnected at 2024-11-17 15:20:42 due to traffic limit reached
+[2024-11-17 20:21:18] Updated disconnection info for user 254796381603-B:79
+[2024-11-17 20:21:18] User 254796381603-B:79 disconnected at 2024-11-17 15:23:23 due to traffic limit reached
+[2024-11-17 20:21:18] Updated disconnection info for user 254796381603-B:79
+[2024-11-17 20:21:18] User 254796381603-B:79 disconnected at 2024-11-17 15:27:14 due to keepalive timeout
+[2024-11-17 20:21:18] Updated disconnection info for user 254796381603-B:79
+[2024-11-17 20:21:18] User 254796381603-B:79 disconnected at 2024-11-17 15:28:17 due to expired
+[2024-11-17 20:21:18] Updated disconnection info for user 254796381603-B:79
+[2024-11-17 20:21:18] User 254796381603-B:79 disconnected at 2024-11-17 15:57:43 due to traffic limit reached
+[2024-11-17 20:21:18] Updated disconnection info for user 254796381603-B:79
+[2024-11-17 20:21:18] User 254796381603-B:79 disconnected at 2024-11-17 16:06:26 due to expired
+[2024-11-17 20:21:18] Updated disconnection info for user 254796381603-B:79
+[2024-11-17 20:21:18] User 254796381603-B:79 disconnected at 2024-11-17 16:08:55 due to expired
+[2024-11-17 20:21:18] Updated disconnection info for user 254796381603-B:79
+[2024-11-17 20:21:18] User 254796381603-B:79 disconnected at 2024-11-17 16:32:07 due to keepalive timeout
+[2024-11-17 20:21:18] Updated disconnection info for user 254796381603-B:79
+[2024-11-17 20:21:18] User 254796381603-B:79 disconnected at 2024-11-17 17:16:55 due to traffic limit reached
+[2024-11-17 20:21:18] Updated disconnection info for user 254796381603-B:79
+[2024-11-17 20:21:18] User 254796381603-B:79 disconnected at 2024-11-17 17:39:40 due to traffic limit reached
+[2024-11-17 20:21:18] Updated disconnection info for user 254796381603-B:79
+[2024-11-17 20:21:18] Updated last log retrieval time for router 2 to 2024-11-17 22:05:02
+[2024-11-17 20:21:18] Disconnection check completed.
+[2024-11-17 20:24:22] Database connection successful
+[2024-11-17 20:24:22] Updated disconnection_reason to 'N/A' for 0 online users
+[2024-11-17 20:24:22] Processing router ID: 1 at IP: 192.168.180.10
+[2024-11-17 20:24:22] Connected to router at 192.168.180.10
+[2024-11-17 20:24:22] Last log retrieval time for router 1: 2024-11-16 20:24:22
+[2024-11-17 20:24:22] Total logs to process: 67
+[2024-11-17 20:24:22] User 254796381603-B:79 disconnected at 2024-11-17 15:05:46 due to traffic limit reached
+[2024-11-17 20:24:22] Updated disconnection info for user 254796381603-B:79
+[2024-11-17 20:24:22] User 254796381603-B:79 disconnected at 2024-11-17 15:20:42 due to traffic limit reached
+[2024-11-17 20:24:22] Updated disconnection info for user 254796381603-B:79
+[2024-11-17 20:24:22] User 254796381603-B:79 disconnected at 2024-11-17 15:23:23 due to traffic limit reached
+[2024-11-17 20:24:22] Updated disconnection info for user 254796381603-B:79
+[2024-11-17 20:24:22] User 254796381603-B:79 disconnected at 2024-11-17 15:27:14 due to keepalive timeout
+[2024-11-17 20:24:22] Updated disconnection info for user 254796381603-B:79
+[2024-11-17 20:24:22] User 254796381603-B:79 disconnected at 2024-11-17 15:28:17 due to expired
+[2024-11-17 20:24:22] Updated disconnection info for user 254796381603-B:79
+[2024-11-17 20:24:22] User 254796381603-B:79 disconnected at 2024-11-17 15:57:43 due to traffic limit reached
+[2024-11-17 20:24:23] Updated disconnection info for user 254796381603-B:79
+[2024-11-17 20:24:23] User 254796381603-B:79 disconnected at 2024-11-17 16:06:26 due to expired
+[2024-11-17 20:24:23] Updated disconnection info for user 254796381603-B:79
+[2024-11-17 20:24:23] User 254796381603-B:79 disconnected at 2024-11-17 16:08:55 due to expired
+[2024-11-17 20:24:23] Updated disconnection info for user 254796381603-B:79
+[2024-11-17 20:24:23] User 254796381603-B:79 disconnected at 2024-11-17 16:32:07 due to keepalive timeout
+[2024-11-17 20:24:23] Updated disconnection info for user 254796381603-B:79
+[2024-11-17 20:24:23] User 254796381603-B:79 disconnected at 2024-11-17 17:16:55 due to traffic limit reached
+[2024-11-17 20:24:23] Updated disconnection info for user 254796381603-B:79
+[2024-11-17 20:24:23] User 254796381603-B:79 disconnected at 2024-11-17 17:39:40 due to traffic limit reached
+[2024-11-17 20:24:23] Updated disconnection info for user 254796381603-B:79
+[2024-11-17 20:24:23] Updated last log retrieval time for router 1 to 2024-11-17 22:05:02
+[2024-11-17 20:24:23] Processing router ID: 2 at IP: 192.168.88.1
+[2024-11-17 20:24:23] Connected to router at 192.168.88.1
+[2024-11-17 20:24:23] Last log retrieval time for router 2: 2024-11-16 20:24:23
+[2024-11-17 20:24:23] Total logs to process: 66
+[2024-11-17 20:24:23] User 254796381603-B:79 disconnected at 2024-11-17 15:05:46 due to traffic limit reached
+[2024-11-17 20:24:23] Updated disconnection info for user 254796381603-B:79
+[2024-11-17 20:24:23] User 254796381603-B:79 disconnected at 2024-11-17 15:20:42 due to traffic limit reached
+[2024-11-17 20:24:23] Updated disconnection info for user 254796381603-B:79
+[2024-11-17 20:24:23] User 254796381603-B:79 disconnected at 2024-11-17 15:23:23 due to traffic limit reached
+[2024-11-17 20:24:23] Updated disconnection info for user 254796381603-B:79
+[2024-11-17 20:24:23] User 254796381603-B:79 disconnected at 2024-11-17 15:27:14 due to keepalive timeout
+[2024-11-17 20:24:23] Updated disconnection info for user 254796381603-B:79
+[2024-11-17 20:24:23] User 254796381603-B:79 disconnected at 2024-11-17 15:28:17 due to expired
+[2024-11-17 20:24:24] Updated disconnection info for user 254796381603-B:79
+[2024-11-17 20:24:24] User 254796381603-B:79 disconnected at 2024-11-17 15:57:43 due to traffic limit reached
+[2024-11-17 20:24:24] Updated disconnection info for user 254796381603-B:79
+[2024-11-17 20:24:24] User 254796381603-B:79 disconnected at 2024-11-17 16:06:26 due to expired
+[2024-11-17 20:24:24] Updated disconnection info for user 254796381603-B:79
+[2024-11-17 20:24:24] User 254796381603-B:79 disconnected at 2024-11-17 16:08:55 due to expired
+[2024-11-17 20:24:24] Updated disconnection info for user 254796381603-B:79
+[2024-11-17 20:24:24] User 254796381603-B:79 disconnected at 2024-11-17 16:32:07 due to keepalive timeout
+[2024-11-17 20:24:24] Updated disconnection info for user 254796381603-B:79
+[2024-11-17 20:24:24] User 254796381603-B:79 disconnected at 2024-11-17 17:16:55 due to traffic limit reached
+[2024-11-17 20:24:24] Updated disconnection info for user 254796381603-B:79
+[2024-11-17 20:24:24] User 254796381603-B:79 disconnected at 2024-11-17 17:39:40 due to traffic limit reached
+[2024-11-17 20:24:24] Updated disconnection info for user 254796381603-B:79
+[2024-11-17 20:24:24] Updated last log retrieval time for router 2 to 2024-11-17 22:05:02
+[2024-11-17 20:24:24] Disconnection check completed.
+[2024-11-22 09:41:34] Database connection successful
+[2024-11-22 09:41:34] Updated disconnection_reason to 'N/A' for 0 online users
+[2024-11-22 09:41:34] Processing router ID: 1 at IP: 192.168.180.10
+[2024-11-22 09:41:34] Connected to router at 192.168.180.10
+[2024-11-22 09:41:34] Last log retrieval time for router 1: 2024-11-17 22:05:02
+[2024-11-22 09:41:34] Total logs to process: 0
+[2024-11-22 09:41:34] Updated last log retrieval time for router 1 to 2024-11-17 22:05:02
+[2024-11-22 09:41:34] Processing router ID: 2 at IP: 192.168.88.1
+[2024-11-22 09:41:34] Connected to router at 192.168.88.1
+[2024-11-22 09:41:34] Last log retrieval time for router 2: 2024-11-17 22:05:02
+[2024-11-22 09:41:35] Total logs to process: 0
+[2024-11-22 09:41:35] Updated last log retrieval time for router 2 to 2024-11-17 22:05:02
+[2024-11-22 09:41:35] Disconnection check completed.
+[2024-11-22 09:41:57] Database connection successful
+[2024-11-22 09:41:57] Updated disconnection_reason to 'N/A' for 0 online users
+[2024-11-22 09:41:57] Processing router ID: 1 at IP: 192.168.180.10
+[2024-11-22 09:41:57] Connected to router at 192.168.180.10
+[2024-11-22 09:41:57] Last log retrieval time for router 1: 2024-11-17 22:05:02
+[2024-11-22 09:41:57] Total logs to process: 0
+[2024-11-22 09:41:57] Updated last log retrieval time for router 1 to 2024-11-17 22:05:02
+[2024-11-22 09:41:57] Processing router ID: 2 at IP: 192.168.88.1
+[2024-11-22 09:41:57] Connected to router at 192.168.88.1
+[2024-11-22 09:41:57] Last log retrieval time for router 2: 2024-11-17 22:05:02
+[2024-11-22 09:41:58] Total logs to process: 0
+[2024-11-22 09:41:58] Updated last log retrieval time for router 2 to 2024-11-17 22:05:02
+[2024-11-22 09:41:58] Disconnection check completed.
+[2024-11-22 17:39:56] Database connection successful
+[2024-11-22 17:39:56] Updated disconnection_reason to 'N/A' for 0 online users
+[2024-11-22 17:39:56] Processing router ID: 1 at IP: 192.168.180.10
+[2024-11-22 17:39:56] Connected to router at 192.168.180.10
+[2024-11-22 17:39:56] Last log retrieval time for router 1: 2024-11-17 22:05:02
+[2024-11-22 17:39:56] Total logs to process: 29
+[2024-11-22 17:39:56] User 254796381603-D:13 disconnected at 2024-11-22 19:31:37 due to expired
+[2024-11-22 17:39:56] User 254796381603-D:13 is not active or status is 'off'. Skipping.
+[2024-11-22 17:39:56] User 254796381603-D:13 disconnected at 2024-11-22 19:37:43 due to expired
+[2024-11-22 17:39:56] User 254796381603-D:13 is not active or status is 'off'. Skipping.
+[2024-11-22 17:39:56] Updated last log retrieval time for router 1 to 2024-11-22 19:38:11
+[2024-11-22 17:39:56] Processing router ID: 2 at IP: 192.168.88.1
+[2024-11-22 17:39:56] Connected to router at 192.168.88.1
+[2024-11-22 17:39:56] Last log retrieval time for router 2: 2024-11-17 22:05:02
+[2024-11-22 17:39:57] Total logs to process: 29
+[2024-11-22 17:39:57] User 254796381603-D:13 disconnected at 2024-11-22 19:31:37 due to expired
+[2024-11-22 17:39:57] User 254796381603-D:13 is not active or status is 'off'. Skipping.
+[2024-11-22 17:39:57] User 254796381603-D:13 disconnected at 2024-11-22 19:37:43 due to expired
+[2024-11-22 17:39:57] User 254796381603-D:13 is not active or status is 'off'. Skipping.
+[2024-11-22 17:39:57] Updated last log retrieval time for router 2 to 2024-11-22 19:38:11
+[2024-11-22 17:39:57] Disconnection check completed.
+[2025-01-07 21:12:44] Database connection successful
+[2025-01-07 21:12:44] Updated disconnection_reason to 'N/A' for 0 online users
+[2025-01-07 21:12:44] Processing router ID: 1 at IP: 10.8.0.190
+[2025-01-07 21:13:05] Exception occurred while processing router 1: FreeIspRadius is experiencing difficulty connecting to your router, which may be offline. To verify its status, please navigate back to Network > Routers and check the routers current status
+[2025-01-07 21:13:05] Disconnection check completed.
+[2025-01-07 21:18:22] Database connection successful
+[2025-01-07 21:18:22] Updated disconnection_reason to 'N/A' for 0 online users
+[2025-01-07 21:18:22] Processing router ID: 1 at IP: 10.8.0.190
+[2025-01-07 21:18:43] Exception occurred while processing router 1: FreeIspRadius is experiencing difficulty connecting to your router, which may be offline. To verify its status, please navigate back to Network > Routers and check the routers current status
+[2025-01-07 21:18:43] Disconnection check completed.

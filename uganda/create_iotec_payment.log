@@ -1,0 +1,186 @@
+[2025-01-07 19:52:37] Fetched credentials - Client ID: pay-895323d2-3bd7-450a-aeea-c696ad117d6c, Wallet ID: 96afe9ea-284e-4a18-b612-36e3cf9d7f73
+[2025-01-07 19:52:37] Received data: Array
+(
+    [phone_number] => 256781419044
+    [plan_id] => 1
+    [router_id] => 1
+    [mac_address] => $(mac)
+    [amount] => 1500
+)
+
+[2025-01-07 19:52:37] Fields - Phone: 256781419044, Plan ID: 1, Router ID: 1, MAC: $(mac), Amount: 1500
+[2025-01-07 19:52:37] Found Plan: 6 HRS, Router: Allinonecomrade
+[2025-01-07 19:52:37] Generated order reference: 677d5bd567bd0
+[2025-01-07 19:52:37] Auth URL: https://id.iotec.io/connect/token, API URL: https://pay.iotec.io/api/collections/collect, Currency: UGX
+[2025-01-07 19:52:37] Access token response: {"access_token":"eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICJBbmU5XzJKWEFIdUtkdDFGSEEwb2xpQTlsNGg4UTgxYmNWYlc1cVJLck9FIn0.eyJleHAiOjE3MzYyNjkwNjAsImlhdCI6MTczNjI2ODc2MCwianRpIjoiM2Q0N2VhYjItYzM2MC00OTY4LTg3ZTktNDFkOWM4ZmE0YzdmIiwiaXNzIjoiaHR0cHM6Ly9pZC5pb3RlYy5pby9yZWFsbXMvaW90ZWMiLCJhdWQiOlsicGF5LWFwaSIsImFjY291bnQiXSwic3ViIjoiMzk3ZjE0M2UtYjRlZS00MGY1LWE3ZjctYTBjMTcwYmMwODQ3IiwidHlwIjoiQmVhcmVyIiwiYXpwIjoicGF5LTg5NTMyM2QyLTNiZDctNDUwYS1hZWVhLWM2OTZhZDExN2Q2YyIsImFjciI6IjEiLCJyZWFsbV9hY2Nlc3MiOnsicm9sZXMiOlsib2ZmbGluZV9hY2Nlc3MiLCJkZWZhdWx0LXJvbGVzLWlvdGVjIiwidW1hX2F1dGhvcml6YXRpb24iXX0sInJlc291cmNlX2FjY2VzcyI6eyJwYXktYXBpIjp7InJvbGVzIjpbIkNPTExFQ1RJT05fVklFVyIsIkNPTExFQ1RJT05fVFJJR0dFUiIsIkRJU0JVUlNFTUVOVF9UUklHR0VSIiwiRElTQlVSU0VNRU5UX1ZJRVciLCJXQUxMRVRfVklFVyJdfSwiYWNjb3VudCI6eyJyb2xlcyI6WyJtYW5hZ2UtYWNjb3VudCIsIm1hbmFnZS1hY2NvdW50LWxpbmtzIiwiZGVsZXRlLWFjY291bnQiLCJ2aWV3LXByb2ZpbGUiXX19LCJzY29wZSI6InByb2ZpbGUgZW1haWwiLCJlbWFpbF92ZXJpZmllZCI6ZmFsc2UsImNsaWVudEhvc3QiOiIxMDIuMzcuMjExLjE0MyIsInByZWZlcnJlZF91c2VybmFtZSI6InNlcnZpY2UtYWNjb3VudC1wYXktODk1MzIzZDItM2JkNy00NTBhLWFlZWEtYzY5NmFkMTE3ZDZjIiwiY2xpZW50QWRkcmVzcyI6IjEwMi4zNy4yMTEuMTQzIiwiY2xpZW50X2lkIjoicGF5LTg5NTMyM2QyLTNiZDctNDUwYS1hZWVhLWM2OTZhZDExN2Q2YyJ9.fwMS2SLUSdhyJgx8Cr21BpnkF0YFOJu_851L_rs1bAGqKoVfPkhzOsCprC4CdQyCHgQubGZMqSiu6z_W2byqF-I6kfBVmg8XdiafDoR3AIAtMtUJ_Uc5adJ9lC9O3tKECrGjpRL_5N80f_1ok1G0NocHAZq25rG6glCcSzUPRnnpA9GIPD057L9SpIyOHKoHFrxOZek04jK2Tuu59UHgLL1uvvfKklJWnpVNNA78agacdfGZmFrcggnkasX9m7aGj58IOtS8-1svoPeDvvYanI61O623gQ32jAX53hT-HFlVPyAoEK8YY7j3ZzBZLir7Y1aI40dvquyW1rdvyO27hg","expires_in":300,"token_type":"Bearer","scope":"profile email"}
+[2025-01-07 19:52:37] Obtained access token successfully.
+[2025-01-07 19:52:37] Payload to ioTec: {"category":"MobileMoney","currency":"UGX","walletId":"96afe9ea-284e-4a18-b612-36e3cf9d7f73","externalId":"677d5bd567bd0","payer":"256781419044","amount":"1500","payerNote":"Payment for 6 HRS","payeeNote":"ioTec Payment","channel":"MobileMoney","transactionChargesCategory":"ChargeWallet"}
+[2025-01-07 19:52:37] Inserted payment record into tbl_payment_gateway.
+[2025-01-07 19:52:40] API request response: {
+  "payer": "256781419044",
+  "payerName": "BIDERI NOELA",
+  "category": "MobileMoney",
+  "status": "Pending",
+  "paymentChannel": "Api",
+  "statusCode": "pending",
+  "statusMessage": "Request is being processed",
+  "externalId": "677d5bd567bd0",
+  "amount": 1500,
+  "payerNote": "Payment for 6 HRS",
+  "payeeNote": "ioTec Payment",
+  "currency": "UGX",
+  "wallet": {
+    "id": "96afe9ea-284e-4a18-b612-36e3cf9d7f73",
+    "name": "INTEKLINKS"
+  },
+  "chargeModel": "default",
+  "createdBy": "397f143e-b4ee-40f5-a7f7-a0c170bc0847",
+  "transactionCharge": 30.0,
+  "vendorCharge": 30.0,
+  "totalTransactionCharge": 0,
+  "vendor": "Mtn",
+  "vendorTransactionId": null,
+  "reconciledOn": null,
+  "transactions": null,
+  "id": "451de3ad-ee17-4256-8f47-cde125af2864",
+  "createdAt": "2025-01-07T16:52:41Z"
+}
+[2025-01-07 19:52:40] Response from ioTec Pay: Array
+(
+    [payer] => 256781419044
+    [payerName] => BIDERI NOELA
+    [category] => MobileMoney
+    [status] => Pending
+    [paymentChannel] => Api
+    [statusCode] => pending
+    [statusMessage] => Request is being processed
+    [externalId] => 677d5bd567bd0
+    [amount] => 1500
+    [payerNote] => Payment for 6 HRS
+    [payeeNote] => ioTec Payment
+    [currency] => UGX
+    [wallet] => Array
+        (
+            [id] => 96afe9ea-284e-4a18-b612-36e3cf9d7f73
+            [name] => INTEKLINKS
+        )
+
+    [chargeModel] => default
+    [createdBy] => 397f143e-b4ee-40f5-a7f7-a0c170bc0847
+    [transactionCharge] => 30
+    [vendorCharge] => 30
+    [totalTransactionCharge] => 0
+    [vendor] => Mtn
+    [vendorTransactionId] => 
+    [reconciledOn] => 
+    [transactions] => 
+    [id] => 451de3ad-ee17-4256-8f47-cde125af2864
+    [createdAt] => 2025-01-07T16:52:41Z
+)
+
+[2025-01-07 19:57:39] Fetched credentials - Client ID: pay-895323d2-3bd7-450a-aeea-c696ad117d6c, Wallet ID: 96afe9ea-284e-4a18-b612-36e3cf9d7f73
+[2025-01-07 19:57:39] Received data: Array
+(
+    [phone_number] => 256781419044
+    [plan_id] => 1
+    [router_id] => 1
+    [mac_address] => $(mac)
+    [amount] => 1500
+)
+
+[2025-01-07 19:57:39] Fields - Phone: 256781419044, Plan ID: 1, Router ID: 1, MAC: $(mac), Amount: 1500
+[2025-01-07 19:57:39] Found Plan: 6 HRS, Router: Allinonecomrade
+[2025-01-07 19:57:39] Generated order reference: 677d5d03773b1
+[2025-01-07 19:57:39] Auth URL: https://id.iotec.io/connect/token, API URL: https://pay.iotec.io/api/collections/collect, Currency: UGX
+[2025-01-07 19:57:39] Access token response: {"access_token":"eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICJBbmU5XzJKWEFIdUtkdDFGSEEwb2xpQTlsNGg4UTgxYmNWYlc1cVJLck9FIn0.eyJleHAiOjE3MzYyNjkzNjIsImlhdCI6MTczNjI2OTA2MiwianRpIjoiNGM1ZTE5ZjYtNzE3Yy00ZjAwLWIzNDgtYjI4ZDBiMjRjNmE5IiwiaXNzIjoiaHR0cHM6Ly9pZC5pb3RlYy5pby9yZWFsbXMvaW90ZWMiLCJhdWQiOlsicGF5LWFwaSIsImFjY291bnQiXSwic3ViIjoiMzk3ZjE0M2UtYjRlZS00MGY1LWE3ZjctYTBjMTcwYmMwODQ3IiwidHlwIjoiQmVhcmVyIiwiYXpwIjoicGF5LTg5NTMyM2QyLTNiZDctNDUwYS1hZWVhLWM2OTZhZDExN2Q2YyIsImFjciI6IjEiLCJyZWFsbV9hY2Nlc3MiOnsicm9sZXMiOlsib2ZmbGluZV9hY2Nlc3MiLCJkZWZhdWx0LXJvbGVzLWlvdGVjIiwidW1hX2F1dGhvcml6YXRpb24iXX0sInJlc291cmNlX2FjY2VzcyI6eyJwYXktYXBpIjp7InJvbGVzIjpbIkNPTExFQ1RJT05fVklFVyIsIkNPTExFQ1RJT05fVFJJR0dFUiIsIkRJU0JVUlNFTUVOVF9UUklHR0VSIiwiRElTQlVSU0VNRU5UX1ZJRVciLCJXQUxMRVRfVklFVyJdfSwiYWNjb3VudCI6eyJyb2xlcyI6WyJtYW5hZ2UtYWNjb3VudCIsIm1hbmFnZS1hY2NvdW50LWxpbmtzIiwiZGVsZXRlLWFjY291bnQiLCJ2aWV3LXByb2ZpbGUiXX19LCJzY29wZSI6InByb2ZpbGUgZW1haWwiLCJlbWFpbF92ZXJpZmllZCI6ZmFsc2UsImNsaWVudEhvc3QiOiIxMDIuMzcuMjExLjE0MyIsInByZWZlcnJlZF91c2VybmFtZSI6InNlcnZpY2UtYWNjb3VudC1wYXktODk1MzIzZDItM2JkNy00NTBhLWFlZWEtYzY5NmFkMTE3ZDZjIiwiY2xpZW50QWRkcmVzcyI6IjEwMi4zNy4yMTEuMTQzIiwiY2xpZW50X2lkIjoicGF5LTg5NTMyM2QyLTNiZDctNDUwYS1hZWVhLWM2OTZhZDExN2Q2YyJ9.nO1yAIfI_3e8C4qQ_1rj3ovNPzapOsC7WykGN74wS4_-c_J8-SoLzoSnygoTNBxy4jVn-KReBb5aBa_0GURRh4FHs8Q2_GnCdFaWOL5a3DLfDMWzd8Ndbe8k7CquJEdw7Fkhoh8-H4i4dspJg8RD2uJVSNfMMKeIW5ULK68H88TgK6ZVnskXcKXuA5x51OmDHneft-Rtz9O_-KqfFjORRfC0ldADaMl5g1_-RPR7JBlktxIyiW8F-DdjN1KeEgxZfJVqb607ZW7yMfS-yJf68Ipv-5C4eclgg5jAIgnaOpWuXHJmSLRx69yE7oz739nRDIqfAEAWiAoeDGMLg69BTw","expires_in":300,"token_type":"Bearer","scope":"profile email"}
+[2025-01-07 19:57:39] Obtained access token successfully.
+[2025-01-07 19:57:39] Payload to ioTec: {"category":"MobileMoney","currency":"UGX","walletId":"96afe9ea-284e-4a18-b612-36e3cf9d7f73","externalId":"677d5d03773b1","payer":"256781419044","amount":"1500","payerNote":"Payment for 6 HRS","payeeNote":"ioTec Payment","channel":"MobileMoney","transactionChargesCategory":"ChargeWallet"}
+[2025-01-07 19:57:40] Inserted payment record into tbl_payment_gateway.
+[2025-01-07 19:57:42] API request response: {
+  "payer": "256781419044",
+  "payerName": "BIDERI NOELA",
+  "category": "MobileMoney",
+  "status": "Pending",
+  "paymentChannel": "Api",
+  "statusCode": "pending",
+  "statusMessage": "Request is being processed",
+  "externalId": "677d5d03773b1",
+  "amount": 1500,
+  "payerNote": "Payment for 6 HRS",
+  "payeeNote": "ioTec Payment",
+  "currency": "UGX",
+  "wallet": {
+    "id": "96afe9ea-284e-4a18-b612-36e3cf9d7f73",
+    "name": "INTEKLINKS"
+  },
+  "chargeModel": "default",
+  "createdBy": "397f143e-b4ee-40f5-a7f7-a0c170bc0847",
+  "transactionCharge": 30.0,
+  "vendorCharge": 30.0,
+  "totalTransactionCharge": 0,
+  "vendor": "Mtn",
+  "vendorTransactionId": null,
+  "reconciledOn": null,
+  "transactions": null,
+  "id": "b37ea4fc-2b0f-4900-8bca-4c42acd06943",
+  "createdAt": "2025-01-07T16:57:44Z"
+}
+[2025-01-07 19:57:42] Response from ioTec Pay: Array
+(
+    [payer] => 256781419044
+    [payerName] => BIDERI NOELA
+    [category] => MobileMoney
+    [status] => Pending
+    [paymentChannel] => Api
+    [statusCode] => pending
+    [statusMessage] => Request is being processed
+    [externalId] => 677d5d03773b1
+    [amount] => 1500
+    [payerNote] => Payment for 6 HRS
+    [payeeNote] => ioTec Payment
+    [currency] => UGX
+    [wallet] => Array
+        (
+            [id] => 96afe9ea-284e-4a18-b612-36e3cf9d7f73
+            [name] => INTEKLINKS
+        )
+
+    [chargeModel] => default
+    [createdBy] => 397f143e-b4ee-40f5-a7f7-a0c170bc0847
+    [transactionCharge] => 30
+    [vendorCharge] => 30
+    [totalTransactionCharge] => 0
+    [vendor] => Mtn
+    [vendorTransactionId] => 
+    [reconciledOn] => 
+    [transactions] => 
+    [id] => b37ea4fc-2b0f-4900-8bca-4c42acd06943
+    [createdAt] => 2025-01-07T16:57:44Z
+)
+
+[2025-01-07 20:27:12] Fetched credentials - Client ID: pay-895323d2-3bd7-450a-aeea-c696ad117d6c, Wallet ID: 96afe9ea-284e-4a18-b612-36e3cf9d7f73
+[2025-01-07 20:27:12] Received data: Array
+(
+    [phone_number] => 256781419044
+    [plan_id] => 1
+    [router_id] => 1
+    [mac_address] => $(mac)
+    [amount] => 150
+)
+
+[2025-01-07 20:27:12] Fields - Phone: 256781419044, Plan ID: 1, Router ID: 1, MAC: $(mac), Amount: 150
+[2025-01-07 20:27:12] Found Plan: 6 HRS, Router: Allinonecomrade
+[2025-01-07 20:27:12] Generated order reference: 677d63f089565
+[2025-01-07 20:27:12] Auth URL: https://id.iotec.io/connect/token, API URL: https://pay.iotec.io/api/collections/collect, Currency: UGX
+[2025-01-07 20:27:13] Access token response: {"access_token":"eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICJBbmU5XzJKWEFIdUtkdDFGSEEwb2xpQTlsNGg4UTgxYmNWYlc1cVJLck9FIn0.eyJleHAiOjE3MzYyNzExMzYsImlhdCI6MTczNjI3MDgzNiwianRpIjoiYTEzZjEyNzEtZmNiNi00ZjY1LWIzODktNzRmN2FjNjg4OWNjIiwiaXNzIjoiaHR0cHM6Ly9pZC5pb3RlYy5pby9yZWFsbXMvaW90ZWMiLCJhdWQiOlsicGF5LWFwaSIsImFjY291bnQiXSwic3ViIjoiMzk3ZjE0M2UtYjRlZS00MGY1LWE3ZjctYTBjMTcwYmMwODQ3IiwidHlwIjoiQmVhcmVyIiwiYXpwIjoicGF5LTg5NTMyM2QyLTNiZDctNDUwYS1hZWVhLWM2OTZhZDExN2Q2YyIsImFjciI6IjEiLCJyZWFsbV9hY2Nlc3MiOnsicm9sZXMiOlsib2ZmbGluZV9hY2Nlc3MiLCJkZWZhdWx0LXJvbGVzLWlvdGVjIiwidW1hX2F1dGhvcml6YXRpb24iXX0sInJlc291cmNlX2FjY2VzcyI6eyJwYXktYXBpIjp7InJvbGVzIjpbIkNPTExFQ1RJT05fVklFVyIsIkNPTExFQ1RJT05fVFJJR0dFUiIsIkRJU0JVUlNFTUVOVF9UUklHR0VSIiwiRElTQlVSU0VNRU5UX1ZJRVciLCJXQUxMRVRfVklFVyJdfSwiYWNjb3VudCI6eyJyb2xlcyI6WyJtYW5hZ2UtYWNjb3VudCIsIm1hbmFnZS1hY2NvdW50LWxpbmtzIiwiZGVsZXRlLWFjY291bnQiLCJ2aWV3LXByb2ZpbGUiXX19LCJzY29wZSI6InByb2ZpbGUgZW1haWwiLCJlbWFpbF92ZXJpZmllZCI6ZmFsc2UsImNsaWVudEhvc3QiOiIxMDIuMzcuMjExLjE0MyIsInByZWZlcnJlZF91c2VybmFtZSI6InNlcnZpY2UtYWNjb3VudC1wYXktODk1MzIzZDItM2JkNy00NTBhLWFlZWEtYzY5NmFkMTE3ZDZjIiwiY2xpZW50QWRkcmVzcyI6IjEwMi4zNy4yMTEuMTQzIiwiY2xpZW50X2lkIjoicGF5LTg5NTMyM2QyLTNiZDctNDUwYS1hZWVhLWM2OTZhZDExN2Q2YyJ9.IPF7XY6rgdPomcSoT-_miiVnf61FRNUbmX1CJbbdglnU-JjRBMPmadt9pEVTsLIBxeFLw82o7A90Uy6Nzj71Pg6kd2KdLozteyTt4HXIZVFVlNn3jgDUHtXItx695tkLl9szVqULFfX5lGgyWg3FXL4PUTkJoKGvr7Rr8Z7SgkGrpLoUX7V_Qavp5BDe__8qS6CgSeNXDyLM_wd5-aRsHR1b680-h7NVjg9ZxBzGpScrbbQ_gzax8Xhd7zC5Al-A5M0V1bVucfXsp1xfoz2__6Z-aD69v2JqRQMNiYxCdVJUvWMj86T2Lo3WrWnAJ01Ba7Pt8NndkWfFjiIjPbZH7Q","expires_in":300,"token_type":"Bearer","scope":"profile email"}
+[2025-01-07 20:27:13] Obtained access token successfully.
+[2025-01-07 20:27:13] Payload to ioTec: {"category":"MobileMoney","currency":"UGX","walletId":"96afe9ea-284e-4a18-b612-36e3cf9d7f73","externalId":"677d63f089565","payer":"256781419044","amount":"150","payerNote":"Payment for 6 HRS","payeeNote":"ioTec Payment","channel":"MobileMoney","transactionChargesCategory":"ChargeWallet"}
+[2025-01-07 20:27:13] Inserted payment record into tbl_payment_gateway.
+[2025-01-07 20:27:14] API request response: {"code":"BadRequest","message":"Invalid disbursement amount 150"}
+[2025-01-07 20:27:14] Response from ioTec Pay: Array
+(
+    [code] => BadRequest
+    [message] => Invalid disbursement amount 150
+)
+
+[2025-01-07 20:27:14] No transaction ID in response.

@@ -1,0 +1,118 @@
+[2024-10-12 14:40:51] Received data: Array
+(
+    [amount] => 1000
+    [plan_id] => 1
+    [router_id] => 1
+    [buyer_email] => magomerefrancis61@gmail.com
+    [buyer_phone] => 0111777770
+)
+
+[2024-10-12 14:40:51] User created successfully: 0111777770
+[2024-10-12 15:15:25] Received data: Array
+(
+    [amount] => 1000
+    [plan_id] => 1
+    [router_id] => 1
+    [buyer_email] => magomerefrancis61@gmail.com
+    [buyer_phone] => 0111777770
+)
+
+[2024-10-12 15:15:25] User already exists: 0111777770
+[2024-10-12 15:22:41] Received data: Array
+(
+    [amount] => 1000
+    [plan_id] => 1
+    [router_id] => 1
+    [buyer_email] => magomerefrancis61@gmail.com
+    [buyer_phone] => 0111777770
+)
+
+[2024-10-12 15:22:41] User already exists: 0111777770
+[2024-10-12 15:23:41] Received data: Array
+(
+    [amount] => 1000
+    [plan_id] => 1
+    [router_id] => 1
+    [buyer_email] => magomerefrancis61@gmail.com
+    [buyer_phone] => 0111777770
+)
+
+[2024-10-12 15:23:41] User already exists: 0111777770
+[2024-10-12 15:29:56] Received data: Array
+(
+    [amount] => 1000
+    [plan_id] => 1
+    [router_id] => 1
+    [buyer_email] => magomerefrancis61@gmail.com
+    [buyer_phone] => 0111777770
+)
+
+[2024-10-12 15:29:56] User already exists: 0111777770
+[2024-10-12 15:31:28] Received data: Array
+(
+    [amount] => 1000
+    [plan_id] => 1
+    [router_id] => 1
+    [buyer_email] => magomerefrancis61@gmail.com
+    [buyer_phone] => 0111777770
+)
+
+[2024-10-12 15:31:28] User already exists: 0111777770
+[2024-10-12 15:39:28] Received data: Array
+(
+    [amount] => 1000
+    [plan_id] => 1
+    [router_id] => 1
+    [buyer_email] => magomerefrancis61@gmail.com
+    [buyer_phone] => 0111777770
+)
+
+[2024-10-12 15:39:28] User already exists: 0111777770
+[2024-10-21 06:51:33] Received data: Array
+(
+    [amount] => 1000
+    [plan_id] => 1
+    [router_id] => 1
+    [buyer_phone] => 0111777770
+    [buyer_email] => gonet@gmail.com
+)
+
+[2024-10-21 06:52:39] Received data: Array
+(
+    [amount] => 1000
+    [plan_id] => 1
+    [router_id] => 1
+    [buyer_email] => magomerefrancis61@gmail.com
+    [buyer_phone] => 0111777770
+)
+
+[2024-10-26 12:43:01] Received data: Array
+(
+    [amount] => 1000
+    [plan_id] => 1
+    [router_id] => 1
+    [buyer_phone] => 0111777770
+    [buyer_email] => intek@gmail.com
+)
+
+[2024-10-26 12:43:01] User already exists: 0111777770
+[2024-11-14 09:28:45] Received data: Array
+(
+    [amount] => 1000
+    [plan_id] => 1
+    [router_id] => 1
+    [buyer_phone] => 256781468000
+    [buyer_email] => gonet@gmail.com
+)
+
+[2024-11-14 09:28:45] User created successfully: 256781468000
+[2024-11-14 09:33:05] Received data: Array
+(
+    [amount] => 1000
+    [plan_id] => 1
+    [router_id] => 1
+    [buyer_phone] => 0781468000
+    [buyer_email] => gonet@gmail.com
+)
+
+[2024-11-14 09:33:05] User created successfully: 0781468000

@@ -1,0 +1,570 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Hotel Guest Wi-Fi Registration</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!-- Tailwind CSS -->
+  <script src="https://cdn.tailwindcss.com"></script>
+  <!-- SweetAlert2 -->
+  <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+  <style>
+    .hero-background {
+      background-image: url('https://images.unsplash.com/photo-1600585154340-be6161a56a0c?ixlib=rb-4.0.3&auto=format&fit=crop&w=1740&q=80');
+      background-size: cover;
+      background-position: center;
+    }
+  </style>
+</head>
+<body class="h-screen w-screen hero-background flex flex-col items-center justify-center">
+
+  <!-- LOGO + HOTEL NAME -->
+  <div class="flex items-center space-x-2 bg-white/80 p-3 rounded-full shadow-md mt-4">
+    <img 
+      src="https://4148527.app.netsuite.com//core/media/media.nl?id=3482210&c=4148527&h=tmVVRYh5jRcwDmOMjeg7tY6Sq200lKBLkupznJEX1yqBO8et" 
+      alt="Logo" 
+      class="w-12 h-12 rounded-full"
+    />
+    <span class="text-xl font-bold text-gray-700 whitespace-nowrap">
+      Anton
+    </span>
+  </div>
+
+  <!-- STEP 1: Registration Card -->
+  <div
+    id="registrationCard"
+    class="mt-4 mb-4 w-full max-w-md bg-white/90 rounded-lg shadow-lg p-6 transition-all duration-300 ease-out hover:shadow-2xl"
+  >
+    <img
+      src="https://unsplash.com/blog/content/images/max/2560/1-vQ5EsgnJkANWb5fktHPwnw.jpeg"
+      alt="Airbnb room"
+      class="w-full max-h-[200px] object-cover rounded mb-4"
+    />
+
+    <h1 class="text-xl sm:text-2xl font-bold text-center text-gray-800 mb-3">
+      Welcome Hotel Guest
+    </h1>
+    <p class="text-center text-gray-600 mb-5">
+      Enter your full name and <strong>either</strong> your Phone Number or 
+      your Email to register and connect to our Wi-Fi.
+    </p>
+
+    <!-- Registration Form -->
+    <form id="registrationForm" class="space-y-4">
+      <!-- Full Name -->
+      <div>
+        <label for="full_name" class="block text-sm font-medium text-gray-700 mb-1">
+          Full Name
+        </label>
+        <input
+          type="text"
+          id="full_name"
+          name="full_name"
+          placeholder="e.g. John Doe"
+          class="w-full border border-gray-300 rounded px-3 py-2 
+                 focus:outline-none focus:ring-2 focus:ring-teal-500"
+          required
+        />
+      </div>
+
+      <!-- Phone OR Email -->
+      <div>
+        <label for="user_input" class="block text-sm font-medium text-gray-700 mb-1">
+          Phone or Email
+        </label>
+        <input
+          type="text"
+          id="user_input"
+          name="user_input"
+          placeholder="e.g. 0039123467856 or user@gmail.com"
+          class="w-full border border-gray-300 rounded px-3 py-2
+                 focus:outline-none focus:ring-2 focus:ring-teal-500"
+          required
+        />
+        <small class="block mt-1 text-gray-500">
+          Example phone: 0039XXXxxxxx
+        </small>
+      </div>
+
+      <button
+        type="submit"
+        class="w-full bg-orange-600 hover:bg-orange-700 text-white font-bold 
+               py-2 px-4 rounded focus:outline-none transition-transform duration-200 hover:scale-105"
+      >
+        Register
+      </button>
+    </form>
+
+    <div class="text-center mt-6 text-sm text-gray-500">
+      By clicking "Register", you agree to our
+      <a href="#" class="underline text-blue-600">Terms &amp; Conditions</a>.
+    </div>
+
+    <!-- Social Login Button -->
+    <div class="mt-6">
+      <button
+        id="auth0SocialLoginBtn"
+        class="w-full bg-blue-500 hover:bg-blue-600 text-white
+               font-bold py-2 px-4 rounded focus:outline-none transition-transform duration-200 hover:scale-105"
+      >
+        Or Sign In with Google
+      </button>
+    </div>
+  </div>
+
+  <!-- STEP 2: Password Card (Hidden by default) -->
+  <div
+    id="passwordCard"
+    class="w-full max-w-md bg-white/90 rounded-lg shadow-lg p-6 mb-4 transition-all duration-300 ease-out hover:shadow-2xl"
+    style="display: none;"
+  >
+    <h1 class="text-xl sm:text-2xl font-bold text-center text-gray-800 mb-3">
+      Enter Your Password
+    </h1>
+    <p class="text-center text-gray-600 mb-5" id="passwordMessage">
+      A password has been sent to your Phone or Email.<br/>
+      Enter it below to connect.
+    </p>
+
+    <!-- Password Form -->
+    <form id="passwordForm" class="space-y-4">
+      <div>
+        <label for="password_input" class="block text-sm font-medium text-gray-700 mb-1">
+          Password
+        </label>
+        <input
+          type="password"
+          id="password_input"
+          name="password_input"
+          placeholder="Enter the password/OTP you received"
+          class="w-full border border-gray-300 rounded px-3 py-2
+                 focus:outline-none focus:ring-2 focus:ring-teal-500"
+          required
+        />
+      </div>
+
+      <button
+        type="submit"
+        class="w-full bg-green-600 hover:bg-green-700 text-white
+               font-bold py-2 px-4 rounded focus:outline-none transition-transform duration-200 hover:scale-105"
+      >
+        Connect
+      </button>
+    </form>
+  </div>
+
+  <!-- FOOTER -->
+  <footer class="text-white text-center mb-4">
+    <p class="text-sm">
+      © 2025 Anton. All rights reserved.
+    </p>
+  </footer>
+<!-- Auth0 Lock (for Social Login) -->
+<!-- Auth0 Lock (for Social Login) -->
+<script src="https://cdn.auth0.com/js/lock/11.34/lock.min.js"></script>
+
+<!-- Main Script: Auth0 + Social Login -->
+<script>
+  // ============================================================
+  // =============== AUTH0 CONFIGURATION & LOGIC ================
+  // ============================================================
+  const AUTH0_CLIENT_ID = "8Hk7PYs6w4xhnrINmLLyQ9ZF8M51wunK"; // Replace with your Auth0 Client ID
+  const AUTH0_DOMAIN    = "dev-mzw2087wnybcn2d7.us.auth0.com"; // Replace with your Auth0 Domain
+
+  // Create an instance of Auth0Lock for social login
+  const lock = new Auth0Lock(AUTH0_CLIENT_ID, AUTH0_DOMAIN, {
+    allowedConnections: ["google-oauth2", "facebook", "instagram", "twitter"],
+    auth: {
+      redirectUrl: "https://anton.ispledger.com/italy/index.html", // Must be in your Auth0 "Allowed Callback URLs"
+      responseType: "token id_token",
+      params: {
+        scope: "openid profile email"
+      }
+    },
+    theme: {
+      logo: "https://via.placeholder.com/50x50/09f/fff.png?text=Logo",
+      primaryColor: "#FF7D1A"
+    }
+  });
+
+  document.addEventListener('DOMContentLoaded', () => {
+    const auth0SocialLoginBtn = document.getElementById('auth0SocialLoginBtn');
+
+    // Show Auth0 Lock widget on button click
+    if (auth0SocialLoginBtn) {
+      auth0SocialLoginBtn.addEventListener('click', () => {
+        lock.show();
+      });
+    }
+
+    // On successful Auth0 authentication
+    lock.on("authenticated", function(authResult) {
+      console.log("Auth0 authResult:", authResult);
+
+      lock.getUserInfo(authResult.accessToken, function(error, profile) {
+        if (error) {
+          console.error("Error getting Auth0 user info:", error);
+          Swal.fire({
+            icon: 'error',
+            title: 'Login Error',
+            text: 'Unable to retrieve Auth0 profile. Please try again.'
+          });
+          return;
+        }
+        console.log("Auth0 user profile:", profile);
+
+        // Extract the user's email from the Auth0 profile
+        const socialEmail = profile.email || "";
+        if (!socialEmail) {
+          // If the provider doesn't return an email, handle that scenario:
+          Swal.fire({
+            icon: 'warning',
+            title: 'No Email Provided',
+            text: 'Social provider did not return an email. Cannot proceed.'
+          });
+          return;
+        }
+
+        // Now send that email to your server to retrieve the user's password
+        fetch("social_register.php", {  // <--- or whichever endpoint
+          method: "POST",
+          body: new URLSearchParams({
+            user_input: socialEmail
+            // If you need the user's name or other data:
+            // full_name: profile.name || "Unknown Social"
+          })
+        })
+        .then(response => response.text())
+        .then(rawText => {
+          console.log("Social registration server response:", rawText);
+
+          let parsed;
+          try {
+            parsed = JSON.parse(rawText);
+          } catch (err) {
+            throw new Error("Failed to parse JSON from server: " + err);
+          }
+
+          // Expecting JSON like:
+          // { success: true, username: "theEmail", password: "somePasswordFromDB" }
+          if (!parsed.success) {
+            // If the server indicates failure, show an alert
+            throw new Error(parsed.error || "Unable to retrieve social user credentials.");
+          }
+
+          const finalUsername = parsed.username;
+          const finalPassword = parsed.password;
+
+          // Show a message and wait 5s before auto-login
+          Swal.fire({
+            icon: 'success',
+            title: 'Account Ready',
+            text: 'We will connect you in 5 seconds...',
+            showConfirmButton: false,
+            timer: 5000
+          });
+
+          // Wait 5s, then call autoLogin
+          setTimeout(() => {
+            autoLoginToMikrotik(finalUsername, finalPassword);
+          }, 5000);
+
+        })
+        .catch(err => {
+          console.error("Social registration or fetch error:", err);
+          Swal.fire({
+            icon: 'error',
+            title: 'Social Login Failed',
+            text: err.message || 'Could not log you in with social credentials.'
+          });
+        });
+      });
+    });
+
+    lock.on("authorization_error", function(err) {
+      console.error("Authorization Error:", err);
+      Swal.fire({
+        icon: 'error',
+        title: 'Auth0 Login Failed',
+        text: 'Please try again or use another method.'
+      });
+    });
+  });
+
+  // Helper to do an HTTP form submission to MikroTik login
+  function autoLoginToMikrotik(username, password) {
+    // Create a hidden form that posts to the hotspot /login
+    const form = document.createElement('form');
+    form.method = 'POST';
+    form.action = 'http://192.168.180.1/login';
+
+    const usrField = document.createElement('input');
+    usrField.type = 'hidden';
+    usrField.name = 'username';
+    usrField.value = username;
+    form.appendChild(usrField);
+
+    const pwdField = document.createElement('input');
+    pwdField.type = 'hidden';
+    pwdField.name = 'password';
+    pwdField.value = password;
+    form.appendChild(pwdField);
+
+    document.body.appendChild(form);
+    form.submit();
+  }
+</script>
+
+
+<!-- Registration & Password Flow -->
+<!-- Registration & Password Flow -->
+<script>
+  // ============================================================
+  // ========== CUSTOM REGISTRATION & PASSWORD LOGIC ============
+  // ============================================================
+  document.addEventListener('DOMContentLoaded', () => {
+    const registrationForm = document.getElementById('registrationForm');
+    const passwordForm = document.getElementById('passwordForm');
+
+    const registrationCard = document.getElementById('registrationCard');
+    const passwordCard = document.getElementById('passwordCard');
+    const passwordMessage = document.getElementById('passwordMessage');
+
+    let userName = ''; // phone or email
+
+    // STEP 1: Submit Full Name + Phone/Email
+    registrationForm.addEventListener('submit', async (e) => {
+      e.preventDefault();
+
+      Swal.fire({
+        title: 'Registering...',
+        text: 'Please wait while we set up your account.',
+        allowOutsideClick: false,
+        allowEscapeKey: false,
+        didOpen: () => {
+          Swal.showLoading();
+        }
+      });
+
+      const formData = new FormData(registrationForm);
+      const fullName = formData.get('full_name');
+      userName = formData.get('user_input');
+
+      try {
+        const response = await fetch('register_test.php', {
+          method: 'POST',
+          body: formData
+        });
+
+        let rawText = await response.text();
+        console.log('Server raw response:', rawText);
+
+        // Strip out anything before the first '{'
+        const firstBraceIndex = rawText.indexOf('{');
+        if (firstBraceIndex !== -1) {
+          rawText = rawText.substring(firstBraceIndex);
+        }
+
+        let result;
+        try {
+          result = JSON.parse(rawText);
+        } catch (parseError) {
+          console.error('JSON parse error:', parseError);
+          Swal.close();
+          Swal.fire({
+            icon: 'error',
+            title: 'Unable to parse server response',
+            text: 'Check console or try again later.'
+          });
+          return;
+        }
+
+        Swal.close();
+
+        if (!response.ok) {
+          Swal.fire({
+            icon: 'error',
+            title: 'Server Error',
+            text: `HTTP ${response.status} - ${response.statusText}`
+          });
+          return;
+        }
+
+        if (result.success === true) {
+          // USER IS NEW
+          if (userName.includes('@')) {
+            // 1) If it's a NEW EMAIL user:
+            //    Skip password card; auto-login as "test" + email / pass=1234
+            Swal.fire({
+              icon: 'success',
+              title: 'Connected!',
+              text: 'We have connected you using a test account for 5 minutes. Please check your email for your personal password to reconnect next time.',
+              showConfirmButton: true
+            }).then(() => {
+              // CHANGED: Prepend "test" to the email, e.g. "testsomeone@gmail.com"
+              const testUserName = userName + 'test';
+              autoLoginToMikrotik(testUserName, '1234');
+            });
+          } else {
+            // 2) If it's a NEW PHONE user:
+            //    Show the password card (OTP scenario)
+            registrationCard.style.display = 'none';
+            passwordCard.style.display = 'block';
+
+            passwordMessage.innerHTML =
+              'An OTP was sent to <strong>' + userName + '</strong>. Enter it below to connect.';
+          }
+
+        } else {
+          // USER ALREADY EXISTS or ERROR
+          if (result.error === 'User is already registered.') {
+            // Instead of showing "Registration Failed",
+            // we show the password card so they can enter existing password/OTP
+            Swal.close();
+            registrationCard.style.display = 'none';
+            passwordCard.style.display = 'block';
+
+            if (userName.includes('@')) {
+              passwordMessage.innerHTML =
+                'Your email is already registered. Enter the existing password that was sent before.';
+            } else {
+              passwordMessage.innerHTML =
+                'Your phone is already registered. Enter the existing OTP you received earlier.';
+            }
+          } else {
+            // Some other error
+            const errMsg = result.error || 'Something went wrong.';
+            Swal.fire({
+              icon: 'error',
+              title: 'Registration Failed',
+              text: errMsg
+            });
+          }
+        }
+      } catch (error) {
+        console.error('Network error:', error);
+        Swal.fire({
+          icon: 'error',
+          title: 'Unable to contact the server',
+          text: 'Check console or try again later.'
+        });
+      }
+    });
+
+    // STEP 2: Submit the Password (Email password or Phone OTP)
+    passwordForm.addEventListener('submit', async (e) => {
+      e.preventDefault();
+
+      Swal.fire({
+        title: 'Verifying Password...',
+        text: 'Please wait.',
+        allowOutsideClick: false,
+        allowEscapeKey: false,
+        didOpen: () => {
+          Swal.showLoading();
+        }
+      });
+
+      const password = document.getElementById('password_input').value;
+      const dataToSend = new FormData();
+      dataToSend.append('user_input', userName);      // e.g. phone or email
+      dataToSend.append('password_input', password);  // emailed password or OTP
+
+      try {
+        const response = await fetch('verify_password.php', {
+          method: 'POST',
+          body: dataToSend
+        });
+
+        let rawText = await response.text();
+        console.log('Server raw response:', rawText);
+
+        const firstBraceIndex = rawText.indexOf('{');
+        if (firstBraceIndex !== -1) {
+          rawText = rawText.substring(firstBraceIndex);
+        }
+
+        let result;
+        try {
+          result = JSON.parse(rawText);
+        } catch (parseError) {
+          console.error('JSON parse error:', parseError);
+          Swal.close();
+          Swal.fire({
+            icon: 'error',
+            title: 'Unable to parse server response',
+            text: 'Check console or try again later.'
+          });
+          return;
+        }
+
+        Swal.close();
+
+        if (!response.ok) {
+          Swal.fire({
+            icon: 'error',
+            title: 'Server Error',
+            text: `HTTP ${response.status} - ${response.statusText}`
+          });
+          return;
+        }
+
+        if (result.success === true) {
+          // If the password/OTP is correct, log in with user_input as username, that password as pass
+          Swal.fire({
+            icon: 'success',
+            title: 'Login Successful!',
+            text: 'Connecting you now...',
+            showConfirmButton: false,
+            timer: 2000,
+            didClose: () => {
+              autoLoginToMikrotik(userName, password);
+            }
+          });
+        } else {
+          const errMsg = result.error || 'Invalid password.';
+          Swal.fire({
+            icon: 'error',
+            title: 'Verification Failed',
+            text: errMsg
+          });
+        }
+      } catch (error) {
+        console.error('Network error:', error);
+        Swal.fire({
+          icon: 'error',
+          title: 'Unable to contact the server',
+          text: 'Check console or try again later.'
+        });
+      }
+    });
+
+    // Reuse the same function from the social login script
+    window.autoLoginToMikrotik = function(username, password) {
+      const form = document.createElement('form');
+      form.method = 'POST';
+      form.action = 'http://192.168.180.1/login';
+
+      const usrField = document.createElement('input');
+      usrField.type = 'hidden';
+      usrField.name = 'username';
+      usrField.value = username;
+      form.appendChild(usrField);
+
+      const pwdField = document.createElement('input');
+      pwdField.type = 'hidden';
+      pwdField.name = 'password';
+      pwdField.value = password;
+      form.appendChild(pwdField);
+
+      document.body.appendChild(form);
+      form.submit();
+    };
+  });
+</script>
+
+
+
+
+</body>
+</html>

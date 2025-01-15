@@ -1,0 +1,192 @@
+[2024-10-07 20:39:54] Access token response: {"access_token":"eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICJBbmU5XzJKWEFIdUtkdDFGSEEwb2xpQTlsNGg4UTgxYmNWYlc1cVJLck9FIn0.eyJleHAiOjE3MjgzMjY2OTUsImlhdCI6MTcyODMyNjM5NSwianRpIjoiMzYwYzllODYtZjdkYi00NDRlLTkyNGEtZmRlMGFhY2I2YzFmIiwiaXNzIjoiaHR0cHM6Ly9pZC5pb3RlYy5pby9yZWFsbXMvaW90ZWMiLCJhdWQiOlsicGF5LWFwaSIsImFjY291bnQiXSwic3ViIjoiOWNlNWNlYmMtZWVhZi00YmRmLTg0NTgtZDNhMzJlNmE4OTI0IiwidHlwIjoiQmVhcmVyIiwiYXpwIjoibHVtaW5vdXMtY2xpZW50IiwiYWNyIjoiMSIsImFsbG93ZWQtb3JpZ2lucyI6WyIvKiJdLCJyZWFsbV9hY2Nlc3MiOnsicm9sZXMiOlsib2ZmbGluZV9hY2Nlc3MiLCJkZWZhdWx0LXJvbGVzLWlvdGVjIiwidW1hX2F1dGhvcml6YXRpb24iXX0sInJlc291cmNlX2FjY2VzcyI6eyJwYXktYXBpIjp7InJvbGVzIjpbIkNPTExFQ1RJT05fVklFVyIsIkNPTExFQ1RJT05fVFJJR0dFUiIsIkRJU0JVUlNFTUVOVF9UUklHR0VSIiwiRElTQlVSU0VNRU5UX1ZJRVciLCJXQUxMRVRfVklFVyJdfSwiYWNjb3VudCI6eyJyb2xlcyI6WyJtYW5hZ2UtYWNjb3VudCIsIm1hbmFnZS1hY2NvdW50LWxpbmtzIiwiZGVsZXRlLWFjY291bnQiLCJ2aWV3LXByb2ZpbGUiXX19LCJzY29wZSI6InByb2ZpbGUgZW1haWwiLCJlbWFpbF92ZXJpZmllZCI6ZmFsc2UsImNsaWVudEhvc3QiOiIxMDIuMzcuMjExLjE0MyIsInByZWZlcnJlZF91c2VybmFtZSI6InNlcnZpY2UtYWNjb3VudC1sdW1pbm91cy1jbGllbnQiLCJjbGllbnRBZGRyZXNzIjoiMTAyLjM3LjIxMS4xNDMiLCJjbGllbnRfaWQiOiJsdW1pbm91cy1jbGllbnQifQ.TrwTsSGuSsljgUhDXMWHMJyY6tY1JYIBvx7K4MdQeAOB9Lp1BklUFQ8GV-i6oRDfqXXilYYWAWL6J2fGEmACrqg3GEOzZgKssbfkrx2kHqR8bSFkitxgHjAboq94f71woleh3iNV020xcvgcGQ0DGkRdrNpuZkPUuSzCJmo_1SVGkLa0c7TwKv1KygYaP2fAZmkVgjRjp1SLUW8d0ooNjC_XyeTsPQGbTmrrSHnCzX88OqAOuOyzSXLbsb47vqDinmPI4vJi5a74HFhuPHGl4aamgA4HP-xnRpfxGjnsfDthSYlUY861bgYHi771W3J6_F-u_07nLZ21_drN15Y_JA","expires_in":300,"token_type":"Bearer","scope":"profile email"}
+[2024-10-07 20:39:55] Checking status for Transaction ID: ba3d04e1-51ef-475c-a9db-7e7d96136419
+[2024-10-07 20:39:56] GET request response: {
+  "payer": "256751351363",
+  "payerName": "SHADRACK MUWANGUZI",
+  "category": "MobileMoney",
+  "status": "Success",
+  "paymentChannel": "Api",
+  "statusCode": "success",
+  "statusMessage": "Request successfully completed",
+  "externalId": "670405c95cc0f",
+  "amount": 1000.000,
+  "payerNote": "Payment for plan 1",
+  "payeeNote": "ioTec Payment",
+  "currency": "UGX",
+  "wallet": {
+    "id": "da726ccc-d5af-49ed-b4f9-b4918e6ee164",
+    "name": "LUMINOUS TECHNOLOGIES LIMITED"
+  },
+  "chargeModel": "default",
+  "createdBy": "9ce5cebc-eeaf-4bdf-8458-d3a32e6a8924",
+  "transactionCharge": 20.000,
+  "vendorCharge": 20.000,
+  "totalTransactionCharge": 40.000,
+  "vendor": "Airtel",
+  "vendorTransactionId": "110799388174",
+  "reconciledOn": null,
+  "transactions": null,
+  "id": "ba3d04e1-51ef-475c-a9db-7e7d96136419",
+  "createdAt": "2024-10-07T16:01:18Z"
+}
+[2024-10-07 20:39:56] Payment status response: Array
+(
+    [payer] => 256751351363
+    [payerName] => SHADRACK MUWANGUZI
+    [category] => MobileMoney
+    [status] => Success
+    [paymentChannel] => Api
+    [statusCode] => success
+    [statusMessage] => Request successfully completed
+    [externalId] => 670405c95cc0f
+    [amount] => 1000
+    [payerNote] => Payment for plan 1
+    [payeeNote] => ioTec Payment
+    [currency] => UGX
+    [wallet] => Array
+        (
+            [id] => da726ccc-d5af-49ed-b4f9-b4918e6ee164
+            [name] => LUMINOUS TECHNOLOGIES LIMITED
+        )
+
+    [chargeModel] => default
+    [createdBy] => 9ce5cebc-eeaf-4bdf-8458-d3a32e6a8924
+    [transactionCharge] => 20
+    [vendorCharge] => 20
+    [totalTransactionCharge] => 40
+    [vendor] => Airtel
+    [vendorTransactionId] => 110799388174
+    [reconciledOn] => 
+    [transactions] => 
+    [id] => ba3d04e1-51ef-475c-a9db-7e7d96136419
+    [createdAt] => 2024-10-07T16:01:18Z
+)
+
+[2024-10-08 09:07:42] Access token response: {"access_token":"eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICJBbmU5XzJKWEFIdUtkdDFGSEEwb2xpQTlsNGg4UTgxYmNWYlc1cVJLck9FIn0.eyJleHAiOjE3MjgzNzE1NjMsImlhdCI6MTcyODM3MTI2MywianRpIjoiMTI1MDU1OWEtMjI4Yi00OGZhLTgyN2UtYzU4YWZiZjI4N2U0IiwiaXNzIjoiaHR0cHM6Ly9pZC5pb3RlYy5pby9yZWFsbXMvaW90ZWMiLCJhdWQiOlsicGF5LWFwaSIsImFjY291bnQiXSwic3ViIjoiOWNlNWNlYmMtZWVhZi00YmRmLTg0NTgtZDNhMzJlNmE4OTI0IiwidHlwIjoiQmVhcmVyIiwiYXpwIjoibHVtaW5vdXMtY2xpZW50IiwiYWNyIjoiMSIsImFsbG93ZWQtb3JpZ2lucyI6WyIvKiJdLCJyZWFsbV9hY2Nlc3MiOnsicm9sZXMiOlsib2ZmbGluZV9hY2Nlc3MiLCJkZWZhdWx0LXJvbGVzLWlvdGVjIiwidW1hX2F1dGhvcml6YXRpb24iXX0sInJlc291cmNlX2FjY2VzcyI6eyJwYXktYXBpIjp7InJvbGVzIjpbIkNPTExFQ1RJT05fVklFVyIsIkNPTExFQ1RJT05fVFJJR0dFUiIsIkRJU0JVUlNFTUVOVF9UUklHR0VSIiwiRElTQlVSU0VNRU5UX1ZJRVciLCJXQUxMRVRfVklFVyJdfSwiYWNjb3VudCI6eyJyb2xlcyI6WyJtYW5hZ2UtYWNjb3VudCIsIm1hbmFnZS1hY2NvdW50LWxpbmtzIiwiZGVsZXRlLWFjY291bnQiLCJ2aWV3LXByb2ZpbGUiXX19LCJzY29wZSI6InByb2ZpbGUgZW1haWwiLCJlbWFpbF92ZXJpZmllZCI6ZmFsc2UsImNsaWVudEhvc3QiOiIxMDIuMzcuMjExLjE0MyIsInByZWZlcnJlZF91c2VybmFtZSI6InNlcnZpY2UtYWNjb3VudC1sdW1pbm91cy1jbGllbnQiLCJjbGllbnRBZGRyZXNzIjoiMTAyLjM3LjIxMS4xNDMiLCJjbGllbnRfaWQiOiJsdW1pbm91cy1jbGllbnQifQ.cIpEnEv98vqWc8vU2YtKI_oQ2oeelhxTQyDo1Ah4DH7sARqHZjSQcWwraBqhMVTMaVWQdcp_TDdDBRR7tP0GVU0ENG5DLCpRMdbraRZ_yhVknF4rngruq6hCqyrqiza1sx_QddlCoYgsRCFXQrvaDgdx_2hvjElH32Aavf9-hpvgQUapiEloZ9N5FVhjCnbLveShSho07bk8a4UtXuikNeO5nJFhgwQzLdMt8nzic0aAce2vQSllvml8cy7GLhEt2-EJsm3qj1t6BgTm_DBJvaav7W7UqOaVwQGmS3b7mI1AuGjx87s5PpOp2tRbHRG7XoJWKvAL6Px9mifUDXCoZw","expires_in":300,"token_type":"Bearer","scope":"profile email"}
+[2024-10-08 09:07:42] Checking status for Transaction ID: 4101e69d-499f-43f0-815a-0213874991f6
+[2024-10-08 09:07:43] GET request response: {
+  "payer": "256751351363",
+  "payerName": "SHADRACK MUWANGUZI",
+  "category": "MobileMoney",
+  "status": "Success",
+  "paymentChannel": "Api",
+  "statusCode": "success",
+  "statusMessage": "Request successfully completed",
+  "externalId": "6704d9e621f14",
+  "amount": 1000.000,
+  "payerNote": "Payment for plan 1",
+  "payeeNote": "ioTec Payment",
+  "currency": "UGX",
+  "wallet": {
+    "id": "da726ccc-d5af-49ed-b4f9-b4918e6ee164",
+    "name": "LUMINOUS TECHNOLOGIES LIMITED"
+  },
+  "chargeModel": "default",
+  "createdBy": "9ce5cebc-eeaf-4bdf-8458-d3a32e6a8924",
+  "transactionCharge": 20.000,
+  "vendorCharge": 20.000,
+  "totalTransactionCharge": 40.000,
+  "vendor": "Airtel",
+  "vendorTransactionId": "110822018649",
+  "reconciledOn": null,
+  "transactions": null,
+  "id": "4101e69d-499f-43f0-815a-0213874991f6",
+  "createdAt": "2024-10-08T07:06:15Z"
+}
+[2024-10-08 09:07:43] Payment status response: Array
+(
+    [payer] => 256751351363
+    [payerName] => SHADRACK MUWANGUZI
+    [category] => MobileMoney
+    [status] => Success
+    [paymentChannel] => Api
+    [statusCode] => success
+    [statusMessage] => Request successfully completed
+    [externalId] => 6704d9e621f14
+    [amount] => 1000
+    [payerNote] => Payment for plan 1
+    [payeeNote] => ioTec Payment
+    [currency] => UGX
+    [wallet] => Array
+        (
+            [id] => da726ccc-d5af-49ed-b4f9-b4918e6ee164
+            [name] => LUMINOUS TECHNOLOGIES LIMITED
+        )
+
+    [chargeModel] => default
+    [createdBy] => 9ce5cebc-eeaf-4bdf-8458-d3a32e6a8924
+    [transactionCharge] => 20
+    [vendorCharge] => 20
+    [totalTransactionCharge] => 40
+    [vendor] => Airtel
+    [vendorTransactionId] => 110822018649
+    [reconciledOn] => 
+    [transactions] => 
+    [id] => 4101e69d-499f-43f0-815a-0213874991f6
+    [createdAt] => 2024-10-08T07:06:15Z
+)
+
+[2024-10-08 21:53:19] Access token response: {"access_token":"eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICJBbmU5XzJKWEFIdUtkdDFGSEEwb2xpQTlsNGg4UTgxYmNWYlc1cVJLck9FIn0.eyJleHAiOjE3Mjg0MTc1MDMsImlhdCI6MTcyODQxNzIwMywianRpIjoiZDMzOGU0ZGEtMTU3Yi00ZjkxLTg1YzAtNWE1NWQzNDM1YWZjIiwiaXNzIjoiaHR0cHM6Ly9pZC5pb3RlYy5pby9yZWFsbXMvaW90ZWMiLCJhdWQiOlsicGF5LWFwaSIsImFjY291bnQiXSwic3ViIjoiOWNlNWNlYmMtZWVhZi00YmRmLTg0NTgtZDNhMzJlNmE4OTI0IiwidHlwIjoiQmVhcmVyIiwiYXpwIjoibHVtaW5vdXMtY2xpZW50IiwiYWNyIjoiMSIsImFsbG93ZWQtb3JpZ2lucyI6WyIvKiJdLCJyZWFsbV9hY2Nlc3MiOnsicm9sZXMiOlsib2ZmbGluZV9hY2Nlc3MiLCJkZWZhdWx0LXJvbGVzLWlvdGVjIiwidW1hX2F1dGhvcml6YXRpb24iXX0sInJlc291cmNlX2FjY2VzcyI6eyJwYXktYXBpIjp7InJvbGVzIjpbIkNPTExFQ1RJT05fVklFVyIsIkNPTExFQ1RJT05fVFJJR0dFUiIsIkRJU0JVUlNFTUVOVF9UUklHR0VSIiwiRElTQlVSU0VNRU5UX1ZJRVciLCJXQUxMRVRfVklFVyJdfSwiYWNjb3VudCI6eyJyb2xlcyI6WyJtYW5hZ2UtYWNjb3VudCIsIm1hbmFnZS1hY2NvdW50LWxpbmtzIiwiZGVsZXRlLWFjY291bnQiLCJ2aWV3LXByb2ZpbGUiXX19LCJzY29wZSI6InByb2ZpbGUgZW1haWwiLCJlbWFpbF92ZXJpZmllZCI6ZmFsc2UsImNsaWVudEhvc3QiOiIxMDIuMzcuMjExLjE0MyIsInByZWZlcnJlZF91c2VybmFtZSI6InNlcnZpY2UtYWNjb3VudC1sdW1pbm91cy1jbGllbnQiLCJjbGllbnRBZGRyZXNzIjoiMTAyLjM3LjIxMS4xNDMiLCJjbGllbnRfaWQiOiJsdW1pbm91cy1jbGllbnQifQ.q6fkQ9q2YZ37MgyydHIPqhNf7rhFIYo2TOP9bZJ1558nPNCtc9BuZMzWwWMUTHm11Qjy5j4G2CVZC9RwwvbASIgQ4nTQfvncyyAtRUJvW0wqIqvK_28ox_FGXtTlZCmKiezQc064ELorOh45uNKEtPmy6GKiyU6LHsycn1LjtJxhoKwGbUi00xOC6JJP11zDF6gSiu62VCLakVyGLuD9Fo1p5nt2svHUTihtkeixi_vie5uNYHP2weNE7Sg937JaGotebQH8yu2hBq_GnuLyHI3JCHJnwFx3Xk61jx50vrXAy0xhcwY9-ijLVzJ1qtN4l5ON_LumaUzVrmgiiuMuQA","expires_in":300,"token_type":"Bearer","scope":"profile email"}
+[2024-10-08 21:53:19] Checking status for Transaction ID: 4101e69d-499f-43f0-815a-0213874991f6
+[2024-10-08 21:53:20] GET request response: {
+  "payer": "256751351363",
+  "payerName": "SHADRACK MUWANGUZI",
+  "category": "MobileMoney",
+  "status": "Success",
+  "paymentChannel": "Api",
+  "statusCode": "success",
+  "statusMessage": "Request successfully completed",
+  "externalId": "6704d9e621f14",
+  "amount": 1000.000,
+  "payerNote": "Payment for plan 1",
+  "payeeNote": "ioTec Payment",
+  "currency": "UGX",
+  "wallet": {
+    "id": "da726ccc-d5af-49ed-b4f9-b4918e6ee164",
+    "name": "LUMINOUS TECHNOLOGIES LIMITED"
+  },
+  "chargeModel": "default",
+  "createdBy": "9ce5cebc-eeaf-4bdf-8458-d3a32e6a8924",
+  "transactionCharge": 20.000,
+  "vendorCharge": 20.000,
+  "totalTransactionCharge": 40.000,
+  "vendor": "Airtel",
+  "vendorTransactionId": "110822018649",
+  "reconciledOn": null,
+  "transactions": null,
+  "id": "4101e69d-499f-43f0-815a-0213874991f6",
+  "createdAt": "2024-10-08T07:06:15Z"
+}
+[2024-10-08 21:53:20] Payment status response: Array
+(
+    [payer] => 256751351363
+    [payerName] => SHADRACK MUWANGUZI
+    [category] => MobileMoney
+    [status] => Success
+    [paymentChannel] => Api
+    [statusCode] => success
+    [statusMessage] => Request successfully completed
+    [externalId] => 6704d9e621f14
+    [amount] => 1000
+    [payerNote] => Payment for plan 1
+    [payeeNote] => ioTec Payment
+    [currency] => UGX
+    [wallet] => Array
+        (
+            [id] => da726ccc-d5af-49ed-b4f9-b4918e6ee164
+            [name] => LUMINOUS TECHNOLOGIES LIMITED
+        )
+
+    [chargeModel] => default
+    [createdBy] => 9ce5cebc-eeaf-4bdf-8458-d3a32e6a8924
+    [transactionCharge] => 20
+    [vendorCharge] => 20
+    [totalTransactionCharge] => 40
+    [vendor] => Airtel
+    [vendorTransactionId] => 110822018649
+    [reconciledOn] => 
+    [transactions] => 
+    [id] => 4101e69d-499f-43f0-815a-0213874991f6
+    [createdAt] => 2024-10-08T07:06:15Z
+)
+

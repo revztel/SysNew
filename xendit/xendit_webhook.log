@@ -1,0 +1,9 @@
+[2024-12-21 00:49:12] Received raw data: {
+  "id": "inv_123",
+  "external_id": "ext_001",
+  "status": "PAID",
+  "amount": 10000
+}
+
+[2024-12-21 00:49:12] Webhook for invoice ID: inv_123, external_id: ext_001, status: PAID
+[2024-12-21 00:49:12] No payment gateway record found for external_id: ext_001

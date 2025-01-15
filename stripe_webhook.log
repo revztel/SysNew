@@ -1,0 +1,339 @@
+[2024-07-12 13:13:51] Received raw data: {
+  "id": "evt_3PbelfRslRg4lJ4n0xGbOLdK",
+  "object": "event",
+  "api_version": "2024-06-20",
+  "created": 1720772647,
+  "data": {
+    "object": {
+      "id": "pi_3PbelfRslRg4lJ4n0JwHG7rT",
+      "object": "payment_intent",
+      "amount": 100,
+      "amount_capturable": 0,
+      "amount_details": {
+        "tip": {
+        }
+      },
+      "amount_received": 100,
+      "application": null,
+      "application_fee_amount": null,
+      "automatic_payment_methods": null,
+      "canceled_at": null,
+      "cancellation_reason": null,
+      "capture_method": "automatic_async",
+      "client_secret": "pi_3PbelfRslRg4lJ4n0JwHG7rT_secret_N91p9Ee7LmxwQOa8q30fBVrkW",
+      "confirmation_method": "automatic",
+      "created": 1720772631,
+      "currency": "gbp",
+      "customer": null,
+      "description": null,
+      "invoice": null,
+      "last_payment_error": null,
+      "latest_charge": "ch_3PbelfRslRg4lJ4n0s13ITA4",
+      "livemode": false,
+      "metadata": {
+        "phone_number": "0696381603"
+      },
+      "next_action": null,
+      "on_behalf_of": null,
+      "payment_method": "pm_1PbeluRslRg4lJ4nafuLW8EB",
+      "payment_method_configuration_details": null,
+      "payment_method_options": {
+        "card": {
+          "installments": null,
+          "mandate_options": null,
+          "network": null,
+          "request_three_d_secure": "automatic"
+        }
+      },
+      "payment_method_types": [
+        "card"
+      ],
+      "processing": null,
+      "receipt_email": null,
+      "review": null,
+      "setup_future_usage": null,
+      "shipping": null,
+      "source": null,
+      "statement_descriptor": null,
+      "statement_descriptor_suffix": null,
+      "status": "succeeded",
+      "transfer_data": null,
+      "transfer_group": null
+    }
+  },
+  "livemode": false,
+  "pending_webhooks": 1,
+  "request": {
+    "id": "req_2kIVEldMQmDjqh",
+    "idempotency_key": "7935bb0f-93b2-4b5f-aab4-e12691e539b3"
+  },
+  "type": "payment_intent.succeeded"
+}
+[2024-07-12 13:13:51] Extracted callback data:
+Phone Number: 0696381603
+Amount Paid: 1
+Payment Method: Stripe Card
+Gateway: Stripe
+
+[2024-07-12 13:13:51] User exists with username: 0696381603
+[2024-07-12 13:13:51] Retrieved plan_id: 7 and router_id: 3 from tbl_payment_gateway
+[2024-07-12 13:13:52] Recharge record inserted successfully for username: 0696381603
+[2024-07-12 13:13:52] Transaction record inserted successfully for username: 0696381603
+[2024-07-12 13:13:52] Including external script: system/adduser.php
+[2024-07-12 13:13:52] External script executed successfully: system/adduser.php
+[2024-07-12 13:13:53] Payment gateway record updated successfully for username: admin
+[2024-07-12 13:24:58] Received raw data: {
+  "id": "evt_3PbelfRslRg4lJ4n0xGbOLdK",
+  "object": "event",
+  "api_version": "2024-06-20",
+  "created": 1720772647,
+  "data": {
+    "object": {
+      "id": "pi_3PbelfRslRg4lJ4n0JwHG7rT",
+      "object": "payment_intent",
+      "amount": 100,
+      "amount_capturable": 0,
+      "amount_details": {
+        "tip": {
+        }
+      },
+      "amount_received": 100,
+      "application": null,
+      "application_fee_amount": null,
+      "automatic_payment_methods": null,
+      "canceled_at": null,
+      "cancellation_reason": null,
+      "capture_method": "automatic_async",
+      "client_secret": "pi_3PbelfRslRg4lJ4n0JwHG7rT_secret_N91p9Ee7LmxwQOa8q30fBVrkW",
+      "confirmation_method": "automatic",
+      "created": 1720772631,
+      "currency": "gbp",
+      "customer": null,
+      "description": null,
+      "invoice": null,
+      "last_payment_error": null,
+      "latest_charge": "ch_3PbelfRslRg4lJ4n0s13ITA4",
+      "livemode": false,
+      "metadata": {
+        "phone_number": "0696381603"
+      },
+      "next_action": null,
+      "on_behalf_of": null,
+      "payment_method": "pm_1PbeluRslRg4lJ4nafuLW8EB",
+      "payment_method_configuration_details": null,
+      "payment_method_options": {
+        "card": {
+          "installments": null,
+          "mandate_options": null,
+          "network": null,
+          "request_three_d_secure": "automatic"
+        }
+      },
+      "payment_method_types": [
+        "card"
+      ],
+      "processing": null,
+      "receipt_email": null,
+      "review": null,
+      "setup_future_usage": null,
+      "shipping": null,
+      "source": null,
+      "statement_descriptor": null,
+      "statement_descriptor_suffix": null,
+      "status": "succeeded",
+      "transfer_data": null,
+      "transfer_group": null
+    }
+  },
+  "livemode": false,
+  "pending_webhooks": 1,
+  "request": {
+    "id": "req_2kIVEldMQmDjqh",
+    "idempotency_key": "7935bb0f-93b2-4b5f-aab4-e12691e539b3"
+  },
+  "type": "payment_intent.succeeded"
+}
+[2024-07-12 13:24:58] Extracted callback data:
+Phone Number: 0696381603
+Amount Paid: 1
+Payment Method: Stripe Card
+Gateway: Stripe
+
+[2024-07-12 13:24:58] User exists with username: 0696381603
+[2024-07-12 13:24:58] Retrieved plan_id: 7 and router_id: 3 from tbl_payment_gateway
+[2024-07-12 13:24:59] Deleted existing recharge records for username: 0696381603
+[2024-07-12 13:24:59] Recharge record inserted successfully for username: 0696381603
+[2024-07-12 13:24:59] Transaction record inserted successfully for username: 0696381603
+[2024-07-12 13:24:59] Including external script: system/adduser.php
+[2024-07-12 13:24:59] External script executed successfully: system/adduser.php
+[2024-07-12 13:24:59] Payment gateway record updated successfully for username: admin
+[2024-07-12 13:36:58] Received raw data: {
+  "id": "evt_3PbelfRslRg4lJ4n0xGbOLdK",
+  "object": "event",
+  "api_version": "2024-06-20",
+  "created": 1720772647,
+  "data": {
+    "object": {
+      "id": "pi_3PbelfRslRg4lJ4n0JwHG7rT",
+      "object": "payment_intent",
+      "amount": 100,
+      "amount_capturable": 0,
+      "amount_details": {
+        "tip": {
+        }
+      },
+      "amount_received": 100,
+      "application": null,
+      "application_fee_amount": null,
+      "automatic_payment_methods": null,
+      "canceled_at": null,
+      "cancellation_reason": null,
+      "capture_method": "automatic_async",
+      "client_secret": "pi_3PbelfRslRg4lJ4n0JwHG7rT_secret_N91p9Ee7LmxwQOa8q30fBVrkW",
+      "confirmation_method": "automatic",
+      "created": 1720772631,
+      "currency": "gbp",
+      "customer": null,
+      "description": null,
+      "invoice": null,
+      "last_payment_error": null,
+      "latest_charge": "ch_3PbelfRslRg4lJ4n0s13ITA4",
+      "livemode": false,
+      "metadata": {
+        "phone_number": "0696381603"
+      },
+      "next_action": null,
+      "on_behalf_of": null,
+      "payment_method": "pm_1PbeluRslRg4lJ4nafuLW8EB",
+      "payment_method_configuration_details": null,
+      "payment_method_options": {
+        "card": {
+          "installments": null,
+          "mandate_options": null,
+          "network": null,
+          "request_three_d_secure": "automatic"
+        }
+      },
+      "payment_method_types": [
+        "card"
+      ],
+      "processing": null,
+      "receipt_email": null,
+      "review": null,
+      "setup_future_usage": null,
+      "shipping": null,
+      "source": null,
+      "statement_descriptor": null,
+      "statement_descriptor_suffix": null,
+      "status": "succeeded",
+      "transfer_data": null,
+      "transfer_group": null
+    }
+  },
+  "livemode": false,
+  "pending_webhooks": 1,
+  "request": {
+    "id": "req_2kIVEldMQmDjqh",
+    "idempotency_key": "7935bb0f-93b2-4b5f-aab4-e12691e539b3"
+  },
+  "type": "payment_intent.succeeded"
+}
+[2024-07-12 13:36:58] Extracted callback data:
+Phone Number: 0696381603
+Amount Paid: 1
+Payment Method: Stripe Card
+Gateway: Stripe
+
+[2024-07-12 13:36:58] User exists with username: 0696381603
+[2024-07-12 13:36:58] Retrieved plan_id: 7 and router_id: 3 from tbl_payment_gateway
+[2024-07-12 13:36:59] Deleted existing recharge records for username: 0696381603
+[2024-07-12 13:36:59] Recharge record inserted successfully for username: 0696381603
+[2024-07-12 13:36:59] Transaction record inserted successfully for username: 0696381603
+[2024-07-12 13:36:59] Including external script: system/adduser.php
+[2024-07-12 13:36:59] External script executed successfully: system/adduser.php
+[2024-07-12 13:36:59] Payment gateway record updated successfully for username: admin
+[2024-07-12 15:28:57] Received raw data: {
+  "id": "evt_3PbelfRslRg4lJ4n0xGbOLdK",
+  "object": "event",
+  "api_version": "2024-06-20",
+  "created": 1720772647,
+  "data": {
+    "object": {
+      "id": "pi_3PbelfRslRg4lJ4n0JwHG7rT",
+      "object": "payment_intent",
+      "amount": 100,
+      "amount_capturable": 0,
+      "amount_details": {
+        "tip": {
+        }
+      },
+      "amount_received": 100,
+      "application": null,
+      "application_fee_amount": null,
+      "automatic_payment_methods": null,
+      "canceled_at": null,
+      "cancellation_reason": null,
+      "capture_method": "automatic_async",
+      "client_secret": "pi_3PbelfRslRg4lJ4n0JwHG7rT_secret_N91p9Ee7LmxwQOa8q30fBVrkW",
+      "confirmation_method": "automatic",
+      "created": 1720772631,
+      "currency": "gbp",
+      "customer": null,
+      "description": null,
+      "invoice": null,
+      "last_payment_error": null,
+      "latest_charge": "ch_3PbelfRslRg4lJ4n0s13ITA4",
+      "livemode": false,
+      "metadata": {
+        "phone_number": "0796381703"
+      },
+      "next_action": null,
+      "on_behalf_of": null,
+      "payment_method": "pm_1PbeluRslRg4lJ4nafuLW8EB",
+      "payment_method_configuration_details": null,
+      "payment_method_options": {
+        "card": {
+          "installments": null,
+          "mandate_options": null,
+          "network": null,
+          "request_three_d_secure": "automatic"
+        }
+      },
+      "payment_method_types": [
+        "card"
+      ],
+      "processing": null,
+      "receipt_email": null,
+      "review": null,
+      "setup_future_usage": null,
+      "shipping": null,
+      "source": null,
+      "statement_descriptor": null,
+      "statement_descriptor_suffix": null,
+      "status": "succeeded",
+      "transfer_data": null,
+      "transfer_group": null
+    }
+  },
+  "livemode": false,
+  "pending_webhooks": 1,
+  "request": {
+    "id": "req_2kIVEldMQmDjqh",
+    "idempotency_key": "7935bb0f-93b2-4b5f-aab4-e12691e539b3"
+  },
+  "type": "payment_intent.succeeded"
+}
+[2024-07-12 15:28:57] Extracted callback data:
+Phone Number: 0796381703
+Amount Paid: 1
+Payment Method: Stripe Card
+Gateway: Stripe
+
+[2024-07-12 15:28:57] User exists with username: 0796381703
+[2024-07-12 15:28:57] Retrieved plan_id: 7 and router_id: 3 from tbl_payment_gateway
+[2024-07-12 15:28:57] Deleted existing recharge records for username: 0796381703
+[2024-07-12 15:28:57] Recharge record inserted successfully for username: 0796381703
+[2024-07-12 15:28:57] Transaction record inserted successfully for username: 0796381703
+[2024-07-12 15:28:57] Including external script: system/adduser.php
+[2024-07-12 15:28:57] External script executed successfully: system/adduser.php
+[2024-07-12 15:28:57] Payment gateway record updated successfully for username: admin

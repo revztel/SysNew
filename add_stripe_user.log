@@ -1,0 +1,3 @@
+[2024-07-14 17:05:35] Received data: {"phone_number":"0796381603vhj","full_name":"FRANCIS MAGOMERE","email":"magomerefrancis61@gmail.com","address":"MWINGI ROAD UPSTATE APARTMENT","plan_id":"7","router_id":"3"}
+[2024-07-14 17:05:35] Extracted data: phone: 0796381603vhj, planId: 7, routerId: 3, username: 0796381603vhj
+[2024-07-14 17:05:35] Variables set: uname: 0796381603vhj, plan_id: 7, routerId: 3

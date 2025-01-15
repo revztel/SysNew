@@ -1,0 +1,93 @@
+[2024-11-14 09:33:05] Fetched credentials - Client ID: pay-895323d2-3bd7-450a-aeea-c696ad117d6c, Wallet ID: 96afe9ea-284e-4a18-b612-36e3cf9d7f73
+[2024-11-14 09:33:05] Received data: Array
+(
+    [amount] => 1000
+    [plan_id] => 1
+    [router_id] => 1
+    [buyer_phone] => 0781468000
+    [buyer_email] => gonet@gmail.com
+)
+
+[2024-11-14 09:33:05] Extracted fields - Buyer: 0781468000, Email: gonet@gmail.com, Phone: 0781468000, Amount: 1000, Plan ID: 1, Router ID: 1
+[2024-11-14 09:33:05] Fetched Plan Name: 5 mbps, Router Name: Home Router
+[2024-11-14 09:33:05] Generated order reference: 6735b5c1bdf5b
+[2024-11-14 09:33:05] Client ID: pay-895323d2-3bd7-450a-aeea-c696ad117d6c, Auth URL: https://id.iotec.io/connect/token, API URL: https://pay.iotec.io/api/collections/collect, Wallet ID: 96afe9ea-284e-4a18-b612-36e3cf9d7f73, Currency: UGX
+[2024-11-14 09:33:06] Access token response: {"access_token":"eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICJBbmU5XzJKWEFIdUtkdDFGSEEwb2xpQTlsNGg4UTgxYmNWYlc1cVJLck9FIn0.eyJleHAiOjE3MzE1NzM0ODcsImlhdCI6MTczMTU3MzE4NywianRpIjoiNzJmYmY1YmItMmMwNS00ZmUwLWE0NzgtZDkzNDI4NWU3ZDEyIiwiaXNzIjoiaHR0cHM6Ly9pZC5pb3RlYy5pby9yZWFsbXMvaW90ZWMiLCJhdWQiOlsicGF5LWFwaSIsImFjY291bnQiXSwic3ViIjoiMzk3ZjE0M2UtYjRlZS00MGY1LWE3ZjctYTBjMTcwYmMwODQ3IiwidHlwIjoiQmVhcmVyIiwiYXpwIjoicGF5LTg5NTMyM2QyLTNiZDctNDUwYS1hZWVhLWM2OTZhZDExN2Q2YyIsImFjciI6IjEiLCJyZWFsbV9hY2Nlc3MiOnsicm9sZXMiOlsib2ZmbGluZV9hY2Nlc3MiLCJkZWZhdWx0LXJvbGVzLWlvdGVjIiwidW1hX2F1dGhvcml6YXRpb24iXX0sInJlc291cmNlX2FjY2VzcyI6eyJwYXktYXBpIjp7InJvbGVzIjpbIkNPTExFQ1RJT05fVklFVyIsIkNPTExFQ1RJT05fVFJJR0dFUiIsIkRJU0JVUlNFTUVOVF9UUklHR0VSIiwiRElTQlVSU0VNRU5UX1ZJRVciLCJXQUxMRVRfVklFVyJdfSwiYWNjb3VudCI6eyJyb2xlcyI6WyJtYW5hZ2UtYWNjb3VudCIsIm1hbmFnZS1hY2NvdW50LWxpbmtzIiwiZGVsZXRlLWFjY291bnQiLCJ2aWV3LXByb2ZpbGUiXX19LCJzY29wZSI6InByb2ZpbGUgZW1haWwiLCJlbWFpbF92ZXJpZmllZCI6ZmFsc2UsImNsaWVudEhvc3QiOiIxMDIuMzcuMjExLjE0MyIsInByZWZlcnJlZF91c2VybmFtZSI6InNlcnZpY2UtYWNjb3VudC1wYXktODk1MzIzZDItM2JkNy00NTBhLWFlZWEtYzY5NmFkMTE3ZDZjIiwiY2xpZW50QWRkcmVzcyI6IjEwMi4zNy4yMTEuMTQzIiwiY2xpZW50X2lkIjoicGF5LTg5NTMyM2QyLTNiZDctNDUwYS1hZWVhLWM2OTZhZDExN2Q2YyJ9.atXWEl9GDfc6dovcURZB2MtkSAsq2DqNP3WG1nsBrlaVeaHg4yr7wS406LiqIKzoeCMIVhOjvTjNpx55Lnjb5gSzIefJH7PDAXjb4HY6Sy6F4NLSvlUTl5CvmReFJf1w2gbL5B0VNKbVaLIVUOTQvX50HCQqA7dq3ZbR1QhLI8gMVNUIGvPq2oNf9lcAeP9CQRu1Fxzk48lmeX_Tcoxzq_hNat7UeCfvKsb-r3MXWGS2H1TZIeNVLT1C1QE7jecXkQUTYNTi8J7RwH3URhsqvzIQdT97-RNzKvUhYuTAbLUbRCFRHx6e4EYH1dYteirmyXmk0ULpHiL75keaUtE1Dw","expires_in":300,"token_type":"Bearer","scope":"profile email"}
+[2024-11-14 09:33:06] Obtained access token successfully.
+[2024-11-14 09:33:06] Request payload to ioTec: Array
+(
+    [category] => MobileMoney
+    [currency] => UGX
+    [walletId] => 96afe9ea-284e-4a18-b612-36e3cf9d7f73
+    [externalId] => 6735b5c1bdf5b
+    [payer] => 0781468000
+    [amount] => 1000
+    [payerNote] => Payment for 5 mbps
+    [payeeNote] => ioTec Payment
+    [channel] => MobileMoney
+    [transactionChargesCategory] => ChargeWallet
+)
+
+[2024-11-14 09:33:06] Payment record inserted into database.
+[2024-11-14 09:33:09] API request response: {
+  "payer": "256781468000",
+  "payerName": null,
+  "category": "MobileMoney",
+  "status": "Pending",
+  "paymentChannel": "Api",
+  "statusCode": "pending",
+  "statusMessage": "Request is being processed",
+  "externalId": "6735b5c1bdf5b",
+  "amount": 1000,
+  "payerNote": "Payment for 5 mbps",
+  "payeeNote": "ioTec Payment",
+  "currency": "UGX",
+  "wallet": {
+    "id": "96afe9ea-284e-4a18-b612-36e3cf9d7f73",
+    "name": "INTEKLINKS"
+  },
+  "chargeModel": "default",
+  "createdBy": "397f143e-b4ee-40f5-a7f7-a0c170bc0847",
+  "transactionCharge": 20.0,
+  "vendorCharge": 20.0,
+  "totalTransactionCharge": 0,
+  "vendor": "Mtn",
+  "vendorTransactionId": null,
+  "reconciledOn": null,
+  "transactions": null,
+  "id": "c715378b-3f36-4e6c-bab8-399cdc92e319",
+  "createdAt": "2024-11-14T08:33:09Z"
+}
+[2024-11-14 09:33:09] Response from ioTec Pay: Array
+(
+    [payer] => 256781468000
+    [payerName] => 
+    [category] => MobileMoney
+    [status] => Pending
+    [paymentChannel] => Api
+    [statusCode] => pending
+    [statusMessage] => Request is being processed
+    [externalId] => 6735b5c1bdf5b
+    [amount] => 1000
+    [payerNote] => Payment for 5 mbps
+    [payeeNote] => ioTec Payment
+    [currency] => UGX
+    [wallet] => Array
+        (
+            [id] => 96afe9ea-284e-4a18-b612-36e3cf9d7f73
+            [name] => INTEKLINKS
+        )
+
+    [chargeModel] => default
+    [createdBy] => 397f143e-b4ee-40f5-a7f7-a0c170bc0847
+    [transactionCharge] => 20
+    [vendorCharge] => 20
+    [totalTransactionCharge] => 0
+    [vendor] => Mtn
+    [vendorTransactionId] => 
+    [reconciledOn] => 
+    [transactions] => 
+    [id] => c715378b-3f36-4e6c-bab8-399cdc92e319
+    [createdAt] => 2024-11-14T08:33:09Z
+)
+

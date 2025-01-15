@@ -1,0 +1,462 @@
+Buy action triggered with route2: 1 and route3: 3
+Available payment gateway: paystack
+Selected Plan ID: 3, Plan Name: pppoe plan
+Pay Now action triggered with gateway: paystack
+Router selected: ID = 1, Name = hotspot
+Attempting to fetch Plan ID: 
+Router or Plan not found. Router ID: , Plan ID: 
+Buy action triggered with route2: 1 and route3: 3
+Available payment gateway: paystack
+Selected Plan ID: 3, Plan Name: pppoe plan
+Pay Now action triggered with gateway: paystack
+Received Router ID: 1, Plan ID: 3
+Router selected: ID = 1, Name = hotspot
+Attempting to fetch Plan ID: 3
+Plan ID in pay_now: 3, Plan Name: pppoe plan
+Unpaid transaction found. Redirecting to payment page.
+Buy action triggered with route2: 1 and route3: 3
+Available payment gateway: paystack
+Selected Plan ID: 3, Plan Name: pppoe plan
+Pay Now action triggered with gateway: paystack
+Received Router ID: 1, Plan ID: 3
+Router selected: ID = 1, Name = hotspot
+Attempting to fetch Plan ID: 3
+Plan ID in pay_now: 3, Plan Name: pppoe plan
+Transaction created with ID: 12
+Transaction details: 
+ Plan ID: 3
+ Plan Name: pppoe plan
+ Router ID: 1
+ Router Name: hotspot
+ Price: 1
+Buy action triggered with route2: 1 and route3: 3
+Available payment gateway: paystack
+Selected Plan ID: 3, Plan Name: pppoe plan
+Buy action triggered with route2: 1 and route3: 3
+Available payment gateway: paystack
+Selected Plan ID: 3, Plan Name: pppoe plan
+Pay Now action triggered with gateway: paystack
+Received Router ID: 1, Plan ID: 3
+Router selected: ID = 1, Name = hotspot
+Attempting to fetch Plan ID: 3
+Plan ID in pay_now: 3, Plan Name: pppoe plan
+Transaction created with ID: 13
+Transaction details: 
+ Plan ID: 3
+ Plan Name: pppoe plan
+ Router ID: 1
+ Router Name: hotspot
+ Price: 1
+Buy action triggered with route2: 1 and route3: 2
+Available payment gateway: paystack
+Selected Plan ID: 2, Plan Name: Limited
+Pay Now action triggered with gateway: paystack
+Received Router ID: 1, Plan ID: 2
+Router selected: ID = 1, Name = hotspot
+Attempting to fetch Plan ID: 2
+Plan ID in pay_now: 2, Plan Name: Limited
+Transaction created with ID: 14
+Transaction details: 
+ Plan ID: 2
+ Plan Name: Limited
+ Router ID: 1
+ Router Name: hotspot
+ Price: 3
+Buy action triggered with route2: 1 and route3: 2
+Available payment gateway: stripe
+Selected Plan ID: 2, Plan Name: Limited
+Pay Now action triggered with gateway: stripe
+Received Router ID: 1, Plan ID: 2
+Buy action triggered with route2: 1 and route3: 2
+Available payment gateway: BankStkPush
+Selected Plan ID: 2, Plan Name: Limited
+Pay Now action triggered with gateway: BankStkPush
+Received Router ID: 1, Plan ID: 2
+Buy action triggered with route2: 1 and route3: 2
+Available payment gateway: BankStkPush
+Selected Plan ID: 2, Plan Name: Limited
+Pay Now action triggered with gateway: BankStkPush
+Received Router ID: 1, Plan ID: 2
+Buy action triggered with route2: 1 and route3: 2
+Available payment gateway: flutterwave
+Selected Plan ID: 2, Plan Name: Limited
+Pay Now action triggered with gateway: flutterwave
+Received Router ID: 1, Plan ID: 2
+Buy action triggered with route2: 1 and route3: 2
+Available payment gateway: paystack
+Selected Plan ID: 2, Plan Name: Limited
+Pay Now action triggered with gateway: paystack
+Received Router ID: 1, Plan ID: 2
+Router selected: ID = 1, Name = hotspot
+Attempting to fetch Plan ID: 2
+Plan ID in pay_now: 2, Plan Name: Limited
+Transaction created with ID: 15
+Transaction details: 
+ Plan ID: 2
+ Plan Name: Limited
+ Router ID: 1
+ Router Name: hotspot
+ Price: 3
+Buy action triggered with route2: 1 and route3: 2
+Available payment gateway: paystack
+Selected Plan ID: 2, Plan Name: Limited
+Buy action triggered with route2: 1 and route3: 2
+Available payment gateway: paystack
+Selected Plan ID: 2, Plan Name: Limited
+Buy action triggered with route2: 1 and route3: 2
+Available payment gateway: paystack
+Selected Plan ID: 2, Plan Name: Limited
+Buy action triggered with route2: 1 and route3: 2
+Available payment gateway: paystack
+Selected Plan ID: 2, Plan Name: Limited
+Buy action triggered with route2: 1 and route3: 2
+Available payment gateway: paystack
+Selected Plan ID: 2, Plan Name: Limited
+Pay Now action triggered with gateway: paystack
+Received Router ID: 1, Plan ID: 2
+Router selected: ID = 1, Name = hotspot
+Attempting to fetch Plan ID: 2
+Plan ID in pay_now: 2, Plan Name: Limited
+Transaction created with ID: 16
+Transaction details: 
+ Plan ID: 2
+ Plan Name: Limited
+ Router ID: 1
+ Router Name: hotspot
+ Price: 3
+Buy action triggered with route2: 1 and route3: 2
+Available payment gateway: paystack
+Selected Plan ID: 2, Plan Name: Limited
+Buy action triggered with route2: 1 and route3: 2
+Available payment gateway: paystack
+Selected Plan ID: 2, Plan Name: Limited
+Pay Now action triggered with gateway: paystack
+Received Router ID: 1, Plan ID: 2
+Router selected: ID = 1, Name = hotspot
+Attempting to fetch Plan ID: 2
+Plan ID in pay_now: 2, Plan Name: Limited
+Transaction created with ID: 17
+Transaction details: 
+ Plan ID: 2
+ Plan Name: Limited
+ Router ID: 1
+ Router Name: hotspot
+ Price: 3
+Buy action triggered with route2: 0 and route3: 4
+Available payment gateway: paystack
+Selected Plan ID: 4, Plan Name: Top Up 100
+Pay Now action triggered with gateway: paystack
+Received Router ID: 0, Plan ID: 4
+Router selected: ID = 0, Name = balance
+Attempting to fetch Plan ID: 4
+Plan ID in pay_now: 4, Plan Name: Top Up 100
+Transaction created with ID: 18
+Transaction details: 
+ Plan ID: 4
+ Plan Name: Top Up 100
+ Router ID: 0
+ Router Name: balance
+ Price: 250
+Buy action triggered with route2: Test Router and route3: 4
+Payment gateway configuration not found.
+Buy action triggered with route2: 2 and route3: 
+Available payment gateway: paystack
+Plan not found with ID: 
+Buy action triggered with route2: 2 and route3: 
+Available payment gateway: paystack
+Plan not found with ID: 
+Buy action triggered with route2: 2 and route3: 
+Available payment gateway: paystack
+Plan not found with ID: 
+Buy action triggered with route2: 1 and route3: 2
+Available payment gateway: paystack
+Selected Plan ID: 2, Plan Name: 5 mbps
+Buy action triggered with route2: 1 and route3: 2
+Available payment gateway: paystack
+Selected Plan ID: 2, Plan Name: 5 mbps
+Pay Now action triggered with gateway: paystack
+Received Router ID: 1, Plan ID: 2
+Router selected: ID = 1, Name = Test Router
+Attempting to fetch Plan ID: 2
+Plan ID in pay_now: 2, Plan Name: 5 mbps
+Transaction created with ID: 1
+Transaction details: 
+ Plan ID: 2
+ Plan Name: 5 mbps
+ Router ID: 1
+ Router Name: Test Router
+ Price: 5
+Buy action triggered with route2: 1 and route3: 29
+Available payment gateway: xendit
+Selected Plan ID: 29, Plan Name: 6 HRS
+Pay Now action triggered with gateway: xendit
+Received Router ID: 1, Plan ID: 29
+Router selected: ID = 1, Name = Allinonecomrade
+Attempting to fetch Plan ID: 29
+Plan ID in pay_now: 29, Plan Name: 6 HRS
+Transaction created with ID: 85
+Transaction details: 
+ Plan ID: 29
+ Plan Name: 6 HRS
+ Router ID: 1
+ Router Name: Allinonecomrade
+ Price: 150
+Buy action triggered with route2: 1 and route3: 29
+Available payment gateway: xendit
+Selected Plan ID: 29, Plan Name: 6 HRS
+Pay Now action triggered with gateway: xendit
+Received Router ID: 1, Plan ID: 29
+Router selected: ID = 1, Name = Allinonecomrade
+Attempting to fetch Plan ID: 29
+Plan ID in pay_now: 29, Plan Name: 6 HRS
+Unpaid transaction found. Redirecting to payment page.
+Buy action triggered with route2: 1 and route3: 29
+Available payment gateway: xendit
+Selected Plan ID: 29, Plan Name: 6 HRS
+Pay Now action triggered with gateway: xendit
+Received Router ID: 1, Plan ID: 29
+Router selected: ID = 1, Name = Allinonecomrade
+Attempting to fetch Plan ID: 29
+Plan ID in pay_now: 29, Plan Name: 6 HRS
+Transaction created with ID: 86
+Transaction details: 
+ Plan ID: 29
+ Plan Name: 6 HRS
+ Router ID: 1
+ Router Name: Allinonecomrade
+ Price: 150
+Buy action triggered with route2: 1 and route3: 29
+Available payment gateway: xendit
+Selected Plan ID: 29, Plan Name: 6 HRS
+Pay Now action triggered with gateway: xendit
+Received Router ID: 1, Plan ID: 29
+Router selected: ID = 1, Name = Allinonecomrade
+Attempting to fetch Plan ID: 29
+Plan ID in pay_now: 29, Plan Name: 6 HRS
+Transaction created with ID: 86
+Transaction details: 
+ Plan ID: 29
+ Plan Name: 6 HRS
+ Router ID: 1
+ Router Name: Allinonecomrade
+ Price: 150
+Buy action triggered with route2: 1 and route3: 29
+Available payment gateway: xendit
+Selected Plan ID: 29, Plan Name: 6 HRS
+Buy action triggered with route2: 1 and route3: 29
+Buy action triggered with route2: 1 and route3: 29
+Pay Now action triggered with gateway: 
+Received Router ID: , Plan ID: 
+Buy action triggered with route2: 1 and route3: 29
+Available payment gateway: xendit
+Selected Plan ID: 29, Plan Name: 6 HRS
+Pay Now action triggered with gateway: xendit
+Received Router ID: 1, Plan ID: 29
+Router selected: ID = 1, Name = Allinonecomrade
+Attempting to fetch Plan ID: 29
+Plan ID in pay_now: 29, Plan Name: 6 HRS
+Transaction created with ID: 86
+Transaction details: 
+ Plan ID: 29
+ Plan Name: 6 HRS
+ Router ID: 1
+ Router Name: Allinonecomrade
+ Price: 150
+Buy action triggered with route2: 1 and route3: 29
+Available payment gateway: xendit
+Selected Plan ID: 29, Plan Name: 6 HRS
+Buy action triggered with route2: 1 and route3: 29
+Available payment gateway: xendit
+Selected Plan ID: 29, Plan Name: 6 HRS
+Pay Now action triggered with gateway: xendit
+Received Router ID: 1, Plan ID: 29
+Router selected: ID = 1, Name = Allinonecomrade
+Attempting to fetch Plan ID: 29
+Plan ID in pay_now: 29, Plan Name: 6 HRS
+Buy action triggered with route2: 1 and route3: 29
+Available payment gateway: xendit
+Selected Plan ID: 29, Plan Name: 6 HRS
+Buy action triggered with route2: 1 and route3: 29
+Available payment gateway: xendit
+Selected Plan ID: 29, Plan Name: 6 HRS
+Pay Now action triggered with gateway: xendit
+Received Router ID: 1, Plan ID: 29
+Router selected: ID = 1, Name = Allinonecomrade
+Attempting to fetch Plan ID: 29
+Plan ID in pay_now: 29, Plan Name: 6 HRS
+Transaction created with ID: 87
+Transaction details: 
+ Plan ID: 29
+ Plan Name: 6 HRS
+ Router ID: 1
+ Router Name: Allinonecomrade
+ Price: 150
+Buy action triggered with route2: 1 and route3: 29
+Available payment gateway: xendit
+Selected Plan ID: 29, Plan Name: 6 HRS
+Buy action triggered with route2: 1 and route3: 29
+Available payment gateway: xendit
+Selected Plan ID: 29, Plan Name: 6 HRS
+Pay Now action triggered with gateway: xendit
+Received Router ID: 1, Plan ID: 29
+Router selected: ID = 1, Name = Allinonecomrade
+Attempting to fetch Plan ID: 29
+Plan ID in pay_now: 29, Plan Name: 6 HRS
+Transaction created with ID: 88
+Transaction details: 
+ Plan ID: 29
+ Plan Name: 6 HRS
+ Router ID: 1
+ Router Name: Allinonecomrade
+ Price: 150
+Buy action triggered with route2: 1 and route3: 29
+Available payment gateway: xendit
+Selected Plan ID: 29, Plan Name: 6 HRS
+Pay Now action triggered with gateway: 
+Received Router ID: , Plan ID: 
+Buy action triggered with route2: 1 and route3: 29
+Available payment gateway: xendit
+Selected Plan ID: 29, Plan Name: 6 HRS
+Pay Now action triggered with gateway: xendit
+Received Router ID: 1, Plan ID: 29
+Router selected: ID = 1, Name = Allinonecomrade
+Attempting to fetch Plan ID: 29
+Plan ID in pay_now: 29, Plan Name: 6 HRS
+Transaction created with ID: 91
+Transaction details: 
+ Plan ID: 29
+ Plan Name: 6 HRS
+ Router ID: 1
+ Router Name: Allinonecomrade
+ Price: 150
+Buy action triggered with route2: 1 and route3: 29
+Available payment gateway: xendit
+Selected Plan ID: 29, Plan Name: 6 HRS
+Pay Now action triggered with gateway: xendit
+Received Router ID: 1, Plan ID: 29
+Router selected: ID = 1, Name = Allinonecomrade
+Attempting to fetch Plan ID: 29
+Plan ID in pay_now: 29, Plan Name: 6 HRS
+Transaction created with ID: 92
+Transaction details: 
+ Plan ID: 29
+ Plan Name: 6 HRS
+ Router ID: 1
+ Router Name: Allinonecomrade
+ Price: 150
+Buy action triggered with route2: 1 and route3: 29
+Available payment gateway: xendit
+Selected Plan ID: 29, Plan Name: 6 HRS
+Pay Now action triggered with gateway: xendit
+Received Router ID: 1, Plan ID: 29
+Router selected: ID = 1, Name = Allinonecomrade
+Attempting to fetch Plan ID: 29
+Plan ID in pay_now: 29, Plan Name: 6 HRS
+Transaction created with ID: 93
+Transaction details: 
+ Plan ID: 29
+ Plan Name: 6 HRS
+ Router ID: 1
+ Router Name: Allinonecomrade
+ Price: 150
+Buy action triggered with route2: 1 and route3: 29
+Available payment gateway: xendit
+Selected Plan ID: 29, Plan Name: 6 HRS
+Pay Now action triggered with gateway: xendit
+Received Router ID: 1, Plan ID: 29
+Router selected: ID = 1, Name = Allinonecomrade
+Attempting to fetch Plan ID: 29
+Plan ID in pay_now: 29, Plan Name: 6 HRS
+Transaction created with ID: 94
+Transaction details: 
+ Plan ID: 29
+ Plan Name: 6 HRS
+ Router ID: 1
+ Router Name: Allinonecomrade
+ Price: 150
+Buy action triggered with route2: 1 and route3: 29
+Available payment gateway: xendit
+Selected Plan ID: 29, Plan Name: 6 HRS
+Buy action triggered with route2: 1 and route3: 29
+Available payment gateway: xendit
+Selected Plan ID: 29, Plan Name: 6 HRS
+Pay Now action triggered with gateway: xendit
+Received Router ID: 1, Plan ID: 29
+Router selected: ID = 1, Name = Allinonecomrade
+Attempting to fetch Plan ID: 29
+Plan ID in pay_now: 29, Plan Name: 6 HRS
+Transaction created with ID: 95
+Transaction details: 
+ Plan ID: 29
+ Plan Name: 6 HRS
+ Router ID: 1
+ Router Name: Allinonecomrade
+ Price: 150
+Buy action triggered with route2: 1 and route3: 29
+Available payment gateway: xendit
+Selected Plan ID: 29, Plan Name: 6 HRS
+Buy action triggered with route2: 1 and route3: 29
+Available payment gateway: xendit
+Selected Plan ID: 29, Plan Name: 6 HRS
+Pay Now action triggered with gateway: xendit
+Received Router ID: 1, Plan ID: 29
+Router selected: ID = 1, Name = Allinonecomrade
+Attempting to fetch Plan ID: 29
+Plan ID in pay_now: 29, Plan Name: 6 HRS
+Transaction created with ID: 96
+Transaction details: 
+ Plan ID: 29
+ Plan Name: 6 HRS
+ Router ID: 1
+ Router Name: Allinonecomrade
+ Price: 150
+Buy action triggered with route2: 1 and route3: 29
+Available payment gateway: xendit
+Selected Plan ID: 29, Plan Name: 6 HRS
+Buy action triggered with route2: 1 and route3: 29
+Available payment gateway: xendit
+Selected Plan ID: 29, Plan Name: 6 HRS
+Buy action triggered with route2: 1 and route3: 29
+Available payment gateway: xendit
+Selected Plan ID: 29, Plan Name: 6 HRS
+Buy action triggered with route2: 1 and route3: 29
+Available payment gateway: xendit
+Selected Plan ID: 29, Plan Name: 6 HRS
+Buy action triggered with route2: 1 and route3: 29
+Available payment gateway: xendit
+Selected Plan ID: 29, Plan Name: 6 HRS
+Buy action triggered with route2: 1 and route3: 29
+Available payment gateway: xendit
+Selected Plan ID: 29, Plan Name: 6 HRS
+Pay Now action triggered with gateway: xendit
+Received Router ID: 1, Plan ID: 29
+Router selected: ID = 1, Name = Allinonecomrade
+Attempting to fetch Plan ID: 29
+Plan ID in pay_now: 29, Plan Name: 6 HRS
+Transaction created with ID: 102
+Transaction details: 
+ Plan ID: 29
+ Plan Name: 6 HRS
+ Router ID: 1
+ Router Name: Allinonecomrade
+ Price: 150
+Buy action triggered with route2: 1 and route3: 29
+Available payment gateway: xendit
+Selected Plan ID: 29, Plan Name: 6 HRS
+Pay Now action triggered with gateway: xendit
+Received Router ID: 1, Plan ID: 29
+Router selected: ID = 1, Name = Allinonecomrade
+Attempting to fetch Plan ID: 29
+Plan ID in pay_now: 29, Plan Name: 6 HRS
+Transaction created with ID: 103
+Transaction details: 
+ Plan ID: 29
+ Plan Name: 6 HRS
+ Router ID: 1
+ Router Name: Allinonecomrade
+ Price: 150
+Buy action triggered with route2: 1 and route3: 1
+Available payment gateway: selcom
+Selected Plan ID: 1, Plan Name: 6 HRS
+Pay Now action triggered with gateway: selcom
+Received Router ID: 1, Plan ID: 1

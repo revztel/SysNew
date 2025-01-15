@@ -1,0 +1,166 @@
+[2024-12-20 23:59:00] Received data: Array
+(
+    [phone_number] => 0796381603
+    [plan_id] => 29
+    [router_id] => 1
+    [mac_address] => $(mac)
+)
+
+[2024-12-20 23:59:00] Xendit credentials fetched. Channels: VISA_MASTERCARD,CHINABANK,GCASH,GRABPAY,SHOPEEPAY
+[2024-12-20 23:59:00] Plan: 6 HRS, Price: 10, Router: Allinonecomrade
+[2024-12-20 23:59:00] Transaction record created: 61
+[2024-12-21 00:01:43] Received data: Array
+(
+    [phone_number] => 0796381603
+    [plan_id] => 29
+    [router_id] => 1
+    [mac_address] => $(mac)
+)
+
+[2024-12-21 00:01:43] Xendit credentials fetched. Channels: SHOPEEPAY
+[2024-12-21 00:01:43] Plan: 6 HRS, Price: 10, Router: Allinonecomrade
+[2024-12-21 00:01:43] Transaction record created: 62
+[2024-12-21 00:03:17] Received data: Array
+(
+    [phone_number] => 0796381603
+    [plan_id] => 29
+    [router_id] => 1
+    [mac_address] => $(mac)
+)
+
+[2024-12-21 00:03:17] Xendit credentials fetched. Channels: SHOPEEPAY
+[2024-12-21 00:03:17] Plan: 6 HRS, Price: 10, Router: Allinonecomrade
+[2024-12-21 00:03:18] Transaction record created: 63
+[2024-12-21 00:06:13] Received data: Array
+(
+    [phone_number] => 0796381603
+    [plan_id] => 29
+    [router_id] => 1
+    [mac_address] => $(mac)
+)
+
+[2024-12-21 00:06:13] Xendit credentials fetched. Channels: SHOPEEPAY
+[2024-12-21 00:06:13] Plan: 6 HRS, Price: 10, Router: Allinonecomrade
+[2024-12-21 00:06:13] Transaction record created: 64
+[2024-12-21 00:07:42] Received data: Array
+(
+    [phone_number] => 0111777770
+    [plan_id] => 29
+    [router_id] => 1
+    [mac_address] => $(mac)
+)
+
+[2024-12-21 00:07:42] Xendit credentials fetched. Channels: SHOPEEPAY
+[2024-12-21 00:07:42] Plan: 6 HRS, Price: 10, Router: Allinonecomrade
+[2024-12-21 00:07:42] Transaction record created: 65
+[2024-12-21 00:11:59] Received data: Array
+(
+    [phone_number] => 0796381603
+    [plan_id] => 29
+    [router_id] => 1
+    [mac_address] => $(mac)
+)
+
+[2024-12-21 00:11:59] Xendit credentials fetched. Channels: SHOPEEPAY
+[2024-12-21 00:11:59] Plan: 6 HRS, Price: 150, Router: Allinonecomrade
+[2024-12-21 00:12:00] Transaction record created: 66
+[2024-12-21 00:12:38] Received data: Array
+(
+    [phone_number] => 0796381603
+    [plan_id] => 29
+    [router_id] => 1
+    [mac_address] => $(mac)
+)
+
+[2024-12-21 00:12:38] Xendit credentials fetched. Channels: SHOPEEPAY
+[2024-12-21 00:12:38] Plan: 6 HRS, Price: 150, Router: Allinonecomrade
+[2024-12-21 00:12:38] Transaction record created: 67
+[2024-12-21 00:43:57] Received data: 
+[2024-12-21 00:53:36] Received data: Array
+(
+    [phone_number] => 0796381603
+    [plan_id] => 29
+    [router_id] => 1
+    [mac_address] => $(mac)
+)
+
+[2024-12-21 00:53:36] Xendit credentials fetched. Channels: SHOPEEPAY
+[2024-12-21 00:53:36] Plan: 6 HRS, Price: 150, Router: Allinonecomrade
+[2024-12-21 00:53:36] Transaction record created: 68
+[2024-12-21 00:54:04] Received data: Array
+(
+    [phone_number] => 0796381603
+    [plan_id] => 29
+    [router_id] => 1
+    [mac_address] => $(mac)
+)
+
+[2024-12-21 00:54:04] Xendit credentials fetched. Channels: SHOPEEPAY
+[2024-12-21 00:54:04] Plan: 6 HRS, Price: 150, Router: Allinonecomrade
+[2024-12-21 00:54:04] Transaction record created: 69
+[2024-12-21 00:54:07] Received data: Array
+(
+    [phone_number] => 0796381603
+    [plan_id] => 29
+    [router_id] => 1
+    [mac_address] => $(mac)
+)
+
+[2024-12-21 00:54:07] Xendit credentials fetched. Channels: SHOPEEPAY
+[2024-12-21 00:54:07] Plan: 6 HRS, Price: 150, Router: Allinonecomrade
+[2024-12-21 00:54:07] Transaction record created: 70
+[2024-12-21 00:57:07] Received data: Array
+(
+    [phone_number] => 0796381603
+    [plan_id] => 29
+    [router_id] => 1
+    [mac_address] => $(mac)
+)
+
+[2024-12-21 00:57:07] Xendit credentials fetched. Channels: SHOPEEPAY
+[2024-12-21 00:57:07] Plan: 6 HRS, Price: 150, Router: Allinonecomrade
+[2024-12-21 00:57:07] Transaction record created: 71
+[2024-12-21 00:58:42] Received data: Array
+(
+    [phone_number] => 0796381603
+    [plan_id] => 29
+    [router_id] => 1
+    [mac_address] => $(mac)
+)
+
+[2024-12-21 00:58:42] Xendit credentials fetched. Channels: SHOPEEPAY
+[2024-12-21 00:58:42] Plan: 6 HRS, Price: 150, Router: Allinonecomrade
+[2024-12-21 00:58:42] Transaction record created: 72
+[2024-12-21 00:59:59] Received data: Array
+(
+    [phone_number] => 0796381603
+    [plan_id] => 29
+    [router_id] => 1
+    [mac_address] => $(mac)
+)
+
+[2024-12-21 00:59:59] Xendit credentials fetched. Channels: SHOPEEPAY
+[2024-12-21 00:59:59] Plan: 6 HRS, Price: 150, Router: Allinonecomrade
+[2024-12-21 00:59:59] Transaction record created: 73
+[2024-12-21 01:00:59] Received data: Array
+(
+    [phone_number] => 0796381603
+    [plan_id] => 29
+    [router_id] => 1
+    [mac_address] => $(mac)
+)
+
+[2024-12-21 01:00:59] Xendit credentials fetched. Channels: SHOPEEPAY
+[2024-12-21 01:00:59] Plan: 6 HRS, Price: 150, Router: Allinonecomrade
+[2024-12-21 01:00:59] Transaction record created: 74
+[2024-12-21 09:31:50] Received data: Array
+(
+    [phone_number] => 0111777770
+    [plan_id] => 29
+    [router_id] => 1
+    [mac_address] => $(mac)
+)
+
+[2024-12-21 09:31:50] Xendit credentials fetched. Channels: SHOPEEPAY
+[2024-12-21 09:31:50] Plan: 6 HRS, Price: 150, Router: Allinonecomrade
+[2024-12-21 09:31:51] Transaction record created: 75
